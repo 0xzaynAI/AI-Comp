@@ -151,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_想法草稿/2026年5月_小众AI创业机会清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026年5月_小众AI创业机会清单 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -170,12 +169,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_想法草稿/2026年5月_小众AI创业机会清单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026年5月_小众AI创业机会清单 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -213,13 +211,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_想法草稿/2026年5月_小众AI创业机会清单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026年5月_小众AI创业机会清单 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -253,8 +250,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4b7008a6768aed72",
+  "active": "f3af44a21da59332",
   "lastOpenFiles": [
+    "05_想法草稿/2026年5月_小众AI创业机会清单.md",
     "00_公司/任务进度.md",
     "00_公司/团队成员/Hermes.md",
     "00_公司/团队成员/老板.md",
@@ -273,7 +271,6 @@
     "README.md",
     "07_产品",
     "06_产品需求文档",
-    "05_想法草稿/2026年5月_小众AI创业机会清单.md",
     "05_想法草稿",
     "04_需求分析",
     "03_用户分析",
