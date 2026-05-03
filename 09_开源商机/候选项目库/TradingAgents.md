@@ -1,10 +1,22 @@
-# TradingAgents
+---
+name: TradingAgents
+source: GitHub Trending
+url: https://github.com/TauricResearch/TradingAgents
+stars: 59800
+star_growth_weekly: 11500
+category: 金融科技
+date: 2026-05-03
+problem: 个人投资者缺乏机构级量化交易分析能力
+target_user: 个人投资者/交易员
+willingness_to_pay: $20-50/月
+mvp_feasibility: ✅ 1周
+competitors: TradingView ($15-30/月), TrendSpider ($40-100), LevelFields ($19-49)
+reviewed: false
+prd_started: false
+research_done: false
+---
 
-- **来源**: GitHub Trending
-- **链接**: https://github.com/TauricResearch/TradingAgents
-- **Stars**: ⭐ 59,800（周增 +11,500）
-- **分类**: 金融科技 / AI Agent
-- **入选日期**: 2026-05-03
+# TradingAgents
 
 ## 分析
 

@@ -1,10 +1,21 @@
-# Feather
+---
+name: Feather
+source: Product Hunt
+url: https://www.producthunt.com/products/feather
+stars: 176
+category: AI + 内容创作
+date: 2026-05-03
+problem: 普通人修图难，云端修图有隐私顾虑
+target_user: 普通用户/隐私敏感用户
+willingness_to_pay: $5-15/月
+mvp_feasibility: ✅ 1周
+competitors: Adobe Lightroom ($9.99/月), Luminar Neo ($79), Photoroom ($11.99/月)
+reviewed: false
+prd_started: false
+research_done: false
+---
 
-- **来源**: Product Hunt（May 2 日榜 #3）
-- **链接**: https://www.producthunt.com/products/feather
-- **票数**: 176 votes
-- **分类**: AI + 内容创作
-- **入选日期**: 2026-05-03
+# Feather
 
 ## 分析
 

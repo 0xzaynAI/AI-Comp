@@ -1,10 +1,21 @@
-# Stanzio
+---
+name: Stanzio
+source: Hacker News
+url: https://bestofshowhn.com/2026/5
+stars: 92
+category: AI + 内容创作
+date: 2026-05-03
+problem: 职场人做 PPT 耗时且需要设计能力
+target_user: 职场人士/教育者/创业者
+willingness_to_pay: $10-25/月
+mvp_feasibility: ✅ 1周
+competitors: Gamma ($8-20/月, 200万用户), Beautiful.ai ($12-40), Tome ($10-20)
+reviewed: false
+prd_started: false
+research_done: false
+---
 
-- **来源**: Hacker News Show HN
-- **链接**: https://bestofshowhn.com/2026/5
-- **票数**: 92 votes
-- **分类**: AI + 内容创作
-- **入选日期**: 2026-05-03
+# Stanzio
 
 ## 分析
 
