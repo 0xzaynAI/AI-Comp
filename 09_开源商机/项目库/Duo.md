@@ -4,6 +4,8 @@ source: Hacker News
 url: https://bestofshowhn.com/2026/5
 stars: 0
 category: 消费者工具
+function: 双人协作/配对工具
+scenario: 社交匹配、协作配对
 date: 2026-05-03
 status: candidate
 problem: 待调研

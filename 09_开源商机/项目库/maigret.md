@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/soxoj/maigret
 stars: 21500
 category: SaaS 替代品
+function: OSINT 开源情报用户名搜索工具
+scenario: 安全研究、社交媒体账号关联调查
 date: 2026-05-03
 status: candidate
 problem: 待调研

@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/D4Vinci/Scrapling
 stars: 0
 category: 开发者工具
+function: Python 轻量级网页爬虫框架
+scenario: 开发者数据采集
 date: 2026-05-03
 status: rejected
 reject_reason: Python 爬虫框架，开发者工具/库

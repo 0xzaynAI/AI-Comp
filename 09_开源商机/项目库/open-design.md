@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/nexu-io/open-design
 stars: 12000
 category: 内容创作
+function: AI 驱动的开源设计工具
+scenario: UI 设计稿生成、设计协作
 date: 2026-05-03
 status: candidate
 problem: 待调研

@@ -4,6 +4,8 @@ source: Product Hunt
 url: https://www.producthunt.com/products/filect
 stars: 0
 category: 非开发者工具
+function: 智能文件管理与整理工具
+scenario: 文件分类、去重、云同步
 date: 2026-05-03
 status: candidate
 problem: 待调研

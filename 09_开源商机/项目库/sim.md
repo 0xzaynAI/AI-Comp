@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/simstudioai/sim
 stars: 15000
 category: SaaS 替代品
+function: AI 应用可视化构建平台
+scenario: 非开发者搭建 AI 应用、LLM 工作流
 date: 2026-05-03
 status: candidate
 problem: 待调研

@@ -4,6 +4,8 @@ source: Hacker News
 url: https://bestofshowhn.com/2026/5
 stars: 0
 category: 开发者工具
+function: Git Issue 管理与追踪工具
+scenario: 开发者项目管理
 date: 2026-05-03
 status: rejected
 reject_reason: Git Issue 管理工具，面向开发者，不面向终端消费者

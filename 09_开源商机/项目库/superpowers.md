@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/obra/superpowers
 stars: 0
 category: 开发者工具
+function: AI Agent 开发框架与技能系统
+scenario: AI 应用开发者构建 Agent
 date: 2026-05-03
 status: rejected
 reject_reason: AI Agent 开发框架/Skill 系统，面向开发者

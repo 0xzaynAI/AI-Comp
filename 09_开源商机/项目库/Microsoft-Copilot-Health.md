@@ -4,6 +4,8 @@ source: Product Hunt
 url: https://www.producthunt.com/products/copilot-health
 stars: 0
 category: 健康/医疗
+function: 微软 AI 健康助手
+scenario: 医疗问诊、健康管理、病历分析
 date: 2026-05-03
 status: candidate
 problem: 待调研

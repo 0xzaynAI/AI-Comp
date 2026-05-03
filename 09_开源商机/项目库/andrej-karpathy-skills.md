@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/forrestchang/andrej-karpathy-skills
 stars: 0
 category: 开发者工具
+function: Andrej Karpathy AI 技能集合
+scenario: AI 开发者学习参考
 date: 2026-05-03
 status: rejected
 reject_reason: AI 研究员技能库，面向开发者学习，非消费者产品

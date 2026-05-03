@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/tonhowtf/omniget
 stars: 2400
 category: 教育/学习
+function: 多源文件下载管理器
+scenario: 批量下载、多平台资源获取
 date: 2026-05-03
 status: candidate
 problem: 待调研

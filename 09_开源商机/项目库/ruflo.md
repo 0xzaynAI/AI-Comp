@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/ruvnet/ruflo
 stars: 35500
 category: 生产力工具
+function: 工作流自动化与编排工具
+scenario: 个人/团队自动化任务编排
 date: 2026-05-03
 status: candidate
 problem: 待调研

@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/NousResearch/hermes-agent
 stars: 66000
 category: AI 应用层
+function: 开源可定制的个人 AI Agent 平台
+scenario: 个人 AI 助手、自动化工作流
 date: 2026-05-03
 status: candidate
 problem: 待调研

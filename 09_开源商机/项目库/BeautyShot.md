@@ -4,6 +4,8 @@ source: Hacker News
 url: https://bestofshowhn.com/2026/5
 stars: 0
 category: 内容创作
+function: AI 美容/美颜照片处理
+scenario: 社交媒体内容创作、个人形象照
 date: 2026-05-03
 status: candidate
 problem: 待调研

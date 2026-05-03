@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/microsoft/VibeVoice
 stars: 15000
 category: 内容创作
+function: 微软 AI 语音合成与声音克隆
+scenario: 内容创作、播客、语音助手
 date: 2026-05-03
 status: candidate
 problem: 待调研

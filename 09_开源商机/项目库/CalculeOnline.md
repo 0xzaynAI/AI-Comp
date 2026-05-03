@@ -4,6 +4,8 @@ source: Hacker News
 url: https://bestofshowhn.com/2026/5
 stars: 0
 category: 金融科技
+function: 在线科学计算与数学工具
+scenario: 学生/工程师数学计算
 date: 2026-05-03
 status: candidate
 problem: 待调研

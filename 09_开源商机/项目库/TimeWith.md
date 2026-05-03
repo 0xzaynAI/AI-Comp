@@ -4,6 +4,8 @@ source: Hacker News
 url: https://bestofshowhn.com/2026/5
 stars: 0
 category: 消费者工具
+function: 时间管理与日程协调工具
+scenario: 团队日程协调、会议安排
 date: 2026-05-03
 status: candidate
 problem: 待调研

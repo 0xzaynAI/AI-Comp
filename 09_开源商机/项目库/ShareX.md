@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/ShareX/ShareX
 stars: 32000
 category: 非开发者工具
+function: 截图、录屏与文件分享工具
+scenario: 内容创作者/开发者日常截图分享
 date: 2026-05-03
 status: candidate
 problem: 待调研

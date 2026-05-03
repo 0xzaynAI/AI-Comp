@@ -4,6 +4,8 @@ source: Product Hunt
 url: https://www.producthunt.com/products/ara
 stars: 0
 category: SaaS 替代品
+function: AI 个人助手
+scenario: 日常任务管理、信息查询
 date: 2026-05-03
 status: candidate
 problem: 待调研

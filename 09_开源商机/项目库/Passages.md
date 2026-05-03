@@ -4,6 +4,8 @@ source: Hacker News
 url: https://bestofshowhn.com/2026/5
 stars: 0
 category: 消费者工具
+function: AI 阅读与内容摘要工具
+scenario: 长文阅读、知识管理
 date: 2026-05-03
 status: candidate
 problem: 待调研

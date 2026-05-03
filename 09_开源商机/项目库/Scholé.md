@@ -4,6 +4,8 @@ source: Product Hunt
 url: https://www.producthunt.com/products/schole
 stars: 0
 category: 教育/学习
+function: AI 驱动的学习平台
+scenario: 在线教育、个性化学习路径
 date: 2026-05-03
 status: candidate
 problem: 待调研

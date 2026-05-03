@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/warpdotdev/warp
 stars: 0
 category: 开发者工具
+function: Rust 高性能终端模拟器
+scenario: 开发者日常终端操作
 date: 2026-05-03
 status: rejected
 reject_reason: Rust 写的终端模拟器，纯开发者工具

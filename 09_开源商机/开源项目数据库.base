@@ -4,20 +4,39 @@ views:
     filters:
       and:
         - file.inFolder("09_开源商机/项目库")
+        - competitors != "不适用"
     order:
+      - file.name
       - url
-      - target_user
       - stars
+      - category
+      - scenario
+      - select_reason
       - star_growth_weekly
       - source
-      - reviewed
       - research_done
-      - file.path
-      - file.name
+      - reviewed
+      - target_user
+      - prd_started
+      - competitors
+      - problem
+      - reject_reason
+      - status
+      - willingness_to_pay
+      - mvp_feasibility
+      - file.links
+      - function
     sort:
+      - property: problem
+        direction: ASC
       - property: stars
         direction: DESC
     columnSize:
+      file.name: 179
+      note.url: 97
       note.stars: 91
+      note.target_user: 114
+      note.competitors: 116
+      note.reject_reason: 119
   - type: cards
     name: 视图

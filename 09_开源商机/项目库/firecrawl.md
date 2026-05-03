@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/firecrawl/firecrawl
 stars: 113900
 category: 生产力工具
+function: AI 网页抓取与内容提取 API
+scenario: AI 应用数据采集、网页内容结构化
 date: 2026-05-03
 status: candidate
 problem: 待调研

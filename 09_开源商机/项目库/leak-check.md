@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/garinasset/leak-check
 stars: 3400
 category: SaaS 替代品
+function: 密码泄露检测与安全审计工具
+scenario: 个人/企业安全检查、凭证泄露监控
 date: 2026-05-03
 status: candidate
 problem: 待调研

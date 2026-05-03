@@ -4,6 +4,8 @@ source: Hacker News
 url: https://bestofshowhn.com/2026/5
 stars: 0
 category: 消费者工具
+function: 聊天内容转地图可视化
+scenario: 旅行规划、地点分享
 date: 2026-05-03
 status: candidate
 problem: 待调研

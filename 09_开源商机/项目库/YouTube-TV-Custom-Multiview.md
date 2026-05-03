@@ -4,6 +4,8 @@ source: Product Hunt
 url: https://www.producthunt.com/products/youtube-tv-multiview
 stars: 0
 category: 内容创作
+function: YouTube TV 多画面同时观看
+scenario: 体育赛事多屏观看、内容监控
 date: 2026-05-03
 status: candidate
 problem: 待调研

@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/cloudflare/agentic-inbox
 stars: 9000
 category: 非开发者工具
+function: Cloudflare AI 智能邮件助手
+scenario: 邮件自动分类、智能回复、日程提取
 date: 2026-05-03
 status: candidate
 problem: 待调研

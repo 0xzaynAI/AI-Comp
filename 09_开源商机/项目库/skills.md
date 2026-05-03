@@ -4,6 +4,8 @@ source: GitHub Trending
 url: https://github.com/mattpocock/skills
 stars: 0
 category: 开发者工具
+function: TypeScript 开发者技能教学库
+scenario: 开发者学习
 date: 2026-05-03
 status: rejected
 reject_reason: TypeScript 开发者技能教学，目标用户是开发者，不面向终端消费者

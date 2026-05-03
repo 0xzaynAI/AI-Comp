@@ -4,6 +4,8 @@ source: Hacker News
 url: https://bestofshowhn.com/2026/5
 stars: 0
 category: 非开发者工具
+function: 个人健康与卫生管理工具
+scenario: 健康追踪、习惯养成
 date: 2026-05-03
 status: candidate
 problem: 待调研

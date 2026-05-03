@@ -4,6 +4,8 @@ source: Hacker News
 url: https://bestofshowhn.com/2026/5
 stars: 0
 category: 教育/学习
+function: 划词翻译工具
+scenario: 多语言阅读、网页翻译
 date: 2026-05-03
 status: candidate
 problem: 待调研
