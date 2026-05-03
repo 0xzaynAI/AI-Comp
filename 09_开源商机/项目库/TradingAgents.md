@@ -8,6 +8,8 @@ category: 金融科技
 function: 多智能体股票交易分析框架
 scenario: 个人投资者量化分析、交易信号生成
 date: 2026-05-03
+status: selected
+select_reason: 周增11.5K⭐爆发增长，金融科技+AI Agent稀缺组合，付费意愿强($20-50/月)，中文市场差异化切口
 problem: 个人投资者缺乏机构级量化交易分析能力
 target_user: 个人投资者/交易员
 willingness_to_pay: $20-50/月

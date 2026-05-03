@@ -7,6 +7,8 @@ category: AI + 内容创作
 function: AI文本转幻灯片生成
 scenario: 职场PPT制作、教育培训演示
 date: 2026-05-03
+status: selected
+select_reason: AI+PPT已验证市场(Gamma 200万用户)，技术实现简单(LLM+模板引擎)，中文市场空白
 problem: 职场人做 PPT 耗时且需要设计能力
 target_user: 职场人士/教育者/创业者
 willingness_to_pay: $10-25/月

@@ -3,7 +3,7 @@ views:
     name: 表格
     filters:
       and:
-        - file.inFolder("09_开源商机/候选项目库")
+        - file.inFolder("09_开源商机/项目库")
     order:
       - url
       - target_user
@@ -14,6 +14,9 @@ views:
       - research_done
       - file.path
       - file.name
+    sort:
+      - property: stars
+        direction: DESC
     columnSize:
       note.stars: 91
   - type: cards
