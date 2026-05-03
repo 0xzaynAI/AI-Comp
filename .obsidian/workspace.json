@@ -16,14 +16,14 @@
                 "id": "4b7008a6768aed72",
                 "type": "leaf",
                 "state": {
-                  "type": "split-diff-view",
+                  "type": "markdown",
                   "state": {
-                    "aFile": "09_开源商机/候选项目库/开源商机项目数据库.base",
-                    "bFile": "09_开源商机/候选项目库/开源商机项目数据库.base",
-                    "aRef": ""
+                    "file": "09_开源商机/开源商机数据库.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "diff",
-                  "title": "Diff: 开源商机项目数据库.base  (Working Tree)"
+                  "icon": "lucide-file",
+                  "title": "开源商机数据库"
                 }
               }
             ]
@@ -256,13 +256,13 @@
   "active": "4b7008a6768aed72",
   "lastOpenFiles": [
     "09_开源商机/候选项目库/开源商机项目数据库.base",
+    "09_开源商机/开源商机数据库.md",
     "09_开源商机/README.md",
     "09_开源商机/周报归档/精选Top3_2026-W18.md",
     "09_开源商机/周报归档/周报_2026-05-03.md",
     "09_开源商机/候选项目库/TradingAgents.md",
     "09_开源商机/候选项目库/Stanzio.md",
     "09_开源商机/候选项目库/Feather.md",
-    "09_开源商机/开源商机数据库.md",
     "05_想法草稿/AI行业Newsletter_方向调研.md",
     "05_想法草稿/多语言Listing生成器_方向调研.md",
     "05_想法草稿/小众_Chrome扩展.md",
