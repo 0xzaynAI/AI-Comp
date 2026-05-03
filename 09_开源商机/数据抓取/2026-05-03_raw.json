@@ -1,0 +1,291 @@
+[
+  {
+    "source": "github",
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "stars": 53200,
+    "weekly_growth": 3925,
+    "topics": ["ai-skills", "claude-code", "developer-tools"]
+  },
+  {
+    "source": "github",
+    "name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "Multi-Agents LLM Financial Trading Framework",
+    "stars": 59800,
+    "weekly_growth": 11500,
+    "topics": ["ai-agent", "fintech", "trading"]
+  },
+  {
+    "source": "github",
+    "name": "nexu-io/open-design",
+    "url": "https://github.com/nexu-io/open-design",
+    "description": "Local-first, open-source alternative to Anthropic's Claude Design. 19 Skills · 71 brand-grade Design Systems. Generate web/desktop/mobile prototypes, slides, images, videos, HyperFrames.",
+    "stars": 12000,
+    "weekly_growth": 1300,
+    "topics": ["ai-agent", "design", "prototype", "open-source"]
+  },
+  {
+    "source": "github",
+    "name": "warpdotdev/warp",
+    "url": "https://github.com/warpdotdev/warp",
+    "description": "Agentic development environment, born out of the terminal.",
+    "stars": 51200,
+    "weekly_growth": 3400,
+    "topics": ["ai-agent", "developer-tools", "terminal"]
+  },
+  {
+    "source": "github",
+    "name": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "description": "Leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows.",
+    "stars": 35500,
+    "weekly_growth": 4100,
+    "topics": ["ai-agent", "workflow", "automation"]
+  },
+  {
+    "source": "github",
+    "name": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "stars": 105300,
+    "weekly_growth": 10400,
+    "topics": ["ai-skills", "claude-code", "developer-tools"]
+  },
+  {
+    "source": "github",
+    "name": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "description": "Adaptive Web Scraping framework — handles everything from a single request to a full-scale crawl!",
+    "stars": 39900,
+    "weekly_growth": 3600,
+    "topics": ["web-scraping", "developer-tools"]
+  },
+  {
+    "source": "github",
+    "name": "soxoj/maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "description": "Collect a dossier on a person by username from 3000+ sites",
+    "stars": 21500,
+    "weekly_growth": 1500,
+    "topics": ["web-scraping", "osint", "privacy"]
+  },
+  {
+    "source": "github",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "stars": 175700,
+    "weekly_growth": 15500,
+    "topics": ["ai-agent", "developer-tools", "ai-skills"]
+  },
+  {
+    "source": "github",
+    "name": "tonhowtf/omniget",
+    "url": "https://github.com/tonhowtf/omniget",
+    "description": "Open source desktop app for studying online courses and books. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards, focus timer. Also downloads YouTube, Instagram, TikTok.",
+    "stars": 2400,
+    "weekly_growth": 169,
+    "topics": ["education", "study", "desktop-app", "productivity"]
+  },
+  {
+    "source": "github",
+    "name": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "description": "The API to search, scrape, and interact with the web for AI",
+    "stars": 113900,
+    "weekly_growth": 7200,
+    "topics": ["web-scraping", "ai-workflow", "api"]
+  },
+  {
+    "source": "github",
+    "name": "garinasset/leak-check",
+    "url": "https://github.com/garinasset/leak-check",
+    "description": "个人信息泄漏检测接口 (Personal information leak detection API)",
+    "stars": 3400,
+    "weekly_growth": 396,
+    "topics": ["privacy", "security", "api"]
+  },
+  {
+    "source": "github",
+    "name": "cloudflare/agentic-inbox",
+    "url": "https://github.com/cloudflare/agentic-inbox",
+    "description": "Agentic inbox for email management",
+    "stars": 9000,
+    "weekly_growth": 800,
+    "topics": ["ai-agent", "email", "productivity"]
+  },
+  {
+    "source": "github",
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "description": "Personalized AI Agent that learns you.",
+    "stars": 66000,
+    "weekly_growth": 1682,
+    "topics": ["ai-agent", "personal-ai"]
+  },
+  {
+    "source": "github",
+    "name": "microsoft/VibeVoice",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "description": "AI voice content creation tool from Microsoft",
+    "stars": 15000,
+    "weekly_growth": 619,
+    "topics": ["ai", "voice", "content-creation"]
+  },
+  {
+    "source": "github",
+    "name": "ShareX/ShareX",
+    "url": "https://github.com/ShareX/ShareX",
+    "description": "Screen capture, file sharing and productivity tool",
+    "stars": 32000,
+    "weekly_growth": 500,
+    "topics": ["productivity", "screenshot", "desktop-app"]
+  },
+  {
+    "source": "github",
+    "name": "simstudioai/sim",
+    "url": "https://github.com/simstudioai/sim",
+    "description": "AI agent workflow builder and automation platform",
+    "stars": 15000,
+    "weekly_growth": 1200,
+    "topics": ["ai-agent", "workflow", "automation", "nocode"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Scholé",
+    "url": "https://www.producthunt.com/products/schole",
+    "description": "Turn everyday work into personalized AI learning",
+    "upvotes": 229,
+    "topics": ["ai", "education", "learning", "productivity"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Feather",
+    "url": "https://www.producthunt.com/products/feather",
+    "description": "Photo editor with local AI — privacy-focused, runs on device",
+    "upvotes": 176,
+    "topics": ["ai", "photo-editor", "privacy", "desktop-app"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Microsoft Copilot Health",
+    "url": "https://www.producthunt.com/products/copilot-health",
+    "description": "Dedicated space to bring your personal health data together",
+    "upvotes": 127,
+    "topics": ["ai", "health", "analytics", "productivity"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Breaks",
+    "url": "https://www.producthunt.com/products/breaks",
+    "description": "A quiet Pomodoro that lives in your menu bar. Open source.",
+    "upvotes": 111,
+    "topics": ["productivity", "open-source", "menu-bar", "mac-app"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Ara",
+    "url": "https://www.producthunt.com/products/ara",
+    "description": "Build an entire business by texting",
+    "upvotes": 107,
+    "topics": ["saas", "messaging", "nocode", "business"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Filect",
+    "url": "https://www.producthunt.com/products/filect",
+    "description": "Organize Your Files With AI",
+    "upvotes": 106,
+    "topics": ["ai", "productivity", "file-management", "mac-app"]
+  },
+  {
+    "source": "producthunt",
+    "name": "YouTube TV Custom Multiview",
+    "url": "https://www.producthunt.com/products/youtube-tv-multiview",
+    "description": "Mix and match up to 4 live streams at once",
+    "upvotes": 117,
+    "topics": ["video", "consumer", "streaming"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Git-issues",
+    "url": "https://bestofshowhn.com/2026/5",
+    "description": "Issue tracker that lives in your repo as Markdown",
+    "upvotes": 80,
+    "topics": ["developer-tools", "git"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Duo",
+    "url": "https://bestofshowhn.com/2026/5",
+    "description": "AI Matchmaking over iMessage",
+    "upvotes": 95,
+    "topics": ["ai", "consumer", "social", "dating"]
+  },
+  {
+    "source": "hackernews",
+    "name": "TimeWith",
+    "url": "https://bestofshowhn.com/2026/5",
+    "description": "iOS app to track relationships with the people who matter",
+    "upvotes": 88,
+    "topics": ["consumer", "social", "ios", "productivity"]
+  },
+  {
+    "source": "hackernews",
+    "name": "CalculeOnline",
+    "url": "https://bestofshowhn.com/2026/5",
+    "description": "150 Brazilian financial/math calculators, in-browser",
+    "upvotes": 72,
+    "topics": ["fintech", "consumer", "calculator"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Sanishne",
+    "url": "https://bestofshowhn.com/2026/5",
+    "description": "Shared bookmarks for teams so links don't vanish in Slack",
+    "upvotes": 85,
+    "topics": ["productivity", "saas", "team-collaboration", "bookmark"]
+  },
+  {
+    "source": "hackernews",
+    "name": "BeautyShot",
+    "url": "https://bestofshowhn.com/2026/5",
+    "description": "Easy macOS promo screenshots",
+    "upvotes": 76,
+    "topics": ["design", "mac-app", "content-creation", "screenshot"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Stanzio",
+    "url": "https://bestofshowhn.com/2026/5",
+    "description": "AI presentation tool that designs each slide as real HTML",
+    "upvotes": 92,
+    "topics": ["ai", "presentation", "design", "productivity"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Passages",
+    "url": "https://bestofshowhn.com/2026/5",
+    "description": "Read long-form articles on your E-Ink device",
+    "upvotes": 70,
+    "topics": ["consumer", "reading", "eink"]
+  },
+  {
+    "source": "hackernews",
+    "name": "SelectAndTranslate",
+    "url": "https://bestofshowhn.com/2026/5",
+    "description": "Build vocabulary from anything you read, free",
+    "upvotes": 65,
+    "topics": ["education", "language-learning", "translation"]
+  },
+  {
+    "source": "hackernews",
+    "name": "ChatToMap",
+    "url": "https://bestofshowhn.com/2026/5",
+    "description": "Scans your chats to find all your activity and trip ideas",
+    "upvotes": 60,
+    "topics": ["consumer", "travel", "social", "ai"]
+  }
+]
