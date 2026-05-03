@@ -4,6 +4,8 @@ source: Product Hunt
 url: https://www.producthunt.com/products/feather
 stars: 176
 category: AI + 内容创作
+function: 本地AI修图（去背景、美化、调色）
+scenario: 个人照片处理、隐私优先修图
 date: 2026-05-03
 problem: 普通人修图难，云端修图有隐私顾虑
 target_user: 普通用户/隐私敏感用户

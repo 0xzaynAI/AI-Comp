@@ -19,8 +19,8 @@
 │   ├── 周报_YYYY-MM-DD.md     # 自动生成的完整候选列表
 │   ├── 精选Top3_YYYY-Www.md   # 人工精选 Top 3
 │   └── 候选项目_YYYY-MM-DD.json
-└── 候选项目库/                # 入选候选项目的独立笔记
-    └── {项目名}.md
+├── 项目库/                    # 所有帮得上项目的独立笔记（Obsidian Base 数据库）
+│   └── {项目名}.md
 ```
 
 ## 工作流
@@ -31,7 +31,7 @@ graph LR
     B --> C[filter_analyze.py<br>过滤+分类+分析]
     C --> D[周报_日期.md<br>候选项目_日期.json]
     D --> E[Steve/L 人工筛选<br>Top 3 精选]
-    E --> F[精选Top3_周次.md<br>候选项目库/]
+    E --> F[精选Top3_周次.md<br>项目库/]
     F --> G[老板审阅<br>标记方向]
 ```
 
