@@ -1,26 +1,26 @@
 ---
-name: VibeVoice
-source: GitHub Trending
-url: https://github.com/microsoft/VibeVoice
-stars: 15000
-category: 内容创作
-function: 微软 AI 语音合成与声音克隆
-scenario: 内容创作、播客、语音助手
-date: 2026-05-03
-status: candidate
-problem: 待调研
-target_user: 待调研
-willingness_to_pay: 待评估
-mvp_feasibility: ⚠️ 需调研
-competitors: 待调研
-reviewed: false
-prd_started: false
-research_done: false
+名称: VibeVoice
+来源: GitHub Trending
+链接: https://github.com/microsoft/VibeVoice
+星数: 15000
+分类: 内容创作
+功能: 微软 AI 语音合成与声音克隆
+场景: 内容创作、播客、语音助手
+日期: 2026-05-03
+状态: candidate
+问题: 待调研
+目标用户: 待调研
+付费意愿: 待评估
+MVP可行性: ⚠️ 需调研
+竞品: 待调研
+已审阅: false
+PRD已启动: false
+调研完成: false
 ---
 
 # VibeVoice
 
-> 来源: GitHub Trending | Stars: 15000 | 分类: 内容创作
+> 来源: GitHub Trending | 星数: 15000 | 分类: 内容创作
 
 ## 分析
 待调研

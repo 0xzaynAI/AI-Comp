@@ -1,22 +1,22 @@
 ---
-name: Scrapling
-source: GitHub Trending
-url: https://github.com/D4Vinci/Scrapling
-stars: 0
-category: 开发者工具
-function: Python 轻量级网页爬虫框架
-scenario: 开发者数据采集
-date: 2026-05-03
-status: rejected
-reject_reason: Python 爬虫框架，开发者工具/库
-problem: 不适用（已剔除）
-target_user: 不适用
-willingness_to_pay: 不适用
-mvp_feasibility: 不适用
-competitors: 不适用
-reviewed: false
-prd_started: false
-research_done: false
+名称: Scrapling
+来源: GitHub Trending
+链接: https://github.com/D4Vinci/Scrapling
+星数: 0
+分类: 开发者工具
+功能: Python 轻量级网页爬虫框架
+场景: 开发者数据采集
+日期: 2026-05-03
+状态: rejected
+剔除原因: Python 爬虫框架，开发者工具/库
+问题: 不适用（已剔除）
+目标用户: 不适用
+付费意愿: 不适用
+MVP可行性: 不适用
+竞品: 不适用
+已审阅: false
+PRD已启动: false
+调研完成: false
 ---
 
 # Scrapling

@@ -1,26 +1,26 @@
 ---
-name: ruflo
-source: GitHub Trending
-url: https://github.com/ruvnet/ruflo
-stars: 35500
-category: 生产力工具
-function: 工作流自动化与编排工具
-scenario: 个人/团队自动化任务编排
-date: 2026-05-03
-status: candidate
-problem: 待调研
-target_user: 待调研
-willingness_to_pay: 待评估
-mvp_feasibility: ⚠️ 需调研
-competitors: 待调研
-reviewed: false
-prd_started: false
-research_done: false
+名称: ruflo
+来源: GitHub Trending
+链接: https://github.com/ruvnet/ruflo
+星数: 35500
+分类: 生产力工具
+功能: 工作流自动化与编排工具
+场景: 个人/团队自动化任务编排
+日期: 2026-05-03
+状态: candidate
+问题: 待调研
+目标用户: 待调研
+付费意愿: 待评估
+MVP可行性: ⚠️ 需调研
+竞品: 待调研
+已审阅: false
+PRD已启动: false
+调研完成: false
 ---
 
 # ruflo
 
-> 来源: GitHub Trending | Stars: 35500 | 分类: 生产力工具
+> 来源: GitHub Trending | 星数: 35500 | 分类: 生产力工具
 
 ## 分析
 待调研

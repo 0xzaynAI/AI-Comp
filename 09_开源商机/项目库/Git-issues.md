@@ -1,22 +1,22 @@
 ---
-name: Git-issues
-source: Hacker News
-url: https://bestofshowhn.com/2026/5
-stars: 0
-category: 开发者工具
-function: Git Issue 管理与追踪工具
-scenario: 开发者项目管理
-date: 2026-05-03
-status: rejected
-reject_reason: Git Issue 管理工具，面向开发者，不面向终端消费者
-problem: 不适用（已剔除）
-target_user: 不适用
-willingness_to_pay: 不适用
-mvp_feasibility: 不适用
-competitors: 不适用
-reviewed: false
-prd_started: false
-research_done: false
+名称: Git-issues
+来源: Hacker News
+链接: https://bestofshowhn.com/2026/5
+星数: 0
+分类: 开发者工具
+功能: Git Issue 管理与追踪工具
+场景: 开发者项目管理
+日期: 2026-05-03
+状态: rejected
+剔除原因: Git Issue 管理工具，面向开发者，不面向终端消费者
+问题: 不适用（已剔除）
+目标用户: 不适用
+付费意愿: 不适用
+MVP可行性: 不适用
+竞品: 不适用
+已审阅: false
+PRD已启动: false
+调研完成: false
 ---
 
 # Git-issues

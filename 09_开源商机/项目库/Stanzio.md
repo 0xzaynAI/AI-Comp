@@ -1,22 +1,22 @@
 ---
-name: Stanzio
-source: Hacker News
-url: https://bestofshowhn.com/2026/5
-stars: 92
-category: AI + 内容创作
-function: AI文本转幻灯片生成
-scenario: 职场PPT制作、教育培训演示
-date: 2026-05-03
-status: selected
-select_reason: AI+PPT已验证市场(Gamma 200万用户)，技术实现简单(LLM+模板引擎)，中文市场空白
-problem: 职场人做 PPT 耗时且需要设计能力
-target_user: 职场人士/教育者/创业者
-willingness_to_pay: $10-25/月
-mvp_feasibility: ✅ 1周
-competitors: Gamma ($8-20/月, 200万用户), Beautiful.ai ($12-40), Tome ($10-20)
-reviewed: false
-prd_started: false
-research_done: false
+名称: Stanzio
+来源: Hacker News
+链接: https://bestofshowhn.com/2026/5
+星数: 92
+分类: AI + 内容创作
+功能: AI文本转幻灯片生成
+场景: 职场PPT制作、教育培训演示
+日期: 2026-05-03
+状态: selected
+精选原因: AI+PPT已验证市场(Gamma 200万用户)，技术实现简单(LLM+模板引擎)，中文市场空白
+问题: 职场人做 PPT 耗时且需要设计能力
+目标用户: 职场人士/教育者/创业者
+付费意愿: $10-25/月
+MVP可行性: ✅ 1周
+竞品: Gamma ($8-20/月, 200万用户), Beautiful.ai ($12-40), Tome ($10-20)
+已审阅: false
+PRD已启动: false
+调研完成: false
 ---
 
 # Stanzio

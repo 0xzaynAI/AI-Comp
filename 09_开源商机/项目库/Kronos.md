@@ -1,27 +1,27 @@
 ---
-name: Kronos
-source: GitHub Trending
-url: https://github.com/shiyu-coder/Kronos
-stars: 22548
-star_growth_monthly: 11144
-category: 金融科技
-function: 金融市场专用大模型 — 理解金融语言、分析市场数据、生成交易洞察
-scenario: AI投研报告生成、智能选股、金融数据问答
-date: 2026-05-03
-status: candidate
-problem: 通用大模型不懂金融语言，BloombergGPT 闭源且极贵，中小机构和个人投资者缺乏AI分析工具
-target_user: 个人投资者、小型基金、财经自媒体
-willingness_to_pay: $20-50/月
-mvp_feasibility: ✅ 1周
-competitors: BloombergGPT（闭源企业级，价格不公开但极贵）、FinGPT（开源，聚焦情感分析）、TradingAgents（多Agent交易，定位不同）
-reviewed: false
-prd_started: false
-research_done: false
+名称: Kronos
+来源: GitHub Trending
+链接: https://github.com/shiyu-coder/Kronos
+星数: 22548
+月增长: 11144
+分类: 金融科技
+功能: 金融市场专用大模型 — 理解金融语言、分析市场数据、生成交易洞察
+场景: AI投研报告生成、智能选股、金融数据问答
+日期: 2026-05-03
+状态: candidate
+问题: 通用大模型不懂金融语言，BloombergGPT 闭源且极贵，中小机构和个人投资者缺乏AI分析工具
+目标用户: 个人投资者、小型基金、财经自媒体
+付费意愿: $20-50/月
+MVP可行性: ✅ 1周
+竞品: BloombergGPT（闭源企业级，价格不公开但极贵）、FinGPT（开源，聚焦情感分析）、TradingAgents（多Agent交易，定位不同）
+已审阅: false
+PRD已启动: false
+调研完成: false
 ---
 
 # Kronos
 
-> 来源: GitHub Trending | Stars: 22,548 | 月增: +11,144 | 分类: 金融科技
+> 来源: GitHub Trending | 星数: 22,548 | 月增: +11,144 | 分类: 金融科技
 
 ## 分析
 

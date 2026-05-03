@@ -1,26 +1,26 @@
 ---
-name: Duo
-source: Hacker News
-url: https://bestofshowhn.com/2026/5
-stars: 0
-category: 消费者工具
-function: 双人协作/配对工具
-scenario: 社交匹配、协作配对
-date: 2026-05-03
-status: candidate
-problem: 待调研
-target_user: 待调研
-willingness_to_pay: 待评估
-mvp_feasibility: ⚠️ 需调研
-competitors: 待调研
-reviewed: false
-prd_started: false
-research_done: false
+名称: Duo
+来源: Hacker News
+链接: https://bestofshowhn.com/2026/5
+星数: 0
+分类: 消费者工具
+功能: 双人协作/配对工具
+场景: 社交匹配、协作配对
+日期: 2026-05-03
+状态: candidate
+问题: 待调研
+目标用户: 待调研
+付费意愿: 待评估
+MVP可行性: ⚠️ 需调研
+竞品: 待调研
+已审阅: false
+PRD已启动: false
+调研完成: false
 ---
 
 # Duo
 
-> 来源: Hacker News | Stars: 0 | 分类: 消费者工具
+> 来源: Hacker News | 星数: 0 | 分类: 消费者工具
 
 ## 分析
 待调研

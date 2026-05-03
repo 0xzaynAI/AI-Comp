@@ -1,26 +1,26 @@
 ---
-name: Breaks
-source: Product Hunt
-url: https://www.producthunt.com/products/breaks
-stars: 0
-category: 非开发者工具
-function: 智能休息提醒与健康管理工具
-scenario: 办公场景定时休息、眼部健康
-date: 2026-05-03
-status: candidate
-problem: 待调研
-target_user: 待调研
-willingness_to_pay: 待评估
-mvp_feasibility: ✅
-competitors: 待调研
-reviewed: false
-prd_started: false
-research_done: false
+名称: Breaks
+来源: Product Hunt
+链接: https://www.producthunt.com/products/breaks
+星数: 0
+分类: 非开发者工具
+功能: 智能休息提醒与健康管理工具
+场景: 办公场景定时休息、眼部健康
+日期: 2026-05-03
+状态: candidate
+问题: 待调研
+目标用户: 待调研
+付费意愿: 待评估
+MVP可行性: ✅
+竞品: 待调研
+已审阅: false
+PRD已启动: false
+调研完成: false
 ---
 
 # Breaks
 
-> 来源: Product Hunt | Stars: 0 | 分类: 非开发者工具
+> 来源: Product Hunt | 星数: 0 | 分类: 非开发者工具
 
 ## 分析
 待调研

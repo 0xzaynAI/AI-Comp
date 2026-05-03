@@ -1,22 +1,22 @@
 ---
-name: skills
-source: GitHub Trending
-url: https://github.com/mattpocock/skills
-stars: 0
-category: 开发者工具
-function: TypeScript 开发者技能教学库
-scenario: 开发者学习
-date: 2026-05-03
-status: rejected
-reject_reason: TypeScript 开发者技能教学，目标用户是开发者，不面向终端消费者
-problem: 不适用（已剔除）
-target_user: 不适用
-willingness_to_pay: 不适用
-mvp_feasibility: 不适用
-competitors: 不适用
-reviewed: false
-prd_started: false
-research_done: false
+名称: skills
+来源: GitHub Trending
+链接: https://github.com/mattpocock/skills
+星数: 0
+分类: 开发者工具
+功能: TypeScript 开发者技能教学库
+场景: 开发者学习
+日期: 2026-05-03
+状态: rejected
+剔除原因: TypeScript 开发者技能教学，目标用户是开发者，不面向终端消费者
+问题: 不适用（已剔除）
+目标用户: 不适用
+付费意愿: 不适用
+MVP可行性: 不适用
+竞品: 不适用
+已审阅: false
+PRD已启动: false
+调研完成: false
 ---
 
 # skills

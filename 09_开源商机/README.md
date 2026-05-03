@@ -75,20 +75,20 @@ graph TD
 
 | 字段 | 类型 | 说明 | 示例 |
 |------|------|------|------|
-| `name` | 文本 | 项目名 | `TradingAgents` |
-| `source` | 选项 | 数据源 | `GitHub Trending` / `Product Hunt` / `Hacker News` |
-| `url` | URL | 项目链接 | `https://github.com/...` |
-| `stars` | 数字 | GitHub Stars 或 PH/HN 票数 | `59800` |
-| `category` | 选项 | 项目分类 | `金融科技` / `AI + 内容创作` |
-| `date` | 日期 | 抓取日期 | `2026-05-03` |
+| `名称` | 文本 | 项目名 | `TradingAgents` |
+| `来源` | 选项 | 数据源 | `GitHub Trending` / `Product Hunt` / `Hacker News` |
+| `链接` | URL | 项目链接 | `https://github.com/...` |
+| `星数` | 数字 | GitHub Stars 或 PH/HN 票数 | `59800` |
+| `分类` | 选项 | 项目分类 | `金融科技` / `AI + 内容创作` |
+| `日期` | 日期 | 抓取日期 | `2026-05-03` |
 
 ### 项目状态（核心分类）
 
 | 字段 | 类型 | 说明 | 可选值 |
 |------|------|------|--------|
-| `status` | 选项 | 项目在管线中的状态 | `candidate`（候选） / `selected`（精选） / `rejected`（剔除） |
-| `select_reason` | 文本 | 精选原因，仅 `status=selected` 时填写 | 为什么选它（增长、差异化、市场机会等） |
-| `reject_reason` | 文本 | 剔除原因，仅 `status=rejected` 时填写 | 为什么排除（开发者工具、框架、论文复现等） |
+| `状态` | 选项 | 项目在管线中的状态 | `candidate`（候选） / `selected`（精选） / `rejected`（剔除） |
+| `精选原因` | 文本 | 精选原因，仅 `状态=selected` 时填写 | 为什么选它（增长、差异化、市场机会等） |
+| `剔除原因` | 文本 | 剔除原因，仅 `状态=rejected` 时填写 | 为什么排除（开发者工具、框架、论文复现等） |
 
 > **状态流转逻辑：** 所有爬取项目默认入库为 `candidate` → 人工精选后标记 `selected` → 过滤排除的标记 `rejected`
 
@@ -96,26 +96,26 @@ graph TD
 
 | 字段 | 类型 | 说明 |
 |------|------|------|
-| `function` | 文本 | 项目核心功能是什么 |
-| `scenario` | 业务场景 | 用在什么业务场景 |
+| `功能` | 文本 | 项目核心功能是什么 |
+| `场景` | 业务场景 | 用在什么业务场景 |
 
 ### 商业分析
 
 | 字段 | 类型 | 说明 | 示例 |
 |------|------|------|------|
-| `problem` | 文本 | 解决了什么人的什么问题 | `个人投资者缺乏机构级量化分析能力` |
-| `target_user` | 文本 | 目标用户群体 | `个人投资者/交易员` |
-| `willingness_to_pay` | 文本 | 用户付费意愿评估 | `$20-50/月` |
-| `mvp_feasibility` | 选项 | 1周内MVP可行性 | `✅ 1周` / `⚠️ 需调研` / `❌ 不可行` |
-| `competitors` | 文本 | 已有竞品及定价 | `TradingView ($15-30/月)` |
+| `问题` | 文本 | 解决了什么人的什么问题 | `个人投资者缺乏机构级量化分析能力` |
+| `目标用户` | 文本 | 目标用户群体 | `个人投资者/交易员` |
+| `付费意愿` | 文本 | 用户付费意愿评估 | `$20-50/月` |
+| `MVP可行性` | 选项 | 1周内MVP可行性 | `✅ 1周` / `⚠️ 需调研` / `❌ 不可行` |
+| `竞品` | 文本 | 已有竞品及定价 | `TradingView ($15-30/月)` |
 
 ### 工作流追踪
 
 | 字段 | 类型 | 说明 |
 |------|------|------|
-| `reviewed` | 布尔 | **老板是否已审阅此项目**。`true` = 老板已看过并给出方向 |
-| `prd_started` | 布尔 | **是否已启动产品需求文档**。`true` = Steve 已开始写 PRD |
-| `research_done` | 布尔 | **L 是否已完成市场调研**。`true` = L 已输出调研报告 |
+| `已审阅` | 布尔 | **老板是否已审阅此项目**。`true` = 老板已看过并给出方向 |
+| `PRD已启动` | 布尔 | **是否已启动产品需求文档**。`true` = Steve 已开始写 PRD |
+| `调研完成` | 布尔 | **L 是否已完成市场调研**。`true` = L 已输出调研报告 |
 
 > 这三个字段是管线追踪开关：老板审阅 → 启动PRD → 市场调研，形成项目推进流水线。
 
@@ -127,28 +127,28 @@ graph TD
 
 ```yaml
 ---
-name: 项目名
-source: GitHub Trending
-url: https://...
-stars: 0
-category: 分类
-date: YYYY-MM-DD
-status: candidate
-function: 功能描述
-scenario: 业务场景
-problem: 待调研
-target_user: 待调研
-willingness_to_pay: 待评估
-mvp_feasibility: ⚠️ 需调研
-competitors: 待调研
-reviewed: false
-prd_started: false
-research_done: false
+名称: 项目名
+来源: GitHub Trending
+链接: https://...
+星数: 0
+分类: 分类
+日期: YYYY-MM-DD
+状态: candidate
+功能: 功能描述
+场景: 业务场景
+问题: 待调研
+目标用户: 待调研
+付费意愿: 待评估
+MVP可行性: ⚠️ 需调研
+竞品: 待调研
+已审阅: false
+PRD已启动: false
+调研完成: false
 ---
 
 # 项目名
 
-> 来源: ... | Stars: ... | 分类: ... | 状态: candidate
+> 来源: ... | 星数: ... | 分类: ... | 状态: candidate
 
 ## 分析
 待调研

@@ -1,26 +1,26 @@
 ---
-name: YouTube TV Custom Multiview
-source: Product Hunt
-url: https://www.producthunt.com/products/youtube-tv-multiview
-stars: 0
-category: 内容创作
-function: YouTube TV 多画面同时观看
-scenario: 体育赛事多屏观看、内容监控
-date: 2026-05-03
-status: candidate
-problem: 待调研
-target_user: 待调研
-willingness_to_pay: 待评估
-mvp_feasibility: ⚠️ 需调研
-competitors: 待调研
-reviewed: false
-prd_started: false
-research_done: false
+名称: YouTube TV Custom Multiview
+来源: Product Hunt
+链接: https://www.producthunt.com/products/youtube-tv-multiview
+星数: 0
+分类: 内容创作
+功能: YouTube TV 多画面同时观看
+场景: 体育赛事多屏观看、内容监控
+日期: 2026-05-03
+状态: candidate
+问题: 待调研
+目标用户: 待调研
+付费意愿: 待评估
+MVP可行性: ⚠️ 需调研
+竞品: 待调研
+已审阅: false
+PRD已启动: false
+调研完成: false
 ---
 
 # YouTube TV Custom Multiview
 
-> 来源: Product Hunt | Stars: 0 | 分类: 内容创作
+> 来源: Product Hunt | 星数: 0 | 分类: 内容创作
 
 ## 分析
 待调研
