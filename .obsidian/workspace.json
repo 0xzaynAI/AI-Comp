@@ -16,13 +16,14 @@
                 "id": "4b7008a6768aed72",
                 "type": "leaf",
                 "state": {
-                  "type": "bases",
+                  "type": "markdown",
                   "state": {
-                    "file": "09_开源商机/开源项目数据库.base",
-                    "viewName": "表格"
+                    "file": "06_产品需求文档/Feather_PRD_v1.0.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-table",
-                  "title": "开源项目数据库"
+                  "icon": "lucide-file",
+                  "title": "Feather_PRD_v1.0"
                 }
               }
             ]
@@ -255,6 +256,7 @@
   },
   "active": "4b7008a6768aed72",
   "lastOpenFiles": [
+    "09_开源商机/开源项目数据库.base",
     "06_产品需求文档/Filect_PRD_v1.0.md",
     "06_产品需求文档/Feather_PRD_v1.0.md",
     "06_产品需求文档/Stanzio_PRD_v1.0.md",
@@ -263,7 +265,6 @@
     "01_市场分析/Feather_本地AI修图_市场调研.md",
     "01_市场分析/Stanzio_AI_PPT_市场调研.md",
     "09_开源商机/开源商机数据库.md",
-    "09_开源商机/开源项目数据库.base",
     "09_开源商机/项目库/LiteRT-LM.md",
     "09_开源商机/项目库/google-ai-gallery.md",
     "09_开源商机/项目库/multica.md",
@@ -281,7 +282,6 @@
     "09_开源商机/项目库/jcode.md",
     "09_开源商机/项目库/DeepSeek-TUI.md",
     "09_开源商机/项目库/GitNexus.md",
-    "09_开源商机/项目库/n8n-mcp.md",
     "00_公司/进化周报",
     "09_开源商机/项目库",
     "08_决策",
