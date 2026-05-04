@@ -16,14 +16,10 @@
                 "id": "4b7008a6768aed72",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00_公司/L_待办任务.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "L_待办任务"
+                  "title": "新标签页"
                 }
               }
             ]
@@ -256,12 +252,13 @@
   },
   "active": "4b7008a6768aed72",
   "lastOpenFiles": [
+    "06_产品需求文档/Mirror_PRD_v1.0.md",
+    "00_公司/L_待办任务.md",
     "00_公司/任务管理.md",
     "03_用户分析/自我认知_用户画像分析.md",
     "02_行业分析/AI_情绪价值App竞品分析.md",
     "01_市场分析/MBTI_人格测试市场调研.md",
     "00_公司/任务进度.md",
-    "00_公司/L_待办任务.md",
     "00_公司/Steve_待办任务.md",
     "02_行业分析/跨境情报赛道_竞品矩阵.md",
     "06_产品需求文档/Feather_PRD_v1.0.md",
@@ -282,7 +279,6 @@
     "09_开源商机/项目库/Archon.md",
     "09_开源商机/项目库/GenericAgent.md",
     "09_开源商机/项目库/markitdown.md",
-    "09_开源商机/项目库/openwrt.md",
     "00_公司/进化周报",
     "09_开源商机/项目库",
     "08_决策",
