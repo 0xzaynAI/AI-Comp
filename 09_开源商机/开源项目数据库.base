@@ -4,40 +4,45 @@ views:
     filters:
       and:
         - file.inFolder("09_开源商机/项目库")
-        - competitors != "不适用"
+        - problem != "不适用（已剔除）"
     order:
       - file.name
-      - url
-      - source
-      - stars
-      - category
-      - scenario
-      - select_reason
-      - star_growth_weekly
-      - research_done
-      - reviewed
-      - target_user
-      - prd_started
-      - competitors
-      - problem
-      - reject_reason
-      - status
-      - willingness_to_pay
-      - mvp_feasibility
-      - file.links
-      - function
+      - 链接
+      - 分类
+      - 来源
+      - 星数
+      - 功能
+      - 场景
+      - 状态
+      - 月增长
+      - 周增长
+      - 目标用户
+      - 剔除原因
+      - 竞品
+      - 已审阅
+      - PRD已启动
+      - 调研完成
+      - 名称
+      - 付费意愿
+      - MVP可行性
+      - 精选原因
+      - 问题
     sort:
+      - property: 星数
+        direction: DESC
       - property: problem
         direction: ASC
       - property: stars
         direction: DESC
     columnSize:
-      file.name: 179
-      note.url: 314
-      note.stars: 91
-      note.scenario: 320
-      note.target_user: 114
-      note.competitors: 116
-      note.reject_reason: 119
+      file.name: 150
+      note.链接: 128
+      note.星数: 95
+      note.月增长: 84
+      note.周增长: 81
+      note.目标用户: 132
+      note.竞品: 84
+      note.名称: 148
+      note.精选原因: 132
   - type: cards
     name: 视图
