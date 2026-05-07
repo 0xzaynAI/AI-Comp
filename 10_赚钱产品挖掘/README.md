@@ -4,13 +4,13 @@
 
 ## 数据源
 
-| 数据源 | 信号类型 | 信号强度 | 爬取方式 |
-|--------|---------|---------|---------|
-| **Acquire.com** | 💰 MRR/利润/要价 | ⭐⭐⭐⭐⭐ | web_search + web_extract |
-| **Indie Hackers** | 💰 MRR 公开 | ⭐⭐⭐⭐⭐ | web_search + web_extract |
-| **Product Hunt** | 📈 Launch 热度 + 社区信号 | ⭐⭐⭐ | web_search |
-| **Chrome Web Store** | 💰 付费 × 用户量 | ⭐⭐⭐⭐ | web_search |
-| **Hacker News Show HN** | 📈 讨论热度 | ⭐⭐ | web_search |
+| 数据源 | 信号类型 | 信号强度 | 付费墙 |
+|--------|---------|---------|--------|
+| **Reddit** r/SaaS r/SideProject | 💰 晒 MRR 里程碑 | ⭐⭐⭐⭐⭐ | ❌ 免费 |
+| **Indie Hackers** | 💰 MRR 公开 | ⭐⭐⭐⭐⭐ | ❌ 免费 |
+| **Product Hunt** | 📈 Launch 热度 | ⭐⭐⭐ | ❌ 免费 |
+| **Chrome Web Store** | 💰 付费 × 用户量 | ⭐⭐⭐⭐ | ❌ 免费 |
+| **Flippa + HN Show HN** | 💰 在售 + 新品 | ⭐⭐⭐ | ❌ 免费 |
 
 ## 打分体系
 
