@@ -10,16 +10,20 @@
           {
             "id": "fcedc75b24b5d70e",
             "type": "tabs",
-            "dimension": 83.33333333333334,
+            "dimension": 57.74319066147859,
             "children": [
               {
                 "id": "4b7008a6768aed72",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "08_决策/D001_首个产品方向.md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "title": "新标签页"
+                  "title": "D001_首个产品方向"
                 }
               }
             ]
@@ -27,7 +31,7 @@
           {
             "id": "5cf1f55b41a751ba",
             "type": "tabs",
-            "dimension": 16.666666666666664,
+            "dimension": 42.2568093385214,
             "children": [
               {
                 "id": "f3af44a21da59332",
@@ -70,8 +74,23 @@
                   "icon": "terminal",
                   "title": "终端：lennyz@MacM1Pro:~/github/AI-Comp"
                 }
+              },
+              {
+                "id": "6b854032cb2fe141",
+                "type": "leaf",
+                "state": {
+                  "type": "markwhen-view",
+                  "state": {
+                    "file": "Markwhen/Markwhen 5-6-2026 11.14.45.mw",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "markwhen-icon",
+                  "title": "Markwhen 5-6-2026 11.14.45.mw"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -247,46 +266,47 @@
       "bases:新建数据库": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "4b7008a6768aed72",
+  "active": "6b854032cb2fe141",
   "lastOpenFiles": [
-    "06_产品需求文档/Mirror_PRD_v1.0.md",
-    "00_公司/L_待办任务.md",
-    "00_公司/任务管理.md",
-    "03_用户分析/自我认知_用户画像分析.md",
-    "02_行业分析/AI_情绪价值App竞品分析.md",
-    "01_市场分析/MBTI_人格测试市场调研.md",
-    "00_公司/任务进度.md",
-    "00_公司/Steve_待办任务.md",
-    "02_行业分析/跨境情报赛道_竞品矩阵.md",
-    "06_产品需求文档/Feather_PRD_v1.0.md",
-    "09_开源商机/开源项目数据库.base",
-    "06_产品需求文档/Filect_PRD_v1.0.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/TestSaaS.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/NicheCRM.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/FreeTool.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/CryptoDeFi.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/ChromeAI.md",
+    "10_赚钱产品挖掘/日报归档/日报_2026-05-07_test.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库",
+    "10_赚钱产品挖掘/日报归档/候选项目_2026-05-07_test.json",
+    "10_赚钱产品挖掘/日报归档",
+    "10_赚钱产品挖掘/脚本/__pycache__/filter_analyze.cpython-311.pyc",
+    "10_赚钱产品挖掘/脚本/__pycache__",
+    "10_赚钱产品挖掘/数据抓取/2026-05-07_test_raw.json",
+    "10_赚钱产品挖掘/脚本/filter_analyze.py",
+    "10_赚钱产品挖掘/README.md",
+    "10_赚钱产品挖掘/脚本",
+    "10_赚钱产品挖掘/数据抓取",
+    "10_赚钱产品挖掘/周报归档",
+    "08_决策/D001_首个产品方向.md",
     "06_产品需求文档/Stanzio_PRD_v1.0.md",
+    "06_产品需求文档/Mirror_PRD_v1.0.md",
+    "06_产品需求文档/Filect_PRD_v1.0.md",
+    "06_产品需求文档/Feather_PRD_v1.0.md",
+    "06_产品需求文档/跨境情报雷达_PRD_v1.0.md",
+    "00_公司/团队成员/Steve.md",
+    "00_公司/团队成员/README.md",
+    "00_公司/进化周报/2026-05-03_周报.md",
+    "00_公司/团队成员/老板.md",
+    "00_公司/团队成员/L.md",
+    "04_需求分析/索引.md",
+    "03_用户分析/跨境情报赛道_用户画像.md",
+    "03_用户分析/自我认知_用户画像分析.md",
+    "02_行业分析/跨境情报赛道_竞品矩阵.md",
+    "02_行业分析/AI_情绪价值App竞品分析.md",
+    "01_市场分析/跨境情报赛道_市场体量.md",
     "01_市场分析/Stanzio_AI_PPT_中国市场调研.md",
-    "01_市场分析/Filect_智能文件管理_市场调研.md",
-    "01_市场分析/Feather_本地AI修图_市场调研.md",
-    "01_市场分析/Stanzio_AI_PPT_市场调研.md",
-    "09_开源商机/开源商机数据库.md",
-    "09_开源商机/项目库/LiteRT-LM.md",
-    "09_开源商机/项目库/google-ai-gallery.md",
-    "09_开源商机/项目库/multica.md",
-    "09_开源商机/项目库/rtk.md",
-    "09_开源商机/项目库/agent-skills.md",
-    "09_开源商机/项目库/claude-mem.md",
-    "09_开源商机/项目库/Archon.md",
-    "09_开源商机/项目库/GenericAgent.md",
-    "09_开源商机/项目库/markitdown.md",
-    "00_公司/进化周报",
-    "09_开源商机/项目库",
-    "08_决策",
-    "00_公司/团队成员",
-    "07_产品",
-    "06_产品需求文档",
-    "05_想法草稿",
-    "04_需求分析",
-    "03_用户分析"
+    "01_市场分析/MBTI_人格测试市场调研.md"
   ]
 }
