@@ -355,8 +355,14 @@ def process_item(item: dict) -> Candidate:
     # 综合分
     c.score = c.revenue_signal * 2 + c.cloneability * 2 + c.maintenance_cost + c.market_niche + c.tech_fit
 
+    # 收入信号为 0 的排除（我们是找赚钱产品）
+    if c.revenue_signal < 1:
+        c.keep = False
+        c.reject_reason = "无收入信号"
+        return c
+
     # 收入信号太弱且可模仿性低的过滤
-    if c.revenue_signal < 1 and c.cloneability < 3:
+    if c.revenue_signal < 2 and c.cloneability < 3:
         c.keep = False
         c.reject_reason = "收入信号弱且难以模仿"
 
@@ -535,6 +541,7 @@ def main():
     print(f"📊 保留 {len(kept)} | 排除 {len(rejected)}")
 
     # 生成日报
+    os.makedirs(output_dir, exist_ok=True)
     report_path = os.path.join(output_dir, f"日报_{date_str}.md")
     generate_daily_report(candidates, report_path, date_str)
 
