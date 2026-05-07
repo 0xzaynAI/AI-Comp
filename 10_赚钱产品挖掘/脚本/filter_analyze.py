@@ -47,10 +47,10 @@ class Candidate:
     """候选产品"""
     # 原始数据
     source: str
-    market: str = "global"   # en | zh | ja | sea | global
     name: str
     url: str
     description: str
+    market: str = "global"   # en | zh | ja | sea | global
     raw_signals: dict = field(default_factory=dict)  # {mrr, profit, price, users, votes, ...}
 
     # 分类打分
