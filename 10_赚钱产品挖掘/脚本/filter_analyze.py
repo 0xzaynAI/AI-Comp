@@ -47,6 +47,7 @@ class Candidate:
     """候选产品"""
     # 原始数据
     source: str
+    market: str = "global"   # en | zh | ja | sea | global
     name: str
     url: str
     description: str
@@ -328,6 +329,7 @@ def process_item(item: dict) -> Candidate:
     """处理单个候选项目"""
     c = Candidate(
         source=item.get("source", "unknown"),
+        market=item.get("market", "global"),
         name=item.get("name", ""),
         url=item.get("url", ""),
         description=item.get("description", ""),

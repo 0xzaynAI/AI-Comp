@@ -4,13 +4,17 @@
 
 ## 数据源
 
-| 数据源 | 信号类型 | 信号强度 | 付费墙 |
-|--------|---------|---------|--------|
-| **Reddit** r/SaaS r/SideProject | 💰 晒 MRR 里程碑 | ⭐⭐⭐⭐⭐ | ❌ 免费 |
-| **Indie Hackers** | 💰 MRR 公开 | ⭐⭐⭐⭐⭐ | ❌ 免费 |
-| **Product Hunt** | 📈 Launch 热度 | ⭐⭐⭐ | ❌ 免费 |
-| **Chrome Web Store** | 💰 付费 × 用户量 | ⭐⭐⭐⭐ | ❌ 免费 |
-| **Flippa + HN Show HN** | 💰 在售 + 新品 | ⭐⭐⭐ | ❌ 免费 |
+| 数据源 | 市场 | 信号 | 新鲜度 |
+|--------|------|------|--------|
+| 🐦 **Twitter/X** `#buildinpublic` | 欧美 | 💰 MRR 实时晒 | ⚡秒级 |
+| 🟢 **即刻/V2EX/少数派** | 中国 | 💰 独立开发者晒收入 | ⚡日级 |
+| 🎌 **Zenn/Note** | 日本 | 💰 个人開発収益 | 📆周级 |
+| 🟠 **Reddit** r/SaaS r/SideProject | 欧美 | 💰 MRR 里程碑 | 📆日级 |
+| 🔵 **Indie Hackers** | 欧美 | 💰 产品页 MRR | 📆周级 |
+| 🛒 **Flippa** | 全球 | 💰 在售 revenue | 📆周级 |
+| 🔌 **GitHub 商业化** | 全球 | 💰 Pro/Enterprise | 📆月级 |
+| 🧩 **Chrome Web Store** | 全球 | 💰 付费×用户 | 📆周级 |
+| 🟣 **Product Hunt** | 欧美 | 📈 新品热度 | ⚡日级 |
 
 ## 打分体系
 
