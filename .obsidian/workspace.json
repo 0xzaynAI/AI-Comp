@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_想法草稿/20260509_到账限时_MVP方案与收入模型.md",
+                "file": "03_用户分析/跨境情报赛道_用户画像.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260509_到账限时_MVP方案与收入模型"
+              "title": "跨境情报赛道_用户画像"
             }
           }
         ]
@@ -198,8 +198,13 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "4b7008a6768aed72",
+  "active": "1654043d8bab7f2d",
   "lastOpenFiles": [
+    "00_公司/进化周报/2026-05-10_周报.md",
+    "03_用户分析/自我认知_用户画像分析.md",
+    "03_用户分析/索引.md",
+    "05_想法草稿/20260509_小众挖掘_Apple_Watch_APP行业盈利调研.md",
+    "05_想法草稿/20260509_到账限时_MVP方案与收入模型.md",
     "09_开源商机/周报归档/候选项目_2026-05-10.json",
     "09_开源商机/周报归档/周报_2026-05-10.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Churn_Detection_AI_(Donna)_—_Non-coder_shipped_AI_SaaS.md",
@@ -222,10 +227,6 @@
     "10_赚钱产品挖掘/日报归档/候选项目库/SongBox_—_Private_audio_sharing_for_creators.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Symswift_—_Symfony_SaaS_boilerplate_with_Stripe.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Resonly_—_Prioritize_feature_requests_by_revenue_impact.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Himetrica_—_SaaS_analytics_with_Stripe_integration.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/DataRaccoon_—_Chat-based_Stripe_analytics.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Subify_—_Shopify_subscription_management_app.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/ShareMRR_—_Marketplace_for_founders_to_find_growth_partners.md",
     "10_赚钱产品挖掘/日报归档/候选项目_2026-05-10.json",
     "10_赚钱产品挖掘/数据抓取/2026-05-10_raw.json",
     "09_开源商机/数据抓取/2026-05-10_raw.json",
@@ -234,7 +235,6 @@
     "10_赚钱产品挖掘/数据抓取/2026-05-09_raw.json",
     "11_成功案例拆解/访谈记录",
     "11_成功案例拆解/产品库",
-    "11_成功案例拆解/人物库",
-    "11_成功案例拆解"
+    "11_成功案例拆解/人物库"
   ]
 }
