@@ -1,0 +1,358 @@
+[
+  {
+    "source": "github",
+    "name": "anthropics/financial-services",
+    "url": "https://github.com/anthropics/financial-services",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 8841,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 11779,
+    "topics": [
+      "TypeScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 11541,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "docusealco/docuseal",
+    "url": "https://github.com/docusealco/docuseal",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 4200,
+    "topics": [
+      "Ruby"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "virattt/dexter",
+    "url": "https://github.com/virattt/dexter",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 3035,
+    "topics": [
+      "TypeScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "sponsors/soxoj",
+    "url": "https://github.com/sponsors/soxoj",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 4749,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "1jehuang/jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 2710,
+    "topics": [
+      "Rust"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "cocoindex-io/cocoindex",
+    "url": "https://github.com/cocoindex-io/cocoindex",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 1845,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 5181,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "sponsors/mattpocock",
+    "url": "https://github.com/sponsors/mattpocock",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 13770,
+    "topics": [
+      "Shell"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "browserbase/skills",
+    "url": "https://github.com/browserbase/skills",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 1554,
+    "topics": [
+      "JavaScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "decolua/9router",
+    "url": "https://github.com/decolua/9router",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 2593,
+    "topics": [
+      "JavaScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "openai/symphony",
+    "url": "https://github.com/openai/symphony",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 2307,
+    "topics": [
+      "Elixir"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "sponsors/InsForge",
+    "url": "https://github.com/sponsors/InsForge",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 1270,
+    "topics": [
+      "TypeScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "fspecii/ace-step-ui",
+    "url": "https://github.com/fspecii/ace-step-ui",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 1217,
+    "topics": [
+      "JavaScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "Q00/ouroboros",
+    "url": "https://github.com/Q00/ouroboros",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 759,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "Countries where you can leave your MacBook at a random coffee shop",
+    "url": "https://vouchatlas.com",
+    "description": "2 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Pitch Is Just Rhythm Sped Up [video]",
+    "url": "https://www.youtube.com/watch?v=q9bFUocrm70",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Free OSS transcription app I made and found it's faster than wispr flow",
+    "url": "https://mumbli.app/",
+    "description": "0 comments · 3 points",
+    "stars": 0,
+    "upvotes": 3,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Sigma Guard – deterministic contradiction checks for graph memory",
+    "url": "https://news.ycombinator.com/item?id=48078195",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "AI Design Taste – Design.md Generator",
+    "url": "https://chromewebstore.google.com/detail/ai-design-taste-designmd/peclkdlolmcclhhgpoehpikgknbmkknc",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Draw Battle",
+    "url": "https://vidzert.com/draw-battle",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Simple Exif an App that allows creators take control of their metadata",
+    "url": "https://simpleexif.com/",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Vibe-coding video games with Claude (Day 26: Primetime)",
+    "url": "https://gamevibe.us/26-primetime",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "CLI to budget Claude Code session costs",
+    "url": "https://github.com/jher7/tokenyst",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Is he OK? Senior safety monitoring app",
+    "url": "https://howareu.app/",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "ChonkLM – Tiny language models running offline in the browser",
+    "url": "https://chonklm.com",
+    "description": "0 comments · 5 points",
+    "stars": 0,
+    "upvotes": 5,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Mlx-code – I built a \"backyard shed\" AI coding agent for Mac",
+    "url": "https://github.com/JosefAlbers/mlx-code",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Shoehorn – Backstage without the maintenance overhead",
+    "url": "https://shoehorn.dev",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Free C course called \"C Systems Lab\"",
+    "url": "https://csystemslab.com/",
+    "description": "1 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "How-to-Train-Your-GPT",
+    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "You can edit the game by chatting with it",
+    "url": "https://aion.quest/",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "I made a Clojure-like language in Go, boots in 7ms",
+    "url": "https://github.com/nooga/let-go",
+    "description": "23 comments · 82 points",
+    "stars": 0,
+    "upvotes": 82,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Durable async jobs for x402-paid APIs",
+    "url": "https://github.com/clearedink/cleared-jobs",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "AirScore – Daily air-quality emails synthesizing EPA, NOAA, and pollen",
+    "url": "https://getairscore.com",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "My AI agents bully each other to prevent context drift",
+    "url": "https://wuphf.team",
+    "description": "0 comments · 3 points",
+    "stars": 0,
+    "upvotes": 3,
+    "topics": []
+  }
+]
