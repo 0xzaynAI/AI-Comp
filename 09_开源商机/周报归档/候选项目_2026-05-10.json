@@ -1,0 +1,66 @@
+[
+  {
+    "name": "ruvnet/ruflo",
+    "source": "github",
+    "url": "https://github.com/ruvnet/ruflo",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "stars": 0,
+    "weekly_growth": 11779,
+    "upvotes": 0,
+    "language": "",
+    "topics": [
+      "TypeScript"
+    ],
+    "category": "productivity",
+    "keep": true,
+    "keep_reason": "包含鼓励关键词: 'learning'",
+    "problem_solved": "学习者需要个性化的学习辅助",
+    "target_user": "学生/自学者",
+    "willingness_to_pay": "$10-25/月",
+    "mvp_feasibility": "✅ 1周内可实现核心功能 MVP",
+    "competitors": [],
+    "commercial_license": ""
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "source": "github",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "stars": 0,
+    "weekly_growth": 11541,
+    "upvotes": 0,
+    "language": "",
+    "topics": [
+      "Python"
+    ],
+    "category": "fintech",
+    "keep": true,
+    "keep_reason": "包含鼓励关键词: 'trading'",
+    "problem_solved": "个人投资者需要专业的交易分析工具",
+    "target_user": "个人投资者/交易员",
+    "willingness_to_pay": "$20-50/月（金融工具付费意愿强）",
+    "mvp_feasibility": "✅ 1周内可实现核心功能 MVP",
+    "competitors": [],
+    "commercial_license": ""
+  },
+  {
+    "name": "Sigma Guard – deterministic contradiction checks for graph memory",
+    "source": "hackernews",
+    "url": "https://news.ycombinator.com/item?id=48078195",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 1,
+    "language": "",
+    "topics": [],
+    "category": "data_viz",
+    "keep": true,
+    "keep_reason": "类别符合: 数据/可视化",
+    "problem_solved": "待进一步调研确定",
+    "target_user": "待进一步调研确定",
+    "willingness_to_pay": "待评估",
+    "mvp_feasibility": "⚠️ 需进一步调研后评估",
+    "competitors": [],
+    "commercial_license": ""
+  }
+]

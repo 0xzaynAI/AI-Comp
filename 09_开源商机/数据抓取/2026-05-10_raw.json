@@ -14,7 +14,7 @@
     "source": "github",
     "name": "ruvnet/ruflo",
     "url": "https://github.com/ruvnet/ruflo",
-    "description": "",
+    "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
     "stars": 0,
     "weekly_growth": 11779,
     "topics": [
@@ -25,7 +25,7 @@
     "source": "github",
     "name": "TauricResearch/TradingAgents",
     "url": "https://github.com/TauricResearch/TradingAgents",
-    "description": "",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
     "stars": 0,
     "weekly_growth": 11541,
     "topics": [
@@ -36,7 +36,7 @@
     "source": "github",
     "name": "docusealco/docuseal",
     "url": "https://github.com/docusealco/docuseal",
-    "description": "",
+    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
     "stars": 0,
     "weekly_growth": 4200,
     "topics": [
@@ -47,7 +47,7 @@
     "source": "github",
     "name": "virattt/dexter",
     "url": "https://github.com/virattt/dexter",
-    "description": "",
+    "description": "An autonomous agent for deep financial research",
     "stars": 0,
     "weekly_growth": 3035,
     "topics": [
@@ -56,9 +56,9 @@
   },
   {
     "source": "github",
-    "name": "sponsors/soxoj",
-    "url": "https://github.com/sponsors/soxoj",
-    "description": "",
+    "name": "soxoj/maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
     "stars": 0,
     "weekly_growth": 4749,
     "topics": [
@@ -69,7 +69,7 @@
     "source": "github",
     "name": "1jehuang/jcode",
     "url": "https://github.com/1jehuang/jcode",
-    "description": "",
+    "description": "Coding Agent Harness",
     "stars": 0,
     "weekly_growth": 2710,
     "topics": [
@@ -80,7 +80,7 @@
     "source": "github",
     "name": "cocoindex-io/cocoindex",
     "url": "https://github.com/cocoindex-io/cocoindex",
-    "description": "",
+    "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
     "stars": 0,
     "weekly_growth": 1845,
     "topics": [
@@ -91,7 +91,7 @@
     "source": "github",
     "name": "AIDC-AI/Pixelle-Video",
     "url": "https://github.com/AIDC-AI/Pixelle-Video",
-    "description": "",
+    "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
     "stars": 0,
     "weekly_growth": 5181,
     "topics": [
@@ -100,9 +100,9 @@
   },
   {
     "source": "github",
-    "name": "sponsors/mattpocock",
-    "url": "https://github.com/sponsors/mattpocock",
-    "description": "",
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
     "stars": 0,
     "weekly_growth": 13770,
     "topics": [
@@ -113,7 +113,7 @@
     "source": "github",
     "name": "browserbase/skills",
     "url": "https://github.com/browserbase/skills",
-    "description": "",
+    "description": "Browserbase's official collection of agent skills to access the web.",
     "stars": 0,
     "weekly_growth": 1554,
     "topics": [
@@ -124,7 +124,7 @@
     "source": "github",
     "name": "decolua/9router",
     "url": "https://github.com/decolua/9router",
-    "description": "",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
     "stars": 0,
     "weekly_growth": 2593,
     "topics": [
@@ -135,7 +135,7 @@
     "source": "github",
     "name": "openai/symphony",
     "url": "https://github.com/openai/symphony",
-    "description": "",
+    "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
     "stars": 0,
     "weekly_growth": 2307,
     "topics": [
@@ -144,9 +144,9 @@
   },
   {
     "source": "github",
-    "name": "sponsors/InsForge",
-    "url": "https://github.com/sponsors/InsForge",
-    "description": "",
+    "name": "InsForge/InsForge",
+    "url": "https://github.com/InsForge/InsForge",
+    "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
     "stars": 0,
     "weekly_growth": 1270,
     "topics": [
@@ -157,7 +157,7 @@
     "source": "github",
     "name": "fspecii/ace-step-ui",
     "url": "https://github.com/fspecii/ace-step-ui",
-    "description": "",
+    "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
     "stars": 0,
     "weekly_growth": 1217,
     "topics": [
@@ -168,7 +168,7 @@
     "source": "github",
     "name": "Q00/ouroboros",
     "url": "https://github.com/Q00/ouroboros",
-    "description": "",
+    "description": "Agent OS: Stop prompting. Start specifying.",
     "stars": 0,
     "weekly_growth": 759,
     "topics": [

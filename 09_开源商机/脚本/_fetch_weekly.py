@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Weekly data fetcher v2 — fixed parsers for GitHub, PH, HN"""
+"""Weekly data fetcher v3 — fixed description + sponsors filter"""
 import json, os, sys, datetime, re
 import urllib.request
 
 today = datetime.date.today().isoformat()
 results = []
 
-# ---- 1. GitHub Trending (weekly) — improved parser ----
+# ---- 1. GitHub Trending (weekly) ----
 print("[1/3] Fetching GitHub Trending...")
 try:
     gh_url = "https://github.com/trending?since=weekly"
@@ -17,31 +17,32 @@ try:
     articles = re.findall(r'<article[^>]*class="Box-row".*?</article>', html, re.DOTALL)
     gh_count = 0
     for art in articles:
-        # Get all hrefs, find the one with /owner/repo (skip login, stargazers, forks)
+        # Get all hrefs, find /owner/repo
         hrefs = re.findall(r'href="(/[^"]+)"', art)
         repo_href = None
         for h in hrefs:
             parts = h.strip('/').split('/')
-            if len(parts) == 2 and h not in ['/login', '/settings'] and not any(x in h for x in ['stargazers','forks','login','return_to']):
+            if len(parts) == 2 and '?' not in h and '#' not in h:
+                # Filter out non-repo links
+                if parts[0] in ['login','settings','sponsors','apps','orgs','marketplace']:
+                    continue
+                if any(x in h for x in ['stargazers','forks','return_to']):
+                    continue
                 repo_href = h
                 break
         if not repo_href:
             continue
         full_name = repo_href.strip('/')
 
-        # Description: try to find the long text in the p tag
+        # Description: in <p class="col-9 color-fg-muted my-1 tmp-pr-4">
         desc = ""
-        p_blocks = re.findall(r'<p[^>]*>(.*?)</p>', art, re.DOTALL)
-        for p in p_blocks:
-            text = re.sub(r'<[^>]+>', ' ', p).strip()
-            text = re.sub(r'\s+', ' ', text)
-            # Skip short/star blocks
-            if len(text) > 20 and 'Star' not in text[:20]:
-                # Clean repeated owner/repo prefix
-                text = re.sub(r'^\S+/\S+\s+', '', text).strip()
-                if len(text) > 10:
-                    desc = text
-                    break
+        desc_m = re.search(
+            r'<p class="col-9 color-fg-muted my-1[^"]*"[^>]*>\s*(.*?)\s*</p>',
+            art, re.DOTALL
+        )
+        if desc_m:
+            desc = re.sub(r'<[^>]+>', '', desc_m.group(1))
+            desc = re.sub(r'\s+', ' ', desc).strip()
 
         # Stars this week
         stars_m = re.search(r'(\d[\d,]*)\s*stars?\s*(this week|today)', art)
@@ -65,14 +66,14 @@ try:
 except Exception as e:
     print(f"   GitHub ERROR: {e}")
 
-# ---- 2. Product Hunt — try multiple approaches ----
+# ---- 2. Product Hunt ----
 print("[2/3] Fetching Product Hunt...")
 ph_count = 0
 ph_approaches = []
 
 # Approach A: RSS feed
 try:
-    rss_url = "https://www.producthunt.com/feed?category=undefined"
+    rss_url = "https://www.producthunt.com/feed"
     req = urllib.request.Request(rss_url, headers={
         "User-Agent": "Mozilla/5.0 (compatible; PhantomBot/1.0)"
     })
@@ -95,11 +96,11 @@ try:
                 "topics": []
             })
             ph_count += 1
-    ph_approaches.append(f"RSS: {len(items)} items, {ph_count} parsed")
+    ph_approaches.append(f"RSS: {len(items)} items -> {ph_count}")
 except Exception as e:
     ph_approaches.append(f"RSS: {e}")
 
-# Approach B: If RSS failed, try PH homepage with proper headers
+# Approach B: PH homepage
 if ph_count < 5:
     try:
         ph_url = "https://www.producthunt.com/"
@@ -109,7 +110,6 @@ if ph_count < 5:
             "Accept-Language": "en-US,en;q=0.9"
         })
         html = urllib.request.urlopen(req, timeout=20).read().decode(errors='replace')
-        # Look for __NEXT_DATA__ or product cards
         next_data = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.DOTALL)
         if next_data:
             nd = json.loads(next_data.group(1))
@@ -132,14 +132,16 @@ if ph_count < 5:
                             "topics": []
                         })
                         ph_b += 1
-            ph_count += ph_b
-            ph_approaches.append(f"NextJS: {ph_b} posts")
+                        ph_count += 1
+            ph_approaches.append(f"NextJS: {ph_b}")
+        else:
+            ph_approaches.append("NextJS: no __NEXT_DATA__")
     except Exception as e:
         ph_approaches.append(f"NextJS: {e}")
 
 print(f"   ProductHunt: {ph_count} products ({'; '.join(ph_approaches)})")
 
-# ---- 3. Hacker News Show HN (via Algolia API) ----
+# ---- 3. Hacker News Show HN (Algolia API) ----
 print("[3/3] Fetching Hacker News Show HN...")
 try:
     week_ago = int((datetime.datetime.now() - datetime.timedelta(days=7)).timestamp())
