@@ -11,14 +11,14 @@
             "id": "4b7008a6768aed72",
             "type": "leaf",
             "state": {
-              "type": "markwhen-view",
+              "type": "markdown",
               "state": {
-                "file": "Markwhen/Markwhen 5-6-2026 11.14.45.mw",
+                "file": "05_想法草稿/20260509_到账限时_MVP方案与收入模型.md",
                 "mode": "source",
                 "source": false
               },
-              "icon": "markwhen-icon",
-              "title": "Markwhen 5-6-2026 11.14.45.mw"
+              "icon": "lucide-file",
+              "title": "20260509_到账限时_MVP方案与收入模型"
             }
           }
         ]
@@ -200,12 +200,15 @@
   },
   "active": "4b7008a6768aed72",
   "lastOpenFiles": [
+    "05_想法草稿/20260514_AI汽车摄影平台.md",
+    "03_用户分析/自我认知_用户画像分析.md",
+    "03_用户分析/跨境情报赛道_用户画像.md",
+    "Markwhen/Markwhen 5-6-2026 11.14.45.mw",
     "11_成功案例拆解/产品库/产品_Feather.md",
     "09_开源商机/开源商机数据库.md",
     "09_开源商机/开源项目数据库.base",
     "09_开源商机/周报归档/周报_2026-05-10.md",
     "09_开源商机/周报归档/周报_2026-05-03.md",
-    "03_用户分析/跨境情报赛道_用户画像.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Quack_–_The_DuckDB_Client-Server_Protocol.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/EasilyAcquired_–_First_website_brokerage_for_selling_side_projects.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Profitable_side_projects_for_sale_under_$1MM.md",
@@ -225,8 +228,6 @@
     "10_赚钱产品挖掘/日报归档/候选项目库/Statewright_–_Visual_state_machines_for_reliable_AI_agents.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Needle:_Distilled_Gemini_Tool_Calling_into_a_26M_Model.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Gigacatalyst_–_Extend_your_SaaS_with_an_embedded_AI_builder.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/MRRescue_–_emergency_SaaS_recovery_service.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Resonly_–_prioritize_feature_requests_by_revenue_impact.md",
     "10_赚钱产品挖掘/日报归档/候选项目_2026-05-13.json",
     "10_赚钱产品挖掘/数据抓取/2026-05-13_raw.json",
     "09_开源商机/周报归档/候选项目_2026-05-10.json",
@@ -234,7 +235,6 @@
     "10_赚钱产品挖掘/数据抓取/2026-05-10_raw.json",
     "09_开源商机/数据抓取/2026-05-10_raw.json",
     "09_开源商机/脚本/_fetch_weekly.py",
-    "10_赚钱产品挖掘/日报归档/候选项目_2026-05-09.json",
-    "10_赚钱产品挖掘/数据抓取/2026-05-09_raw.json"
+    "10_赚钱产品挖掘/日报归档/候选项目_2026-05-09.json"
   ]
 }
