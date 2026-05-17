@@ -1,0 +1,613 @@
+[
+  {
+    "source": "github",
+    "name": "CloakHQ/CloakBrowser",
+    "url": "https://github.com/CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "stars": 12660,
+    "weekly_growth": 8618,
+    "topics": [
+      "ai-agents",
+      "anti-detect",
+      "antidetect-browser",
+      "bot-detection",
+      "browser-automation",
+      "captcha-bypass",
+      "chromium",
+      "cloudflare",
+      "cloudflare-bypass",
+      "fingerprint",
+      "headless-browser",
+      "playwright",
+      "puppeteer",
+      "python",
+      "recaptcha",
+      "selenium",
+      "stealth-browser",
+      "undetected",
+      "web-scraping",
+      "webscraping"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "yikart/AiToEarn",
+    "url": "https://github.com/yikart/AiToEarn",
+    "description": "Let's use AI to Earn!",
+    "stars": 14283,
+    "weekly_growth": 4765,
+    "topics": [
+      "auto-publish",
+      "douyin",
+      "douyin-api",
+      "electron-app",
+      "electron-react",
+      "kuaishou",
+      "kwai",
+      "published",
+      "shipinhao",
+      "tool",
+      "xiaohongshu"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "anthropics/financial-services",
+    "url": "https://github.com/anthropics/financial-services",
+    "description": "",
+    "stars": 23822,
+    "weekly_growth": 6935,
+    "topics": []
+  },
+  {
+    "source": "github",
+    "name": "bytedance/UI-TARS-desktop",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "stars": 34236,
+    "weekly_growth": 3105,
+    "topics": [
+      "agent",
+      "agent-tars",
+      "browser-use",
+      "computer-use",
+      "cowork",
+      "gui-agent",
+      "gui-operator",
+      "mcp",
+      "mcp-server",
+      "multimodal",
+      "tars",
+      "ui-tars",
+      "vision",
+      "vlm"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "decolua/9router",
+    "url": "https://github.com/decolua/9router",
+    "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "stars": 11116,
+    "weekly_growth": 4798,
+    "topics": [
+      "ai-agents",
+      "ai-gateway",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "cline",
+      "codex",
+      "copilot",
+      "cursor",
+      "deepseek",
+      "free-ai",
+      "gemini",
+      "gemini-cli",
+      "llm",
+      "llm-gateway",
+      "openai",
+      "openai-proxy",
+      "qwen",
+      "token-saver"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "Imbad0202/academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "stars": 8106,
+    "weekly_growth": 2769,
+    "topics": [
+      "academic-pipeline",
+      "academic-writing",
+      "ai-research",
+      "claude",
+      "claude-code",
+      "literature-review",
+      "peer-review",
+      "prompt-engineering"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "stars": 91240,
+    "weekly_growth": 1328,
+    "topics": [
+      "bun",
+      "bundler",
+      "javascript",
+      "javascriptcore",
+      "jsx",
+      "nodejs",
+      "npm",
+      "react",
+      "transpiler",
+      "typescript",
+      "zig",
+      "ziglang"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "HKUDS/AI-Trader",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+    "stars": 17567,
+    "weekly_growth": 2475,
+    "topics": []
+  },
+  {
+    "source": "github",
+    "name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "stars": 58363,
+    "weekly_growth": 5861,
+    "topics": [
+      "agentic-ai",
+      "densepose",
+      "esp32",
+      "firmware",
+      "mcu",
+      "mincut",
+      "monitoring",
+      "pose-estimation",
+      "rf",
+      "self",
+      "self-learning",
+      "spatial-intelligence",
+      "wifi",
+      "wifi-hacking",
+      "wifi-security",
+      "world-model"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "apernet/hysteria",
+    "url": "https://github.com/apernet/hysteria",
+    "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+    "stars": 20956,
+    "weekly_growth": 1042,
+    "topics": [
+      "censorship-circumvention",
+      "golang",
+      "http-proxy",
+      "hysteria",
+      "proxy",
+      "quic",
+      "relay",
+      "reliable-udp",
+      "socks5",
+      "tun",
+      "vpn"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "millionco/react-doctor",
+    "url": "https://github.com/millionco/react-doctor",
+    "description": "Your agent writes bad React. This catches it",
+    "stars": 9775,
+    "weekly_growth": 2643,
+    "topics": [
+      "agents",
+      "code-review",
+      "doctor",
+      "react",
+      "skill"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "playcanvas/supersplat",
+    "url": "https://github.com/playcanvas/supersplat",
+    "description": "3D Gaussian Splat Editor",
+    "stars": 8169,
+    "weekly_growth": 2108,
+    "topics": [
+      "3d-gaussian-splatting",
+      "3dgs",
+      "gaussian-splatting",
+      "pcui",
+      "playcanvas",
+      "typescript",
+      "webgl",
+      "webgpu"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "url": "https://github.com/cactus-compute/needle",
+    "description": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "upvotes": 756,
+    "comments": 210,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "I made a Clojure-like language in Go, boots in 7ms",
+    "url": "https://github.com/nooga/let-go",
+    "description": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+    "upvotes": 287,
+    "comments": 85,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Rust but Lisp",
+    "url": "https://github.com/ThatXliner/rust-but-lisp",
+    "description": "Show HN: Rust but Lisp",
+    "upvotes": 214,
+    "comments": 73,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "TikTok but for scientific papers",
+    "url": "https://andreaturchet.github.io/website/index.html",
+    "description": "Show HN: TikTok but for scientific papers",
+    "upvotes": 195,
+    "comments": 77,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Watch a neural net learn to play Snake",
+    "url": "https://ppo.gradexp.xyz/",
+    "description": "Show HN: Watch a neural net learn to play Snake",
+    "upvotes": 186,
+    "comments": 44,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "TRUST – Coding Rust like it's 1989",
+    "url": "https://github.com/wojtczyk/trust",
+    "description": "Show HN: TRUST – Coding Rust like it's 1989",
+    "upvotes": 177,
+    "comments": 87,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "An index of indie web/blog indexes",
+    "url": "https://theindex.fyi",
+    "description": "Show HN: An index of indie web/blog indexes",
+    "upvotes": 154,
+    "comments": 39,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Statewright – Visual state machines that make AI agents reliable",
+    "url": "https://github.com/statewright/statewright",
+    "description": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+    "upvotes": 124,
+    "comments": 54,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Running the second public ODoH relay",
+    "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+    "description": "Show HN: Running the second public ODoH relay",
+    "upvotes": 123,
+    "comments": 41,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "A modern Music Player Daemon based on Rockbox firmware",
+    "url": "https://github.com/tsirysndr/rockbox-zig",
+    "description": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+    "upvotes": 122,
+    "comments": 28,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Burn, baby, burn (those tokens)",
+    "url": "https://github.com/dtnewman/burn-baby-burn",
+    "description": "Show HN: Burn, baby, burn (those tokens)",
+    "upvotes": 116,
+    "comments": 26,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+    "url": "https://github.com/ab-613/opengravity",
+    "description": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
+    "upvotes": 105,
+    "comments": 30,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Nibble",
+    "url": "https://github.com/glouw/nibble",
+    "description": "Show HN: Nibble",
+    "upvotes": 100,
+    "comments": 24,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Agentic interface for mainframes and COBOL",
+    "url": "https://www.hypercubic.ai/hopper",
+    "description": "Show HN: Agentic interface for mainframes and COBOL",
+    "upvotes": 97,
+    "comments": 50,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Epiq – Distributed Git based issue tracker TUI",
+    "url": "https://ljtn.github.io/epiq/",
+    "description": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+    "upvotes": 84,
+    "comments": 45,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Countries where you can leave your MacBook at a random coffee shop",
+    "url": "https://vouchatlas.com",
+    "description": "Show HN: Countries where you can leave your MacBook at a random coffee shop",
+    "upvotes": 76,
+    "comments": 91,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Gigacatalyst – Extend your SaaS with an embedded AI builder",
+    "url": "https://news.ycombinator.com/item?id=48110593",
+    "description": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
+    "upvotes": 60,
+    "comments": 27,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Race to the Bottom",
+    "url": "https://race-to-the-bottom.onrender.com",
+    "description": "Show HN: Race to the Bottom",
+    "upvotes": 59,
+    "comments": 49,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Rocksky – Music scrobbling and discovery on the AT Protocol",
+    "url": "https://tangled.org/rocksky.app/rocksky",
+    "description": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+    "upvotes": 57,
+    "comments": 21,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "GridTravel – A community based travel app for users to share routes",
+    "url": "https://www.gridtravel.app",
+    "description": "Show HN: GridTravel – A community based travel app for users to share routes",
+    "upvotes": 57,
+    "comments": 37,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Sx – an open-source package manager for AI skills, MCPs, and commands",
+    "url": "https://github.com/sleuth-io/sx",
+    "description": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
+    "upvotes": 47,
+    "comments": 25,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Vibe Coding a $20k /Year Enterprise Logistics Platform",
+    "url": "https://trmnl.com/blog/vibe-coding-shiphero",
+    "description": "Show HN: Vibe Coding a $20k /Year Enterprise Logistics Platform",
+    "upvotes": 31,
+    "comments": 6,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Browser based sythesizer, drum machine and squencer",
+    "url": "https://github.com/madmonk13/modal-16",
+    "description": "Show HN: Browser based sythesizer, drum machine and squencer",
+    "upvotes": 18,
+    "comments": 3,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "A Dark Cave – Minimalistic Graphics in the Age of AI Slop",
+    "url": "https://a-dark-cave.com/",
+    "description": "Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop",
+    "upvotes": 11,
+    "comments": 5,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "JDS – a Copilot skill suite for structuring AI coding behavior",
+    "url": "https://github.com/josipmusa/jds",
+    "description": "Show HN: JDS – a Copilot skill suite for structuring AI coding behavior",
+    "upvotes": 8,
+    "comments": 0,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Strava for AI coding – analytics on your Copilot/Claude/Codex usage",
+    "url": "https://github.com/microsoft/AI-Engineering-Coach",
+    "description": "Show HN: Strava for AI coding – analytics on your Copilot/Claude/Codex usage",
+    "upvotes": 7,
+    "comments": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Infinite Swap – Trade a bottle cap up to a house",
+    "url": "https://infiniteswap.app/",
+    "description": "Show HN: Infinite Swap – Trade a bottle cap up to a house",
+    "upvotes": 6,
+    "comments": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Claude64, a Commodore 64 client for Claude",
+    "url": "https://github.com/theletterf/claude64",
+    "description": "Show HN: Claude64, a Commodore 64 client for Claude",
+    "upvotes": 6,
+    "comments": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "VisiSign – $0.10 per envelope e-signatures with no monthly fee",
+    "url": "https://visisign.app/",
+    "description": "Show HN: VisiSign – $0.10 per envelope e-signatures with no monthly fee",
+    "upvotes": 6,
+    "comments": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "MIT OSS LinkedIn DMs for Agents (CLI and Example TUI)",
+    "url": "https://allman.sh",
+    "description": "Show HN: MIT OSS LinkedIn DMs for Agents (CLI and Example TUI)",
+    "upvotes": 5,
+    "comments": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Hermes-agentmemory, pull-model episodic memory with real deletes",
+    "url": "https://github.com/MukundaKatta/hermes-agentmemory",
+    "description": "Show HN: Hermes-agentmemory, pull-model episodic memory with real deletes",
+    "upvotes": 4,
+    "comments": 0,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "ShaderKit – A browser GLSL editor I built for my own art",
+    "url": "https://shaderkit.com/app",
+    "description": "Show HN: ShaderKit – A browser GLSL editor I built for my own art",
+    "upvotes": 4,
+    "comments": 0,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "SwarmWright, structured multi-agent AI defined in markdowns",
+    "url": "https://www.swarmwright.com/",
+    "description": "Show HN: SwarmWright, structured multi-agent AI defined in markdowns",
+    "upvotes": 4,
+    "comments": 0,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Got ghosted by tech companies so I built a tool to track ghost jobs",
+    "url": "https://csvfirst.pythonanywhere.com/insights/hiring-data/job-listings-that-stay-open-for-years/",
+    "description": "Show HN: Got ghosted by tech companies so I built a tool to track ghost jobs",
+    "upvotes": 3,
+    "comments": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Swpui, a TUI for case-aware search and replace",
+    "url": "https://github.com/beeb/swpui",
+    "description": "Show HN: Swpui, a TUI for case-aware search and replace",
+    "upvotes": 3,
+    "comments": 0,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "WolfSPDM a embedded focused requester SPDM 1.2 Stack built on WolfSSL",
+    "url": "https://github.com/aidangarske/wolfSPDM",
+    "description": "Show HN: WolfSPDM a embedded focused requester SPDM 1.2 Stack built on WolfSSL",
+    "upvotes": 3,
+    "comments": 0,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "TinySearch - Give small LLMs fast web access without context bloat",
+    "url": "https://github.com/MarcellM01/TinySearch",
+    "description": "Show HN: TinySearch - Give small LLMs fast web access without context bloat",
+    "upvotes": 3,
+    "comments": 0,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "I built a screen recorder that captures console logs, requests and more",
+    "url": "https://userplane.io/",
+    "description": "Show HN: I built a screen recorder that captures console logs, requests and more",
+    "upvotes": 2,
+    "comments": 0,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "LightningTrack – Issue tracker built for AI-assisted development",
+    "url": "https://lightningtrack.io/login",
+    "description": "Show HN: LightningTrack – Issue tracker built for AI-assisted development",
+    "upvotes": 2,
+    "comments": 0,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Profine – optimize your PyTorch training script before the run",
+    "url": "https://github.com/ProfineAI/profine-cli",
+    "description": "Show HN: Profine – optimize your PyTorch training script before the run",
+    "upvotes": 2,
+    "comments": 0,
+    "topics": []
+  },
+  {
+    "source": "producthunt",
+    "name": "_unavailable",
+    "url": "",
+    "description": "Product Hunt data unavailable this week - Cloudflare anti-bot protection blocked all scraping attempts. Recommend configuring a PH API token for future runs.",
+    "upvotes": 0,
+    "topics": []
+  }
+]
