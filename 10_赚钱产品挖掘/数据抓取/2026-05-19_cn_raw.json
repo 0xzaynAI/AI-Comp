@@ -1,0 +1,514 @@
+[
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "自动化（盈利）个人交易系统设计分享",
+    "url": "https://www.v2ex.com/t/1213665",
+    "description": "自动化（盈利）个人交易系统设计分享. 系统作用：（简称：快速赚钱）实现非人工化量化盈利能力。\n\n盈利能力：本金 60 刀，过去一个月盈利 125 刀，见最后截图。\n\n经受考验：过去一周大跌，大部分专业人员亏损严重，程序几乎无亏损。\n\n灵感来源：传统基金及人工股票交易中，常因情绪化操作、追涨杀跌及反应延迟导致持续亏损。\n\n实现方式：基于市场涨跌逻辑、趋势结构及波动分析，对行情进行实时计算，实现 7×24 小时自动化交易执行。\n\n代码数量：8k 行。\n\n代码周期：2026/03/08-2026/04/15\n\n测试周期：2026/04/16-2026/05/18\n\n后期规划：持续优化策略模型、风险控制及趋势识别能力，欢迎共同交流学习。\n",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 4,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "🪩 Discogo：受 Spotify 新 logo 启发开发了个新玩意，将任意 logo 或图片转为 3D 迪斯科球",
+    "url": "https://www.v2ex.com/t/1213657",
+    "description": "🪩 Discogo：受 Spotify 新 logo 启发开发了个新玩意，将任意 logo 或图片转为 3D 迪斯科球. 之前看到 Spotify 20 周年的 logo 很有趣，于是一晚上写了个生成器：🪩 **Discogo**\r\n\r\n它能把任何 logo 或图片，瞬间变成闪闪发光的 3D 金属迪斯科球徽章。鼠标划过时，还会有动态光影的体验\r\n\r\n支持智能底色识别，支持新 logo 导出。欢迎把自己的 logo 传上去玩~\r\n\r\n体验地址： https://discogo.vercel.app\r\n\r\n欢迎贴出你的创作，欢迎反馈~\r\n\r\n![]( https://stimg.de/img/2026/05/19/RHGcy.png)",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "首个开源数字人 Agent 框架，打造你的专属“老婆”",
+    "url": "https://www.v2ex.com/t/1213654",
+    "description": "首个开源数字人 Agent 框架，打造你的专属“老婆”. hello ，我又来啦，距离上次发帖过去 28 天，我的开源项目在 github 收获了 554 颗 star ，我看了后台，前期大部分的流量都来自 V 站，这时必须喊一句 V 站牛逼，并且真心感谢 V 佬们，高低给各位磕一个。\r\n回顾贴： https://www.v2ex.com/t/1207445\r\n\r\n由于上次发帖匆忙，只说了三句话，确实没有好好介绍一下这个项目（导致很多 V 友只关心能不能脱衣服，我先声明我不知道，大家可以自己去试一下）。经过一个月的迭代和思考，我想重新认真的介绍一下这个项目。\r\n\r\nBG:得益于开源数字人模型性能的不断提升，现在仅用消费级显卡就能做到和数字人进行实时视",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "我的浏览器插件 chatshell 用户数突破 1000 了🎉🎉🎉",
+    "url": "https://www.v2ex.com/t/1213649",
+    "description": "我的浏览器插件 chatshell 用户数突破 1000 了🎉🎉🎉. 最近这一周用户涨得好快啊，从 75 直接变成了 641 今天打开后台看已经变成 1026 了，太开心了🥳\n\n流量突增，还没有分析流量来源是哪里\n\nhttps://i.imgur.com/ZVMW14t.jpeg\n\nhttps://i.imgur.com/s4AQPhs.jpeg",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "WiFi Lens：一个 macOS Wi-Fi 频谱分析器",
+    "url": "https://www.v2ex.com/t/1213647",
+    "description": "WiFi Lens：一个 macOS Wi-Fi 频谱分析器. 家里的 Wi-Fi 信号一直不太稳定，想看看周围的信道占用情况，结果发现 macOS 上没几个趁手的免费工具。有个叫 Tiny WiFi Analyzer 的开源项目骨架不错，就在它的基础上重写了一个。大佬们不喜勿喷哈。\r\n\r\n  [Wifi-lens]https://github.com/SHIINASAMA/wifi-lens\r\n\r\n  ## 它能做什么\r\n\r\n  其实就是把周围 Wi-Fi 信号的各项参数可视化出来。\r\n\r\n  **频谱图**：每个信号按信道位置和信号强度画成高斯钟形曲线，一眼能看出哪个信道拥挤。支持 2.4 / 5 / 6 GHz 三个频段，20/40/80/160 M",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "分享自己的第一个 SaaS 网站，副业探索的又一个里程碑。",
+    "url": "https://www.v2ex.com/t/1213639",
+    "description": "分享自己的第一个 SaaS 网站，副业探索的又一个里程碑。. https://www.v2ex.com/t/1126872#reply16 \r\n去年差不多这个时候，我正是失业期间，然后我在 V 站分享了我出海搞网站的第一个作品。\r\n\r\n今年开始我准备尝试搞 SaaS 订阅站。\r\n\r\n为啥会转战搞订阅站呢，一个是因为最近谷歌 Ads 账号因为异常流量被限制了，及其蛋疼。\r\n\r\n还有一个就是订阅站的上限会更高。\r\n\r\n话不多话，网站地址是:\r\nhttps://aikitchenpreview.com/\r\n\r\n还专门用 AI 搞了一个视频：\r\nhttps://youtu.be/vCQhgdNSrHo\r\n\r\n当然，因为是头一次搞，比较粗糙。\r\n\r\n而且我也没有使",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "我做了个工具，能把长视频自动转字幕、找高光、导出剪辑时间线",
+    "url": "https://www.v2ex.com/t/1213625",
+    "description": "我做了个工具，能把长视频自动转字幕、找高光、导出剪辑时间线. 如果你经常处理长视频，应该会懂这种痛苦：\r\n\r\n- 先转字幕\r\n- 再看哪里值得剪\r\n- 再整理时间线\r\n- 再进剪辑软件\r\n- 很多步骤其实都很机械\r\n\r\n所以我最近做了个工具 pycut ，专门处理这一步。\r\n\r\n它可以：\r\n\r\n- 本地转录\r\n- AI 找高光\r\n- 生成字幕\r\n- 双语翻译\r\n- 导出 FCPXML\r\n- 直接输出带字幕视频\r\n\r\n比较适合：\r\n\r\n- 播客\r\n- 访谈\r\n- 课程录屏\r\n- YouTube 长视频拆条\r\n- 短视频二次剪辑素材整理\r\n\r\n目前主要支持 Apple Silicon Mac 。\r\n\r\n项目地址：\r\nhttps://github.com/cl",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "V2EX Chrome 插件：实时预览输入的评论并做语法检查、快速查看对方上一条回复、注册日期与主题/回复数。",
+    "url": "https://www.v2ex.com/t/1213622",
+    "description": "V2EX Chrome 插件：实时预览输入的评论并做语法检查、快速查看对方上一条回复、注册日期与主题/回复数。. ## 首先，下载地址\r\n\r\nhttps://chromewebstore.google.com/detail/v2ex-%E9%A1%BA%E8%97%A4/nhldndnlbadpfhicnjmcidhedejgjeab?authuser=0&hl=en\r\n\r\n纯本地实现，不收集任何数据。\r\n\r\n\r\n## 为啥要再做一个 Chrome 插件\r\n\r\n大概 2016 或者 2017 年的时候有个插件，实现了 2 个简单的功能：\r\n1. A 在帖子里回复了一条评论。\r\n2. B mention (@) 了 A ，进行了回复。\r\n3. 这时候鼠标悬停到“@A”的用户名上，能直接显示上一条 A 的评论",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "一觉醒来， V2EX Polish 被 chrome 自动停用了",
+    "url": "https://www.v2ex.com/t/1213664",
+    "description": "一觉醒来， V2EX Polish 被 chrome 自动停用了. 重新打开显示需要更多的权限提醒，但是点击重新启动就可以了",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "Addi Data Breach",
+    "url": "https://www.v2ex.com/t/1213658",
+    "description": "Addi Data Breach. https://haveibeenpwned.com/Breach/Addi\r\n\r\n\r\n今年 3 月,哥伦比亚金融科技公司 Addi 在其平台上发现了未经授权的活动，并告知客户“您的个人信息可能已被泄露”。“不付钱就泄密”敲诈勒索组织 ShinyHunters 随后声称对此负责，并公布了大量据称从阿迪获得的个人数据。数据包括信用评分请求、信用局记录、客户身份记录和电子邮件验证日志的 3400 万个唯一电子邮件地址，还包含政府颁发的身份证件、估计收入、经济水平、支付情况和其他与信贷相关的数据。\r\n\r\n\r\n泄露情况概述：影响数量:3450 万，发生时间:2026 年 3 月，添加到 HIBP 的日",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "V2 终于支持 Passkey 了，喜大普奔",
+    "url": "https://www.v2ex.com/t/1213623",
+    "description": "V2 终于支持 Passkey 了，喜大普奔. 再也不用 记住密码和复制粘贴 2FA 了\r\nhttps://i.imgur.com/WkkQ16J.png",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 6,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "最近在玩 Subnautica 2，感觉探索感还在",
+    "url": "https://www.v2ex.com/t/1213569",
+    "description": "最近在玩 Subnautica 2，感觉探索感还在. 这几天在玩 Subnautica 2 ，感觉探索和生存的味道还在。\r\n\r\n目前主要是在慢慢找资源、开地图、熟悉合成路线。\r\n\r\n早期有些材料位置不太好记，可以看这个：[Subnautica 2 攻略]( https://subnautica2.pro/)，当速查用还行。\r\n\r\n有也在玩的 V 友吗？这代目前体验怎么样？",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "给经常口腔溃疡的朋友们一个参考",
+    "url": "https://www.v2ex.com/t/1213560",
+    "description": "给经常口腔溃疡的朋友们一个参考. 被口腔溃疡折磨了五六年，严重时一个月一两次，每次持续一周左右，疼起来饭都吃不下。刷牙没落下过，各种药也试过，基本没什么用。\r\n\r\n大概半年前，发现牙龈总是出血，就去医院挂了口腔综合科。医生说我牙龈炎症比较重，牙结石也多，安排做了牙周刮治（我理解就是加强版的洗牙），分两次做完，中间隔了一周。\r\n\r\n之后牙龈出血自然解决了。而且神奇的是，刷牙和饮食习惯都没变，做完之后这半年几乎再没溃疡过。回头看，之前反复溃疡可能就和牙龈长期发炎有关。\r\n\r\n如果也长期被口腔溃疡困扰，建议可以去口腔医院的综合科看看。",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 51,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "首发安利自用日记 APP，评论免费送会员",
+    "url": "https://www.v2ex.com/t/1213553",
+    "description": "首发安利自用日记 APP，评论免费送会员. 安利一款轻量化原生日记应用《獭獭日记》\r\n主打无广告、低打扰、纯记录核心体验，摒弃多余商业化功能。\r\n适配移动端日常使用，隐私权限克制，数据读写干净，日常随笔、日程碎记、情绪存档均可满足。\r\n目前 iOS 已上架完成，功能稳定流畅，专注做好日记本身。\r\n社区福利：评论留言即可参与免费领取月卡/（ Pro/Max 双档永久会员活动），全部权益一键解锁。",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "v 站的 ugly-avatar 系列丑头像使用数量是真高啊，建议站长大人直接改为官方头像系统",
+    "url": "https://www.v2ex.com/t/1213498",
+    "description": "v 站的 ugly-avatar 系列丑头像使用数量是真高啊，建议站长大人直接改为官方头像系统. v 站的 ugly-avatar 系列丑头像使用数量是真高啊，建议站长大人直接改为官方头像系统 ![]( https://i.imgur.com/U354a32.png)  ![]( https://i.imgur.com/wEJPp4N.jpeg)",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "4K 视频转 base64—老头们的快乐生活",
+    "url": "https://www.v2ex.com/t/1213487",
+    "description": "4K 视频转 base64—老头们的快乐生活. 这几天在抖音上刷到一个做 ai 短视频的博主，演一些程序员和领导之间的故事，拍的挺有意思，好奇职场中这些类似的情况挺多吗，想到拍这个赛道的真是天才，大家可以摸鱼的时候看一集\r\n\r\n\r\nloading 换成 thinking 、往软件安装包里下奥特曼扩充安装包的大小、中文 gbk 英文 utf-8 中西合璧加密.....\r\n\r\n博主链接地址  [老头们的快乐生活]( https://www.douyin.com/search/%E8%80%81%E5%A4%B4%E4%BB%AC%E7%9A%84%E5%BF%AB%E4%B9%90%E7%94%9F%E6%B4%BB?aid=b073aa2d-",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "iOS 耳机 BLE 命令能实现接听/挂断系统电话吗？",
+    "url": "https://www.v2ex.com/t/1211192",
+    "description": "iOS 耳机 BLE 命令能实现接听/挂断系统电话吗？. 现在是有这么一个场景，我们自己的蓝牙耳机通过双击/三击是可以接听和挂断系统电话的，然后我们 leader 希望能在 App 中通过指令来实现接听/挂断。\r\n耳机使用的是纯自定义 BLE 协议 ，没有实现标准 HFP 协议连接的蓝牙耳机，非来电情况下，BLE 指令执行的都没问题，来电时音频路由被系统自动切换了，不是 A2DP ，这就导致我们的 BLE 指令执行了但是没效果，无法实现接听和拒接。\r\n\r\n耳机厂商回复的是，耳机通过 sco 传输音频，来电场景和正常场景有冲突，所以不做通话按键指令。安卓表示非 sco 模式下可以挂断接听，现在问题压力给到我们 iOS 了。\r\n怎么办呀？",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 4,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "国内注册苹果开发者账号是中文还是拼音啊",
+    "url": "https://www.v2ex.com/t/1210339",
+    "description": "国内注册苹果开发者账号是中文还是拼音啊. 之前没接触过相关的东西，想注册一个苹果开发者账号，主要是想做海外的市场，app 的下载页面的开发者显示的是中文还是拼音啊？要是中文的话，做海外市场差点意思啊",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 8,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "写苹果 App 就用 苹果 ViewModel",
+    "url": "https://www.v2ex.com/t/1209376",
+    "description": "写苹果 App 就用 苹果 ViewModel. https://swiftpackageindex.com/lwj1994/apple_view_model\r\n\r\n不同于传统的 viewmodel ，苹果 vm 不局限于只服务 ui 。\r\n基于服务注册的 伪 di 。viewModel 可充当任何层，repo service \r\n引用计数自己感知生命周期，自动销毁 vm 。\r\n\r\n`.package(url: \"https://github.com/lwj1994/apple_view_model.git\", from: \"0.3.1\")`\r\n\r\nai 使用： `npx skills add https://github.com/lwj19",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "开发 ios 并发布到苹果商店必须要求 系统和 xcode 是 26 了？",
+    "url": "https://www.v2ex.com/t/1209302",
+    "description": "开发 ios 并发布到苹果商店必须要求 系统和 xcode 是 26 了？. 今天本来想提交新版本，构建发布到 app store 的时候提示\r\nValidation failed\r\n\r\nSDK version issue. This app was built with the iOS 18.5 SDK. All iOS and iPadOS apps must be built with the iOs 26 SDK or later, included in Xcode 26 or later, in order to be uploaded to App Store Connect or submitted for distribution. (ID: e061",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 35,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "请教下大家，做了一个 ai 应用，想上架 app store 需要深度合成备案么？",
+    "url": "https://www.v2ex.com/t/1209156",
+    "description": "请教下大家，做了一个 ai 应用，想上架 app store 需要深度合成备案么？. 我去网上搜好像说需要什么深度合成算法备案，不知道是否真的需要提交，有懂的 v 友么",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 5,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "App 审核 In Review 两周了",
+    "url": "https://www.v2ex.com/t/1208103",
+    "description": "App 审核 In Review 两周了. 最近鼓捣了一个 AI Agent App （ https://github.com/samhjn/iClaw)，感觉有点意思，于是花$99 开通了 Apple Developer 账号，准备上架试试。\r\n\r\n\r\n于是经过了两轮拒审（第一轮说我 Crash on start 但没提供 Crash Report ；第二轮说我 Metadata 不合规，不能在中国区 Cue 到 OpenAI/Anthropic 以及要明确说明 HealthKit 的场景），第三轮提交目前卡在 In Review 状态快两周了。\r\n\r\n本来 Testflight 还能过审的（ https://testflight.a",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 8,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "掐指一算从去年 12 月开始 ai 编程我已经做了 8 个项目，未来希望再发个手机和游戏应用",
+    "url": "https://www.v2ex.com/t/1207878",
+    "description": "掐指一算从去年 12 月开始 ai 编程我已经做了 8 个项目，未来希望再发个手机和游戏应用. https://github.com/hooosberg?tab=repositories\r\n掐指一算从去年 12 月开始 ai 编程我已经做了 8 个项目，还有三四个不成功没上传的\r\n谷歌插件\r\nDOMPrompter \r\nBeRaw\r\nPackpour \r\n苹果电脑\r\nGlotShot\r\nTrekReel\r\nWitNote\r\nAgentLimb \r\n网站\r\nUIXskills\r\n\r\n未来还想做手机 ios 和 一个游戏\r\n还在纠结创意\r\n我的梦想希望在这个月先做个 ios 小应用移动端的\r\n最后游戏是我的神杯",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 25,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "Mac App 上架 App Store 被拒，怎么解决？",
+    "url": "https://www.v2ex.com/t/1207468",
+    "description": "Mac App 上架 App Store 被拒，怎么解决？. 理由是违反 Guideline 2.4.5 - Performance\r\n\r\n\r\nApp 需要申请辅助功能权限来实现自动粘贴的功能，我调研了很多已经上架的 app 都有这个功能和权限申请的流程，为啥就我卡这里了，那些已经上架的是怎么实现过审的？\r\n\r\n有没有过来人有经验可以分享的\r\n\r\n审核原文：\r\nIssue Description\r\n\r\nThe app requests access to Accessibility features on macOS but does not use these features for accessibility purposes. \r\n\r\nAcces",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 9,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "如何升级为金融版的 openclaw",
+    "url": "https://www.v2ex.com/t/1213635",
+    "description": "如何升级为金融版的 openclaw. 目前项目开源 4 个月了，获得了 36k star, 基础功能已经做的还行了，大家对未来有没有啥建议\r\n\r\nhttps://github.com/ZhuLinsen/daily_stock_analysis\r\n\r\n欢迎大家参与 pr ，也可以看看我主页的其他项目",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "CommandCode.ai 不能登录了吗",
+    "url": "https://www.v2ex.com/t/1213621",
+    "description": "CommandCode.ai 不能登录了吗. 给人不太靠谱的感觉。\r\n本来还想 10 块嫖 70 块钱的 DeepSeek 用呢。",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "大佬们有没有什么方便 CodeReview 的工具?支持点击跳转到对应实现的那种.",
+    "url": "https://www.v2ex.com/t/1213602",
+    "description": "大佬们有没有什么方便 CodeReview 的工具?支持点击跳转到对应实现的那种.. 现在用 Gitee 管理代码, 每次审核代码都得自己拉一个 worktree 来对着看逻辑, 太折磨了.\r\n\r\n本地用的 vscode, 代码用 gitee 管理.\r\n\r\n万分感谢🙏🏻",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "想请教一下大家日常写各种文档是怎么借助 ai 的",
+    "url": "https://www.v2ex.com/t/1213591",
+    "description": "想请教一下大家日常写各种文档是怎么借助 ai 的. 就比如一些技术设计文档啊啥的，然后最近还想写一些技术分享文档什么的，想问下大伙有什么好的经验分享啊，是找一些写文档的 skills 让 CC 或者 Codex 去写就行了吗😂，不知道还有没有更快速合适的方法，而且感觉 CC 写的一股 AI 味。。。",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 7,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "请教下，我们现在有十来年的各种文档，想要建企业知识库，该如何做",
+    "url": "https://www.v2ex.com/t/1213579",
+    "description": "请教下，我们现在有十来年的各种文档，想要建企业知识库，该如何做. 有各种 xmind pdf word confluence excel 等等文档，且对应不同的版本，大部分文档都是增量文档，而不是全量文档。\r\n\r\n该如何着手建立自己的知识库，方便大家基于知识库去问答之类的。",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 9,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "求助：大家如何解决 Mac 中使用 tmux 时，三指选择文本的冲突？",
+    "url": "https://www.v2ex.com/t/1213567",
+    "description": "求助：大家如何解决 Mac 中使用 tmux 时，三指选择文本的冲突？. 我开了两个窗格，如果使用三指选择，就会经常跨越窗格；如果使用长按选择就不会有这个问题。\r\n\r\n在 iterm 和 terminal.app 中都有这个问题。",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "求推荐下支持海外 esim 的备用机，我现在是华为荣耀 9X+淘宝买的白卡+esim 写入",
+    "url": "https://www.v2ex.com/t/1213563",
+    "description": "求推荐下支持海外 esim 的备用机，我现在是华为荣耀 9X+淘宝买的白卡+esim 写入. 现在主要的几个问题：\r\n\r\n1 、这个手机太卡了\r\n\r\n2 、装了 microG ，我发现 whatsapp 添加第二个账号会报谷歌相关的错误\r\n\r\n3 、外屏全碎，看不清\r\n\r\n尽量低成本，最高不超过 1K ，只用于接码、申请卡、养养号，不要太卡都可以。",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 11,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "推荐一个 AI 的 UI Design 比较好的方案",
+    "url": "https://www.v2ex.com/t/1213546",
+    "description": "推荐一个 AI 的 UI Design 比较好的方案. Codex 画出来的前端非常丑，装了好多 Skill 都没用，我现在都是直接用 Figma Make ，买个教育版的账号，60 块钱一年，他能帮你弄一个前端的 react 项目出来，可以在上面直接测试和调整，原型没啥大问题的话把这个项目拉下来，让 codex 照着抄，转换成你架构的代码\r\n效果非常不错，比 codex 直接出界面强多了，而且修改起来效果也比较好，唯一的问题是一个账号额度不太够，每个月只有 3000 的 credit ，如果不够可以多开几个，反正一年也才 60 块钱",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 22,
+    "has_revenue": false
+  }
+]

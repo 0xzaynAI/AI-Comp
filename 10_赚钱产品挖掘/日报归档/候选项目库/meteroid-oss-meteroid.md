@@ -1,0 +1,54 @@
+---
+name: "meteroid-oss/meteroid"
+source: "github"
+url: "https://github.com/meteroid-oss/meteroid"
+category: "saas"
+category_label: "SaaS"
+function: "Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-"
+date: "2026-05-21"
+status: "rejected"
+revenue_signal: 1
+cloneability: 2
+maintenance_cost: 4
+market_niche: 3
+tech_fit: 5
+score: 18
+select_reason: ""
+reject_reason: "收入信号弱且难以模仿"
+problem: ""
+target_user: ""
+willingness_to_pay: ""
+mvp_feasibility: ""
+reviewed: false
+prd_started: false
+research_done: false
+---
+
+# meteroid-oss/meteroid
+
+> 来源: github | 分类: SaaS | 得分: 18/35
+> URL: https://github.com/meteroid-oss/meteroid
+
+## 描述
+Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights 
+
+## 分析
+
+- **解决的问题**: 
+- **目标用户**: 
+- **付费意愿**: 
+- **MVP 可行性**: 
+
+## 抄袭路径
+
+
+## 原始信号
+```json
+{
+  "mrr": 0,
+  "profit": 0,
+  "asking_price": 0,
+  "paying_users": 0,
+  "votes": 1077
+}
+```
