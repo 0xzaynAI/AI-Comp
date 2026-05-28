@@ -1,0 +1,347 @@
+[
+  {
+    "source": "github",
+    "name": "colbymchenry/codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "stars": 0,
+    "weekly_growth": 15909,
+    "topics": [
+      "TypeScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "tinyhumansai/openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "stars": 0,
+    "weekly_growth": 16288,
+    "topics": [
+      "Rust"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "Imbad0202/academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "stars": 0,
+    "weekly_growth": 11691,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "stars": 0,
+    "weekly_growth": 6741,
+    "topics": [
+      "Rust"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "rohitg00/agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "stars": 0,
+    "weekly_growth": 6734,
+    "topics": [
+      "TypeScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "supertone-inc/supertonic",
+    "url": "https://github.com/supertone-inc/supertonic",
+    "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+    "stars": 0,
+    "weekly_growth": 3281,
+    "topics": [
+      "Swift"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "CloakHQ/CloakBrowser",
+    "url": "https://github.com/CloakHQ/CloakBrowser",
+    "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+    "stars": 0,
+    "weekly_growth": 6991,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "HKUDS/ViMax",
+    "url": "https://github.com/HKUDS/ViMax",
+    "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+    "stars": 0,
+    "weekly_growth": 2790,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "humanlayer/12-factor-agents",
+    "url": "https://github.com/humanlayer/12-factor-agents",
+    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+    "stars": 0,
+    "weekly_growth": 2035,
+    "topics": [
+      "TypeScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "stars": 0,
+    "weekly_growth": 5026,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "datawhalechina/easy-vibe",
+    "url": "https://github.com/datawhalechina/easy-vibe",
+    "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+    "stars": 0,
+    "weekly_growth": 2711,
+    "topics": [
+      "JavaScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "Lum1104/Understand-Anything",
+    "url": "https://github.com/Lum1104/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "stars": 0,
+    "weekly_growth": 4880,
+    "topics": [
+      "TypeScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework &amp; software development methodology that works.",
+    "stars": 0,
+    "weekly_growth": 10367,
+    "topics": [
+      "Shell"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "stars": 0,
+    "weekly_growth": 2073,
+    "topics": [
+      "TypeScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "stars": 0,
+    "weekly_growth": 2522,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "Play nbsdgames to increase your brain (exclamation mark)",
+    "url": "https://github.com/abakh/nbsdgames",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "A platform to find people to jam on side projects with",
+    "url": "https://www.letsjam.live/",
+    "description": "3 comments · 5 points",
+    "stars": 0,
+    "upvotes": 5,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "CurRant->Screw Google scourge, help people notice what is worth a look",
+    "url": "https://currantfeed.cc/",
+    "description": "1 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Fruitsy, a slot machine game",
+    "url": "https://fruitsy.surge.sh",
+    "description": "0 comments · 5 points",
+    "stars": 0,
+    "upvotes": 5,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "World Cup 2026 free family and friends prediction platform",
+    "url": "https://wc-2026-predictions.vercel.app",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "AgentLens – see if your AI features work, per customer",
+    "url": "https://agentlens-demo-omega.vercel.app",
+    "description": "0 comments · 3 points",
+    "stars": 0,
+    "upvotes": 3,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "I turned my dev stack into an alien planet ruled by my dog",
+    "url": "https://bkawa-bot.github.io/planet-maiko/",
+    "description": "2 comments · 9 points",
+    "stars": 0,
+    "upvotes": 9,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Mac app that unlocks superpowers for GhostCMS sites",
+    "url": "https://spectersync.com/",
+    "description": "0 comments · 4 points",
+    "stars": 0,
+    "upvotes": 4,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Money Me – finance app that shows your actual spendable balance",
+    "url": "https://money-me.com",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Runners? This One for You",
+    "url": "https://runnerapp.pro/",
+    "description": "1 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "nsS3ui – A non sucking GUI for S3",
+    "url": "https://news.ycombinator.com/item?id=48250864",
+    "description": "2 comments · 3 points",
+    "stars": 0,
+    "upvotes": 3,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Vibe-coded Steam, but in the browser",
+    "url": "https://gameghost.manus.space/",
+    "description": "0 comments · 7 points",
+    "stars": 0,
+    "upvotes": 7,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "A satirical idle game about running an AI startup",
+    "url": "https://game.trae.academy/",
+    "description": "0 comments · 6 points",
+    "stars": 0,
+    "upvotes": 6,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Running BitNet b1.58 inside DRAM by breaking DDR4 timing rules",
+    "url": "https://news.ycombinator.com/item?id=48250231",
+    "description": "0 comments · 5 points",
+    "stars": 0,
+    "upvotes": 5,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "pack-src – pack source code into clean shareable ZIP",
+    "url": "https://github.com/muhammadmuzzammil1998/pack-src",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "A simple app to visualize Apple Health workout logs",
+    "url": "https://streakout.app/",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Memory for LLM apps that cuts input tokens up to 80% (avg 68%)",
+    "url": "https://github.com/Tem-Degu/streetai-memory",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "AI Chess Coach",
+    "url": "https://aichess.coach/",
+    "description": "1 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Gemini Omni flash video editor and generator",
+    "url": "https://vivify.video/models/gemini-omni-flash",
+    "description": "1 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Invoker, an IDE for orchestrating massively parallel agents",
+    "url": "https://invoker.build",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  }
+]
