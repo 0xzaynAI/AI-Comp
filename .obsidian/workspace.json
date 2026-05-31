@@ -4,24 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "fcedc75b24b5d70e",
-        "type": "tabs",
+        "id": "bb3125721f160f7b",
+        "type": "split",
         "children": [
           {
-            "id": "4b7008a6768aed72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_想法草稿/20260509_到账限时_MVP方案与收入模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20260509_到账限时_MVP方案与收入模型"
-            }
+            "id": "fcedc75b24b5d70e",
+            "type": "tabs",
+            "dimension": 80.27777777777779,
+            "children": [
+              {
+                "id": "4b7008a6768aed72",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00_公司/L_待办任务.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "L_待办任务"
+                }
+              }
+            ]
+          },
+          {
+            "id": "79dfcbfe6034fef5",
+            "type": "tabs",
+            "dimension": 19.72222222222222,
+            "children": [
+              {
+                "id": "43af11e4805cce7d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/lennyz/github/AI-Comp",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "终端：lennyz@MacM1Pro:~/github/AI-Comp"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -198,8 +255,10 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "4b7008a6768aed72",
+  "active": "43af11e4805cce7d",
   "lastOpenFiles": [
+    "00_公司/L_待办任务.md",
+    "05_想法草稿/20260509_到账限时_MVP方案与收入模型.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Vibe-Coding_Tool_Monetization_—_SaaS_wrappers_around_AI_code_gen.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/StartupLaunchDay_—_Daily_startup_launches_and_funding_in_one_place.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Glad-ia-tor_—_Arena_where_AI_SaaS_products_fight_for_survival.md",
@@ -230,8 +289,6 @@
     "03_用户分析/自我认知_用户画像分析.md",
     "03_用户分析/跨境情报赛道_用户画像.md",
     "Markwhen/Markwhen 5-6-2026 11.14.45.mw",
-    "11_成功案例拆解/产品库/产品_Feather.md",
-    "09_开源商机/开源商机数据库.md",
     "09_开源商机/开源项目数据库.base",
     "10_赚钱产品挖掘/日报归档/候选项目_2026-05-13.json",
     "10_赚钱产品挖掘/数据抓取/2026-05-13_raw.json",
