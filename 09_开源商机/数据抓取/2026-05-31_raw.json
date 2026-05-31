@@ -1,0 +1,389 @@
+[
+  {
+    "source": "github",
+    "name": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "stars": 0,
+    "weekly_growth": 13948,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "Lum1104/Understand-Anything",
+    "url": "https://github.com/Lum1104/Understand-Anything",
+    "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "stars": 0,
+    "weekly_growth": 25612,
+    "topics": [
+      "TypeScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "stars": 0,
+    "weekly_growth": 12082,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "stars": 0,
+    "weekly_growth": 5538,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "colbymchenry/codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "stars": 0,
+    "weekly_growth": 15909,
+    "topics": [
+      "TypeScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "hardikpandya/stop-slop",
+    "url": "https://github.com/hardikpandya/stop-slop",
+    "description": "A skill file for removing AI tells from prose",
+    "stars": 0,
+    "weekly_growth": 3543,
+    "topics": []
+  },
+  {
+    "source": "github",
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+    "stars": 0,
+    "weekly_growth": 5417,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+    "stars": 0,
+    "weekly_growth": 10202,
+    "topics": [
+      "Shell"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "stars": 0,
+    "weekly_growth": 6652,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "stars": 0,
+    "weekly_growth": 2771,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 0,
+    "weekly_growth": 10802,
+    "topics": [
+      "JavaScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "cursor/plugins",
+    "url": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "stars": 0,
+    "weekly_growth": 738,
+    "topics": [
+      "TypeScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "microsoft/agent-governance-toolkit",
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "stars": 0,
+    "weekly_growth": 1553,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "dograh-hq/dograh",
+    "url": "https://github.com/dograh-hq/dograh",
+    "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+    "stars": 0,
+    "weekly_growth": 1236,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "stars": 0,
+    "weekly_growth": 626,
+    "topics": [
+      "HTML"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "ogulcancelik/herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "description": "agent multiplexer that lives in your terminal.",
+    "stars": 0,
+    "weekly_growth": 923,
+    "topics": [
+      "Rust"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "stars": 0,
+    "weekly_growth": 1963,
+    "topics": [
+      "TypeScript"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "stars": 0,
+    "weekly_growth": 1248,
+    "topics": [
+      "Python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "Chachamaru127/claude-code-harness",
+    "url": "https://github.com/Chachamaru127/claude-code-harness",
+    "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+    "stars": 0,
+    "weekly_growth": 1034,
+    "topics": [
+      "Shell"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "I made a Gemma 4 Mac app that names screenshots with local AI",
+    "url": "https://snapname.app",
+    "description": "2 comments · 4 points",
+    "stars": 0,
+    "upvotes": 4,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Lite-Harness – Self-Hosted Cursor Agents (Use Claude Code/OpenCode)",
+    "url": "https://github.com/LiteLLM-Labs/lite-harness",
+    "description": "0 comments · 5 points",
+    "stars": 0,
+    "upvotes": 5,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "HermesBench – workflow reliability evals for personal AI agents",
+    "url": "https://verkyyi.github.io/hermesbench/",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Kanji Pairs Explorer",
+    "url": "https://trost.co/kanji-pairs/",
+    "description": "0 comments · 4 points",
+    "stars": 0,
+    "upvotes": 4,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Thaw – Git branch for a running LLM (fork agents, skip prefill)",
+    "url": "https://github.com/thaw-ai/thaw",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Babo – A scripting natural language that works as intended",
+    "url": "https://github.com/armbox/babo",
+    "description": "0 comments · 4 points",
+    "stars": 0,
+    "upvotes": 4,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "HN Station – A local-first HN desktop client with split-pane reading",
+    "url": "https://github.com/rajeshkumarblr/hn_station",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Presidential Stock Trade Tracker",
+    "url": "https://www.quiverquant.com/Donald-Trump-Stock-Trades/",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "AI command review drill for engineers and vibe coders",
+    "url": "https://www.proreview.dev/",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Phive, a Gomoku-like game to play with friends or solo",
+    "url": "https://phive.app",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "A website for the top internet videos of all time",
+    "url": "https://www.internetalltime.com/",
+    "description": "3 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Helm plugin for working with OCI-based Helm charts",
+    "url": "https://github.com/esnet/helm-oci",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Nimic – write pure Python and compile AOT to native binaries via Nim",
+    "url": "https://github.com/dima-quant/nimic",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "AI Simulaionen Based on FEP",
+    "url": "https://aic-ai-lab.site/login",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "React-Rewrite – A visual editor for React that writes code, no LLM",
+    "url": "https://github.com/donghaxkim/react-rewrite",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Use Kimi and OpenAI Subscriptions in Claude Code",
+    "url": "https://github.com/raine/claude-code-proxy",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "500 years of Joseon court omens as an observability dashboard",
+    "url": "https://ajin.im/is/building/omen.ops/",
+    "description": "13 comments · 80 points",
+    "stars": 0,
+    "upvotes": 80,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "leaf – one month later: website, releases and lots of improvements",
+    "url": "https://leaf.rivolink.mg",
+    "description": "0 comments · 3 points",
+    "stars": 0,
+    "upvotes": 3,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "I think I by accident created something beautiful about LLM [video]",
+    "url": "https://www.youtube.com/watch?v=aey2w7kyiAw",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "BuildBy – find out how many Electron apps are on your Mac or Windows",
+    "url": "https://github.com/wavever/buildby",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  }
+]
