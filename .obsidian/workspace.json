@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "00_公司/L_待办任务.md",
+                    "file": "05_想法草稿/20260509_小众挖掘_Apple_Watch_APP行业盈利调研.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "L_待办任务"
+                  "title": "20260509_小众挖掘_Apple_Watch_APP行业盈利调研"
                 }
               }
             ]
@@ -255,8 +255,25 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "43af11e4805cce7d",
+  "active": "1654043d8bab7f2d",
   "lastOpenFiles": [
+    "福建五城妆造店铺汇总.md",
+    "05_想法草稿/20260514_AI汽车摄影平台.md",
+    "Markwhen/Markwhen 5-6-2026 11.14.45.mw",
+    "11_成功案例拆解/人物库/人物_Tibo_Louis_Lucas.md",
+    "11_成功案例拆解/产品库/模板_产品.md",
+    "11_成功案例拆解/产品库/产品_Taplio.md",
+    "11_成功案例拆解/产品库/产品_TweetHunter.md",
+    "11_成功案例拆解/产品库/产品_Feather.md",
+    "10_赚钱产品挖掘/YouTube-赚钱视频/2026-05-08_AI儿童故事_小红书矩阵.md",
+    "10_赚钱产品挖掘/YouTube-赚钱视频/2026-05-08_零基础_赚钱App路线图.md",
+    "09_开源商机/开源项目数据库.base",
+    "09_开源商机/开源商机数据库.md",
+    "09_开源商机/README.md",
+    "01_市场分析/Feather_本地AI修图_市场调研.md",
+    "09_开源商机/周报归档/周报_2026-05-31.md",
+    "09_开源商机/周报归档/周报_2026-05-03.md",
+    "00_公司/进化周报/2026-05-10_周报.md",
     "00_公司/L_待办任务.md",
     "05_想法草稿/20260509_到账限时_MVP方案与收入模型.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Vibe-Coding_Tool_Monetization_—_SaaS_wrappers_around_AI_code_gen.md",
@@ -268,28 +285,11 @@
     "10_赚钱产品挖掘/日报归档/候选项目库/Akuna_—_Knowledge_Bases_for_AI-Human_Sharing.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Chrome_Extension_Payment_Boom_—_Multiple_monetization_platforms_emerging.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Matcha_—_AI_handwritten_notes_app_for_sale_($15M-mo_category).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Solo-built_fintech_SaaS_—_Pay-per-use_instead_of_subscriptions.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/16-year-old_scaling_SaaS_to_$10K_MRR_in_90_days_challenge.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Autocrit_—_Agent_loop_that_builds_and_tests_web_prototypes.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Spekkio_—_Reverse-engineer_specs_from_vibe-coded_apps.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/OpenSEO_Studio_—_Static_BYOK_SEO_article_generator_v1.0.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Blazor_DevTools_—_Like_React_DevTools_but_for_.NET_Blazor.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Control_your_X-Twitter_feed_using_a_small_on-device_LLM.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/KeelTest_—_AI-driven_VS_Code_unit_test_generator_with_bug_discovery.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Why_34_Products_That_Hit_#1_on_PH_Never_Made_$1K_MRR.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Bootstrapped_SaaS_rejecting_VC_—_targeting_$10K_MRR.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Solo_SaaS_—_Just_crossed_$3,000_MRR_(buildinpublic).md",
     "10_赚钱产品挖掘/日报归档/候选项目_2026-05-16.json",
-    "10_赚钱产品挖掘/日报归档/日报_2026-05-16.md",
     "10_赚钱产品挖掘/脚本/build_enriched.py",
     "10_赚钱产品挖掘/脚本/fetch_daily_v2.py",
     "10_赚钱产品挖掘/数据抓取/2026-05-16_raw.json",
     "10_赚钱产品挖掘/脚本/fetch_daily.py",
-    "05_想法草稿/20260514_AI汽车摄影平台.md",
-    "03_用户分析/自我认知_用户画像分析.md",
-    "03_用户分析/跨境情报赛道_用户画像.md",
-    "Markwhen/Markwhen 5-6-2026 11.14.45.mw",
-    "09_开源商机/开源项目数据库.base",
     "10_赚钱产品挖掘/日报归档/候选项目_2026-05-13.json",
     "10_赚钱产品挖掘/数据抓取/2026-05-13_raw.json",
     "09_开源商机/周报归档/候选项目_2026-05-10.json"
