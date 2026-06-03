@@ -1,0 +1,514 @@
+[
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "我又整了一个拆解爆款短视频的网站 videolens.cc",
+    "url": "https://www.v2ex.com/t/1216861",
+    "description": "我又整了一个拆解爆款短视频的网站 videolens.cc. ## VideoLens 访问地址\r\n\r\n**https://videolens.cc/zh**\r\n\r\n可用于短视频反推提示词。\r\n\r\n## 贴一个小红书/抖音短视频的分享链接，或者直接传本地短视频，你就能得到：\r\n\r\n- 编导级拆解报告：逐字稿（带时间戳）、镜头、节奏与钩子、画面信息等。\r\n- 还原的提示词：可用于复刻视频的提示词（含中英文对照）\r\n\r\n## 适合谁用 / 能干嘛：\r\n  \r\n  - 短视频创作者 / 博主：拆解爆款的结构钩子与节奏，快速产出同类内容\r\n  - 内容运营 / MCN：批量拆解对标账号，沉淀可复用的选题与脚本方法论\r\n  - 电商 / 带货商家：还原种草视频的痛",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "256G 硬盘塞了几十款游戏还不舍得删？我折腾出了一套“游戏瘦身组合拳”，省出了 14G 空间！",
+    "url": "https://www.v2ex.com/t/1216856",
+    "description": "256G 硬盘塞了几十款游戏还不舍得删？我折腾出了一套“游戏瘦身组合拳”，省出了 14G 空间！. 玩 RPG Maker 、Ren'Py 等引擎的 Mac 玩家一定懂——硬盘不够用，游戏删了又心疼。于是我对游戏目录做了一次“外科手术”：先用解密工具拆包，再用硬链接去重、脚本批量有损压缩原画（ 2G → 300M ！）、转换无兼容性的音频格式……最终 47G 的游戏只占 33G ，相当于凭空多出十几 G 空间。\r\n\r\n文章里整理了 MV/MZ 、XP/VX/VA 、Ren'Py 等引擎的解包与去重方法，附上了可直接抄作业的命令和 Python 压缩脚本，还有踩坑经验。如果你也是仓鼠型玩家，或者单纯想给硬盘减减压，欢迎进来交流更多骚操作～\r\n\r\n阅读原文：<https://mabbs.gith",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 7,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "我把 @MaxSoloware 做的傻逼模拟器复活了！",
+    "url": "https://www.v2ex.com/t/1216843",
+    "description": "我把 @MaxSoloware 做的傻逼模拟器复活了！. 之前博主 @MaxSoloware 做的傻逼模拟器( https://sb.000ooo.ooo/)下线了,我 fork 了他的代码并做了二次开发，重新上线了。欢迎大家试玩： https://showdown-iciness-twisting.ngrok-free.dev\r\n\r\n原博主 @MaxSoloware 用纯前端写的，包括调用大模型也是使用前端 JS 调用的，大模型的 API Key 也是写死在前端的。我把大模型的调用改成了后端调用，增加了保存聊天记录的功能，长期记忆、对话强关联、防出戏（坚决不能承认自己是 AI ）、防提示词欺骗，上下文压缩（防止上下文爆炸）。感谢 @MaxSolow",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "整了个可能是最全面的中转站检测",
+    "url": "https://www.v2ex.com/t/1216837",
+    "description": "整了个可能是最全面的中转站检测. 前段时间一直在折腾 LMSpeed\r\n\r\n它原来主要是用来测 LLM API 速度的\r\n\r\n但我后来发现，中转站最麻烦的地方，往往不在速度\r\n\r\n真正麻烦的是，你以为自己在调用 Claude ，实际上中间层可能改了请求，截了上下文，换了上游，甚至让 system prompt 失效\r\n\r\n这些问题平时很难发现\r\n\r\n因为你随便问一句，它还是会正常回答\r\n\r\n这就很烦。。。\r\n\r\n所以我给 LMSpeed 加了一个新功能中转站检测\r\n\r\nDemo 报告在这里 👉 [https://lmspeed.net/zh/audit/NJyPLRp4mGHMeXoT]( https://lmspeed.ne",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "做了个单位换算工具站，纯公益",
+    "url": "https://www.v2ex.com/t/1216835",
+    "description": "做了个单位换算工具站，纯公益. 最近做了个单位换算工具站，分享给 V 友们试试。\r\n\r\n每次搜个转换站出来的网站要么满屏广告，要么弹窗，要么换算结果还要点按钮才出来。就想做一个干净、即时、不折腾的版本。\r\n\r\n🙏求反馈，想听听大家的对免费工具站的意见：\r\n\r\n体验地址： https://unit.toolconv.com",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 4,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "做一个帮你备份优化 iPhone 相册和应用空间的 cli 会不会有人用呢",
+    "url": "https://www.v2ex.com/t/1216833",
+    "description": "做一个帮你备份优化 iPhone 相册和应用空间的 cli 会不会有人用呢. ## 0x01\r\n\r\n不知道大家用过 [mole](https://www.npmjs.com/package/mole) 吗，很棒的一款终端软件可以帮你清理和优化 mac 电脑的存储空间。但是他只支持 mac ，而我主要困惑是手机，而对于我们这种 iPhone 手机常年处于存储满了，iCloud 也早就满了，不想花钱拼车或换手机改硬盘，老是得删东西才能下新的应用的人来说，太难受了，而且这么多年了，没有什么好用的免费的软件可以帮忙。\r\n\r\n所以我就想做一个 iPhone 版本的 mole ，我把他命名为：[iMole]( https://github.com/chenhg5/imo",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "[独立开发]第二款产品上线-蓝果汁 AI - 英语老师出卷工具，求反馈求合作",
+    "url": "https://www.v2ex.com/t/1216831",
+    "description": "[独立开发]第二款产品上线-蓝果汁 AI - 英语老师出卷工具，求反馈求合作. 大家好，最近在做一个小产品，叫「蓝果汁 AI 」。\r\n\r\n它的定位比较垂直：给英语老师 / 教研组用的 AI 组卷工作台。\r\n目前优先解决一个很具体的场景：英语听力出题。\r\n\r\n很多老师出一套听力练习时，真正麻烦的不是“写几道选择题”，而是这一整串流程：\r\n\r\n想一个适合学生水平的话题和场景\r\n写对话 / 独白\r\n\r\n控制难度、题量、题型\r\n生成题目、选项、答案和解析\r\n再配听力音频\r\n最后还要能编辑、导出、发给学生\r\n所以我们做了一个流程化的版本：\r\n老师填写学段、题型、难度、话题、场景、说话人等信息，系统生成一套听力题，包含音频、原文、中文翻译、答案和解析。生成后不是直接“交付成品”，而是",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "开发一款软件能年入百万吗？",
+    "url": "https://www.v2ex.com/t/1216827",
+    "description": "开发一款软件能年入百万吗？. 现在是 AI 写代码的时代，最难的不是开发，而是找对需求，如果能找到蓝海市场，年入百万不是很难，但是也不是高枕无忧，因为很快就会有人加入竞争，最后慢慢变成红海市场\r\n\r\n那如何去筛选市场需求呢，我的解决方案是用付费意愿筛选需求，有人愿意付费的需求才是能赚钱的市场，所以我开发了 流沙需求验证平台，网址是 https://liusha.com\r\n\r\n很多人不会开发可能会找懂开发的朋友说，能不能做一个 XX 产品，我想要的功能目前市面上的产品都没有，但是开发朋友很可能不会搭理他，因为开发一款产品需要投入时间精力，AI 订阅也是要花钱的，如果开发出来的产品没有什么人愿意付费，那他的时间和精力就都浪费掉",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 17,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "“6 月 1 日零时起， www.tianya.net 正式开放访问”目前还是放鸽子？",
+    "url": "https://www.v2ex.com/t/1216888",
+    "description": "“6 月 1 日零时起， www.tianya.net 正式开放访问”目前还是放鸽子？. 关于天涯社区恢复访问进展的情况说明\r\n天涯社区\r\n2026-06-01 06:53\r\n \r\n亲爱的天涯用户：\r\n\r\n自 2023 年 4 月 1 日起，天涯社区因电信 IDC 欠费而暂停访问。为了确保涉及上亿用户的天涯数据完整存续以及天涯社区的恢复访问，三年来，天涯社区重启团队持续不懈地展开自救。今年 2 月份，在新天涯联合工作组的支持下，我们确立了推进 2026 年 6 月 1 日前恢复天涯社区访问的方案。目前，新天涯联合工作组已落实了天涯社区数据迁移、平台优化及恢复访问所必需的专项资金、专业团队及各项准备。\r\n\r\n天涯社区公司与中国电信已通过海南国际仲裁院形成了具有法律效力的数据迁移仲裁裁",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "传统「大厂程序员🧑‍💻」 转行到「MCN 机构做品牌」了，你们想知道点啥不？",
+    "url": "https://www.v2ex.com/t/1216870",
+    "description": "传统「大厂程序员🧑‍💻」 转行到「MCN 机构做品牌」了，你们想知道点啥不？. ## 比如 MCN / 传媒行业相关的：\r\n- MCN/传媒公司的商业化逻辑，如：我们是怎么起号并快速变现的？\r\n- 有哪些岗位？分别做什么？对应的岗位需要什么经验？\r\n- 你们团队搞啥？\r\n- ... \r\n\r\n## 转行\r\n- 怎么才能入圈？\r\n- 为什么转行，有啥变化不？等等\r\n\r\n等等，上面是我们朋友问到比较多的。\r\n\r\n剩下你们自由发挥。\r\n\r\n---\r\n\r\n如果关心人多\r\n也可以多搞个什么场多唠唠",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "Codex 已经支持 deepseek 等第三方 API",
+    "url": "https://www.v2ex.com/t/1216862",
+    "description": "Codex 已经支持 deepseek 等第三方 API. ![img]( https://core.xuanyuanhuangdi.org/codex.png)\r\n\r\n----------\r\n  \r\n<br>\r\n<br>\r\n<br>\r\n\r\n   \r\n**不过似乎 deepseek 也没有传说中那么省钱，就使用了几次花了 6 元多**\r\n\r\n![img]( https://core.xuanyuanhuangdi.org/deepseek.png)\r\n\r\n\r\n<br>\r\n<br>\r\n<br>\r\n\r\n\r\n使用 cc switch 设置 https://github.com/farion1231/cc-switch/\r\n\r\n\r\n视频教程：   \r\n\r\nht",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "天涯社区今日复活， 6 月 1 日",
+    "url": "https://www.v2ex.com/t/1216858",
+    "description": "天涯社区今日复活， 6 月 1 日. 逐步恢复原有数据。\r\n域名换 tianya[.]net\r\n因为.cn 不在控制了\r\n资金是之前众筹的，还有卖复活黄金会员之类的。。hhh\r\n天亮后看看",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "iMole：一个帮你清理优化 iPhone 存储空间的开源免费 cli 工具",
+    "url": "https://www.v2ex.com/t/1216810",
+    "description": "iMole：一个帮你清理优化 iPhone 存储空间的开源免费 cli 工具. ## 0x01\r\n\r\n不知道大家用过 [mole](https://www.npmjs.com/package/mole) 吗，很棒的一款终端软件可以帮你清理和优化 mac 电脑的存储空间。但是他只支持 mac 。而我主要的困扰是 iPhone, 对于我们这种 iPhone 手机常年处于存储满了，iCloud 也早就满了，老是得删东西才能下新的应用的人来说，太难受了。而且这么多年了，没有什么好用的免费的软件可以帮忙。\r\n\r\n所以我就想做一个 iPhone 版本的 mole ，我把他命名为：[iMole]( https://github.com/chenhg5/imole)。\r\n\r\n",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "今天刷到的 giffgaff eSIM 免费申请教程，实测可行",
+    "url": "https://www.v2ex.com/t/1216704",
+    "description": "今天刷到的 giffgaff eSIM 免费申请教程，实测可行. 今天刚折腾成功，全程在线申请，实测确实可以。\r\n\r\n核心其实就是：如果手机原生不支持 eSIM ，可以借助工具模拟环境，或者配合 eSTK 转物理卡用。\r\n\r\n把原视频分享给有需要的朋友，省得大家去到处找门槛了：\r\n\r\nhttps://www.youtube.com/watch?v=KGfHdpyPeqA",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 6,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "很奇怪的 BUG，向日葵远程控制造成汉字输入延迟",
+    "url": "https://www.v2ex.com/t/1216639",
+    "description": "很奇怪的 BUG，向日葵远程控制造成汉字输入延迟. 很奇怪的 Bug 。\r\n\r\nWindows 11 旗舰版，不关机，已经开机了 2 个多月。\r\n\r\n向日葵远程控制，最新版\r\n\r\n搜狗输入法\r\n\r\n1.在另一台 Win 11 ，通过远程桌面，远程操作这台电脑。\r\n\r\n2.在 Notepad 、WinWord 里输入汉字，不会触发 Bug 。\r\n\r\n3.在开始运行的输入框、Notepad++ 里输入汉字，会触发 Bug ，输入英文不会触发 Bug 。\r\n\r\n4.Bug 表现是，在输入法框中，完成输入汉字，然后按空格键把输入法框里的文字 flush 到 Notepad++ 时，会卡一下，大约 200ms - 500ms 左右。非常影响输入效率。\r\n",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "不上班第 N 天， 3 天搭了 3 个 AI Agent，说说真实体验",
+    "url": "https://www.v2ex.com/t/1216562",
+    "description": "不上班第 N 天， 3 天搭了 3 个 AI Agent，说说真实体验. 工具用的是 Coze + Dify + n8n+Ollama ，搭了三个 demo：\r\n1. 自动抓网页 + AI 总结 + 发邮件\r\n2. FAQ 知识库 + 客服 Chatbot\r\n3. 定时生成推文\r\n\r\n说几个踩坑：\r\n- n8n 连 Ollama 不能用 localhost ，得写 127.0.0.1 ，卡了一个小时\r\n- QQ 邮箱 SMTP 在 n8n 里完全不通，换了几个姿势都不行\r\n- Coze 免费点数用得太快，只够跑两个 demo\r\n\r\n感受：AI Agent 开发门槛比想象的低，但工具链对国内用户不太友好。Dify 体验最好，Coze 其次，n8n 本地跑坑最多。\r\n\r",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "咨询 Apple Developer 个人开发者相关的问题",
+    "url": "https://www.v2ex.com/t/1215893",
+    "description": "咨询 Apple Developer 个人开发者相关的问题. 上个月注册了 Apple Developer Program 的开发者账号。并上架了一个免费无内购的 APP\r\n\r\n这个月开发了一个有内购订阅的 APP ，并准备上架。然后对于商务这一部分的内容不知道该怎么填写了 请教一下诸位\r\n\r\n1. App Store Connect 商务报税表 U.S. Form W-8BEN 的问题\r\n  - Part I: Identification of Beneficial Owner\r\n    \r\n    1.Name of individual that is the beneficial owner (我不记得这里是自己填写的还是直接有) 比如我叫张三",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "有人最近给苹果提交新 App 吗？新 APP 要多久开始审核？",
+    "url": "https://www.v2ex.com/t/1215405",
+    "description": "有人最近给苹果提交新 App 吗？新 APP 要多久开始审核？. 3 天了还在等待审核状态",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 11,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "Xcode 通过配置文件自定义 AI 的中转凭证信息好像不生效",
+    "url": "https://www.v2ex.com/t/1214123",
+    "description": "Xcode 通过配置文件自定义 AI 的中转凭证信息好像不生效. 好像只能使用账号或者 APIkey 方式，通过第三种自定义配置文件方式，配置了自己的内网 LLM 地址好像不生效，卡在登录状态，一直没法登录成功。\r\n\r\n另外好像通过账号登录，100%触发验证手机号。\r\n\r\n大家 Xcode 有配置自己的中转站么",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "iOS 耳机 BLE 命令能实现接听/挂断系统电话吗？",
+    "url": "https://www.v2ex.com/t/1211192",
+    "description": "iOS 耳机 BLE 命令能实现接听/挂断系统电话吗？. 现在是有这么一个场景，我们自己的蓝牙耳机通过双击/三击是可以接听和挂断系统电话的，然后我们 leader 希望能在 App 中通过指令来实现接听/挂断。\r\n耳机使用的是纯自定义 BLE 协议 ，没有实现标准 HFP 协议连接的蓝牙耳机，非来电情况下，BLE 指令执行的都没问题，来电时音频路由被系统自动切换了，不是 A2DP ，这就导致我们的 BLE 指令执行了但是没效果，无法实现接听和拒接。\r\n\r\n耳机厂商回复的是，耳机通过 sco 传输音频，来电场景和正常场景有冲突，所以不做通话按键指令。安卓表示非 sco 模式下可以挂断接听，现在问题压力给到我们 iOS 了。\r\n怎么办呀？",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 4,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "国内注册苹果开发者账号是中文还是拼音啊",
+    "url": "https://www.v2ex.com/t/1210339",
+    "description": "国内注册苹果开发者账号是中文还是拼音啊. 之前没接触过相关的东西，想注册一个苹果开发者账号，主要是想做海外的市场，app 的下载页面的开发者显示的是中文还是拼音啊？要是中文的话，做海外市场差点意思啊",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 8,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "写苹果 App 就用 苹果 ViewModel",
+    "url": "https://www.v2ex.com/t/1209376",
+    "description": "写苹果 App 就用 苹果 ViewModel. https://swiftpackageindex.com/lwj1994/apple_view_model\r\n\r\n不同于传统的 viewmodel ，苹果 vm 不局限于只服务 ui 。\r\n基于服务注册的 伪 di 。viewModel 可充当任何层，repo service \r\n引用计数自己感知生命周期，自动销毁 vm 。\r\n\r\n`.package(url: \"https://github.com/lwj1994/apple_view_model.git\", from: \"0.3.1\")`\r\n\r\nai 使用： `npx skills add https://github.com/lwj19",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "开发 ios 并发布到苹果商店必须要求 系统和 xcode 是 26 了？",
+    "url": "https://www.v2ex.com/t/1209302",
+    "description": "开发 ios 并发布到苹果商店必须要求 系统和 xcode 是 26 了？. 今天本来想提交新版本，构建发布到 app store 的时候提示\r\nValidation failed\r\n\r\nSDK version issue. This app was built with the iOS 18.5 SDK. All iOS and iPadOS apps must be built with the iOs 26 SDK or later, included in Xcode 26 or later, in order to be uploaded to App Store Connect or submitted for distribution. (ID: e061",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 35,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "请教下大家，做了一个 ai 应用，想上架 app store 需要深度合成备案么？",
+    "url": "https://www.v2ex.com/t/1209156",
+    "description": "请教下大家，做了一个 ai 应用，想上架 app store 需要深度合成备案么？. 我去网上搜好像说需要什么深度合成算法备案，不知道是否真的需要提交，有懂的 v 友么",
+    "topics": [
+      "idev"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 5,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "要不要开一个新的开源小项目（已有劣质实现）支持细分场景， 10TB+ 级 SQL Server 传统数仓迁移上云，这种需求还多吗",
+    "url": "https://www.v2ex.com/t/1216886",
+    "description": "要不要开一个新的开源小项目（已有劣质实现）支持细分场景， 10TB+ 级 SQL Server 传统数仓迁移上云，这种需求还多吗. 回想起来已将近四年过去了，那时我刚出互联网，还没被外包抹去棱角，第一次知道到 Consulting Company ，一切都很新奇。\r\n\r\n初入咨询（外包）行业，我被分配的第一个任务是把 SQL Server 上 10 TB 数据每天全量迁移一份到 AWS Redshift 数仓，很有挑战，很有意思。\r\n\r\n我用一个多月时间写出了第一版，速度差了点，又花半个月优化出第二版，速度可以了，关键是 PIPE 。\r\n\r\n那还是手搓代码的时候，我用 Python 将几个工具粘合成一条管道线，对于无法输出 stream 的，我加了 FIFO 。很有意思，不过没人懂一个 10 年 UNIX 爱好者的快乐。后",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "minimax-m3 上线。套餐变相涨价",
+    "url": "https://www.v2ex.com/t/1216879",
+    "description": "minimax-m3 上线。套餐变相涨价. ￥ 49   月度约 6 亿+ token M3 用量\r\n￥ 119  月度约 18 亿+ token M3 用量\r\n￥ 469  月度约 55 亿+ token M3 用量\r\n而且有了自己的 code agent 工具，minimax code 。但是太草台班子了，官网的 minimax code 点击下载没有反应。",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "codex 今天中午刚满一周重置好，晚上立刻又重置，感觉赚了又感觉被耍了",
+    "url": "https://www.v2ex.com/t/1216852",
+    "description": "codex 今天中午刚满一周重置好，晚上立刻又重置，感觉赚了又感觉被耍了. 虽然明面上是赚了人家重置了，但是被“占便宜没够”的奇怪心理搞得懊恼了起来。甚至觉得亏了。。\r\n\r\nopenai 是不是数据库里面查了一下什么时候重置损失最小。",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "codex 额度已经重置了~",
+    "url": "https://www.v2ex.com/t/1216848",
+    "description": "codex 额度已经重置了~",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "用了多年的火绒，今晚我卸掉了它",
+    "url": "https://www.v2ex.com/t/1216844",
+    "description": "用了多年的火绒，今晚我卸掉了它. 我是个老火绒用户。没有广告弹窗，不捆绑全家桶，占用小，规则可以自定义；这些年国内杀毒软件生态一塌糊涂，火绒几乎是唯一一个让我觉得\"这玩意儿是站在用户这边的\"软件。\r\n\r\n一年前自己加了几条自定义规则，用来防止腾讯 ACE 反作弊驱动扫描我的硬盘。一切就从那几条规则开始。\r\n\r\n---\r\n\r\n## 微信的锅？\r\n\r\n大概从某段时间开始，我偶尔会在晚上收到微信提示的存储空间不足；我第一反应：微信备份。同一 WIFI 下手机微信会自动备份聊天记录，聊天记录备份到电脑上，文件很大，备份完删掉，所以空间一会儿满一会儿又降下来——这个逻辑说得通。我也没太放在心上，反正没多久空间自己就回来了。这个\"锅\"，微",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 31,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "[通知] Codex 明早重置额度，上号，/fast 开蹬了",
+    "url": "https://www.v2ex.com/t/1216791",
+    "description": "[通知] Codex 明早重置额度，上号，/fast 开蹬了. 刚看到 Tibo 的 X：庆祝 Codex 500 万用户，Tibo 说会在“明天早上”重置额度\r\n![Codex 限额重置截图]( https://tmpfiles.org/dl/wdwHfuzc8PPI/ad4ecb0006e123f9aeb73ca3bf385ddc.png)\r\n好奇佬友们，现在 toekn 都烧在了哪些地方？",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 41,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "codex 即将刷新，快蹬",
+    "url": "https://www.v2ex.com/t/1216788",
+    "description": "codex 即将刷新，快蹬. ![推特]( https://cdn3.ldstatic.com/original/4X/8/2/0/8204ed8538fb5020e1fbc17cc354d79a0ce3eb3c.png)\r\n\r\n美国时间凌晨两点他发的推特，大概今晚刷新。",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 19,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "现在如果要加密备份到云盘的文件，有哪些方案",
+    "url": "https://www.v2ex.com/t/1216774",
+    "description": "现在如果要加密备份到云盘的文件，有哪些方案. 如题，有哪些跨平台方案吗",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 18,
+    "has_revenue": false
+  }
+]
