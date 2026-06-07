@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "05_想法草稿/20260509_小众挖掘_Apple_Watch_APP行业盈利调研.md",
+                    "file": "11_成功案例拆解/访谈记录/访谈_Tibo_StarterStory_2026.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "20260509_小众挖掘_Apple_Watch_APP行业盈利调研"
+                  "title": "访谈_Tibo_StarterStory_2026"
                 }
               }
             ]
@@ -255,34 +255,36 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "1654043d8bab7f2d",
+  "active": "4b7008a6768aed72",
   "lastOpenFiles": [
-    "10_赚钱产品挖掘/日报归档/候选项目库/Once_(使い捨てカメラアプリ,_月500万円).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Jungle_(AIフラッシュカード,_月1500万円).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Pingo_AI_(AI言語学習アプリ,_月7500万円).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Replicas_(Cloud_Claude_Code-Codex,_PH_#5_June_3).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Elentaria_(GTM_execution_platform,_PH_#3_June_3).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/InsForge_Backend_Branching_(Product_Hunt_#1_June_3).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Flippa_$23.3K_MRR_Profitable_SaaS.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Flippa_$150_MRR_AI_SaaS_(13_models,_mobile_app).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/AI_SaaS_with_93%_margins_(Flippa_Listing).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/個人開発アプリ収益化（サブスク2.5倍改善事例）.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/iDM_(Instagram_DM自動化).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/文字数カウントメモ.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Inkdrop.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Peing_-質問箱-.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Skeb.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/HamsterBase.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/V2EX独立开发者产品（付费转化经验）.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/V2EX开源产品（17K_star_+_千万收入）.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Typeless.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/独响_(Duxiang).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/HIX.AI_-_Pollo.ai.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/ShipFast_+_CodeFast_(Marc_Lou_Ecosystem).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Plausible_Analytics.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Stagetimer.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Software_Ideas.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Unicorn_Platform.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/1,000_Micro_SaaS_Analysis_2025.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/個人開発アプリ月収100万円超事例.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Wispr_Flow.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Micro-Version_of_$1B_SaaS.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Micro_SaaS_Ecosystem_($1K-$10K_MRR).md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Chrome_Extension_(Shopping).md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Open_Source_SaaS_($17K_MRR).md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Auto-Pilot_SaaS_(Flippa).md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Education_SaaS_(Flippa).md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/GovTech_SaaS_(Flippa).md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Prop_Trading_SaaS_(Flippa).md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/まみそ_Web制作AI助手.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/iDM_(Instagram_DM_Tool).md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/HIX.AI.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Pollo.ai.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/NocoBase.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/TrustMRR.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/JamesIvings_SaaS.md",
+    "10_赚钱产品挖掘/日报归档/候选项目_2026-06-07.json",
+    "10_赚钱产品挖掘/日报归档/日报_2026-06-07.md",
+    "10_赚钱产品挖掘/数据抓取/2026-06-07_raw.json",
+    "11_成功案例拆解/访谈记录/访谈_Tibo_BuildingPublic_2024.md",
+    "11_成功案例拆解/访谈记录/访谈_Tibo_CreatorEconomy_2026.md",
+    "10_赚钱产品挖掘/YouTube-赚钱视频/2026-05-08_零基础_赚钱App路线图.md",
+    "09_开源商机/周报归档/周报_2026-05-31.md",
+    "09_开源商机/周报归档/周报_2026-05-17.md",
+    "09_开源商机/周报归档/精选Top3_2026-W18.md",
+    "11_成功案例拆解/产品库/产品_Feather.md",
     "10_赚钱产品挖掘/日报归档/候选项目_2026-06-04.json",
     "10_赚钱产品挖掘/数据抓取/2026-06-04_raw.json",
     "10_赚钱产品挖掘/日报归档/候选项目_2026-06-03.json",
@@ -290,8 +292,6 @@
     "10_赚钱产品挖掘/数据抓取/2026-06-01_cn_raw.json",
     "10_赚钱产品挖掘/数据抓取/2026-06-01_raw.json",
     "Markwhen/Markwhen 5-6-2026 11.14.45.mw",
-    "09_开源商机/开源项目数据库.base",
-    "10_赚钱产品挖掘/日报归档/候选项目_2026-05-16.json",
-    "10_赚钱产品挖掘/脚本/build_enriched.py"
+    "09_开源商机/开源项目数据库.base"
   ]
 }
