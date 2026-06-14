@@ -1,0 +1,452 @@
+[
+  {
+    "source": "github",
+    "name": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents",
+    "stars": 58382,
+    "weekly_growth": 10598,
+    "topics": ["ai-agent", "ai-coding", "agent-skills", "Shell"]
+  },
+  {
+    "source": "github",
+    "name": "apple/container",
+    "url": "https://github.com/apple/container",
+    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. Written in Swift, optimized for Apple silicon",
+    "stars": 36310,
+    "weekly_growth": 10409,
+    "topics": ["containers", "macos", "swift", "linux", "virtualization"]
+  },
+  {
+    "source": "github",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works",
+    "stars": 226929,
+    "weekly_growth": 6468,
+    "topics": ["ai-agent", "agent-skills", "framework", "Shell"]
+  },
+  {
+    "source": "github",
+    "name": "NVIDIA/SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks",
+    "stars": 4454,
+    "weekly_growth": 5628,
+    "topics": ["security", "ai-agent", "scanner", "python"]
+  },
+  {
+    "source": "github",
+    "name": "elder-plinius/CL4R1T4S",
+    "url": "https://github.com/elder-plinius/CL4R1T4S",
+    "description": "Leaked system prompts for ChatGPT, Claude, Gemini, Grok, Perplexity, Cursor, Lovable, Replit — AI systems transparency",
+    "stars": 173,
+    "weekly_growth": 5257,
+    "topics": ["ai", "system-prompts", "transparency", "leaks"]
+  },
+  {
+    "source": "github",
+    "name": "XiaomiMiMo/MiMo-Code",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "description": "AI agent and AI coding assistant",
+    "stars": 47,
+    "weekly_growth": 3850,
+    "topics": ["ai-agent", "ai-coding-assistant"]
+  },
+  {
+    "source": "github",
+    "name": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "stars": 119119,
+    "weekly_growth": 3710,
+    "topics": ["iptv", "tv", "channels", "media", "TypeScript"]
+  },
+  {
+    "source": "github",
+    "name": "chopratejas/headroom",
+    "url": "https://github.com/chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before LLM — 60-95% fewer tokens, same answers",
+    "stars": 42,
+    "weekly_growth": 3640,
+    "topics": ["llm", "token-optimization", "rag", "compression"]
+  },
+  {
+    "source": "github",
+    "name": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "stars": 134673,
+    "weekly_growth": 2590,
+    "topics": ["windows", "productivity", "utilities", "C#"]
+  },
+  {
+    "source": "github",
+    "name": "SkyBlue997/enableMacosAI",
+    "url": "https://github.com/SkyBlue997/enableMacosAI",
+    "description": "One-click enable Apple Intelligence (on-device + Private Cloud Compute) on Chinese Macs",
+    "stars": 22,
+    "weekly_growth": 2184,
+    "topics": ["macos", "apple-intelligence", "china", "ai"]
+  },
+  {
+    "source": "github",
+    "name": "music-assistant/server",
+    "url": "https://github.com/music-assistant/server",
+    "description": "Free, open-source Media library manager that connects to your streaming services and a wide range of connected speakers",
+    "stars": 2003,
+    "weekly_growth": 1890,
+    "topics": ["music", "media", "home-assistant", "streaming", "Python"]
+  },
+  {
+    "source": "github",
+    "name": "LMCache/LMCache",
+    "url": "https://github.com/LMCache/LMCache",
+    "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+    "stars": 8892,
+    "weekly_growth": 1666,
+    "topics": ["llm", "cache", "kv-cache", "inference", "Python"]
+  },
+  {
+    "source": "github",
+    "name": "phuryn/pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins for product managers",
+    "stars": 25,
+    "weekly_growth": 1694,
+    "topics": ["ai-agent", "product-management", "skills", "plugins"]
+  },
+  {
+    "source": "github",
+    "name": "farion1231/cc-switch",
+    "url": "https://github.com/farion1231/cc-switch",
+    "description": "Cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent",
+    "stars": 21,
+    "weekly_growth": 1540,
+    "topics": ["ai-agent", "desktop", "cross-platform", "claude-code", "codex"]
+  },
+  {
+    "source": "github",
+    "name": "kenn-io/agentsview",
+    "url": "https://github.com/kenn-io/agentsview",
+    "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 20+ agents. 100x faster replacement for ccusage",
+    "stars": 2362,
+    "weekly_growth": 1330,
+    "topics": ["ai-agent", "analytics", "claude-code", "codex", "Go"]
+  },
+  {
+    "source": "github",
+    "name": "lfnovo/open-notebook",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "description": "Open Source implementation of Notebook LM with more flexibility and features",
+    "stars": 28,
+    "weekly_growth": 1246,
+    "topics": ["notebook", "llm", "open-source", "knowledge-management"]
+  },
+  {
+    "source": "github",
+    "name": "DanMcInerney/architect-loop",
+    "url": "https://github.com/DanMcInerney/architect-loop",
+    "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder — cross-vendor agent loop",
+    "stars": 11,
+    "weekly_growth": 1162,
+    "topics": ["ai-agent", "claude", "codex", "agent-loop", "multi-agent"]
+  },
+  {
+    "source": "github",
+    "name": "andrewyng/aisuite",
+    "url": "https://github.com/andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "stars": 14113,
+    "weekly_growth": 889,
+    "topics": ["ai", "llm", "multi-provider", "Python"]
+  },
+  {
+    "source": "github",
+    "name": "YusufB5/ASCILINE",
+    "url": "https://github.com/YusufB5/ASCILINE",
+    "description": "High-performance, real-time ASCII video rendering engine (30 FPS via WebSockets)",
+    "stars": 21,
+    "weekly_growth": 889,
+    "topics": ["ascii", "video", "rendering", "websocket", "real-time"]
+  },
+  {
+    "source": "github",
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cursor, Devin AI, Lovable, Manus, Perplexity, Replit, Windsurf, Xcode & v0 system prompts, internal tools & AI models",
+    "stars": 140304,
+    "weekly_growth": 763,
+    "topics": ["system-prompts", "ai-tools", "claude", "cursor", "reverse-engineering"]
+  },
+  {
+    "source": "github",
+    "name": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud",
+    "stars": 30859,
+    "weekly_growth": 581,
+    "topics": ["customer-support", "live-chat", "open-source", "Ruby"]
+  },
+  {
+    "source": "github",
+    "name": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, TikTok, and more",
+    "stars": 98,
+    "weekly_growth": 119,
+    "topics": ["clones", "open-source", "web-development", "curated-list"]
+  },
+  {
+    "source": "github",
+    "name": "pulkitxm/claude-directory",
+    "url": "https://github.com/pulkitxm/claude-directory",
+    "description": "Experimentation projects with Anthropic's new Claude models (Fable 5 / Mythos)",
+    "stars": 16,
+    "weekly_growth": 448,
+    "topics": ["claude", "ai", "experimental", "anthropic"]
+  },
+  {
+    "source": "github",
+    "name": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "description": "Rust-based platform for the Web — extremely fast JavaScript/TypeScript compiler and bundler",
+    "stars": 33637,
+    "weekly_growth": 140,
+    "topics": ["rust", "javascript", "typescript", "compiler", "bundler"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Wispr Flow",
+    "url": "https://www.producthunt.com/products/wisprflow",
+    "description": "Mac dictation app that lets you speak naturally and writes in your style in every application — with auto-edits, command mode, and 100+ languages",
+    "upvotes": 532,
+    "weekly_growth": 532,
+    "topics": ["Productivity", "Artificial Intelligence", "Audio", "Dictation"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Fundraisly",
+    "url": "https://www.producthunt.com/products/fundraisly",
+    "description": "AI fundraising agent that finds investors and books meetings",
+    "upvotes": 278,
+    "weekly_growth": 278,
+    "topics": ["Fundraising", "Artificial Intelligence", "Venture Capital"]
+  },
+  {
+    "source": "producthunt",
+    "name": "InsForge Backend Branching",
+    "url": "https://www.producthunt.com/products/insforge-alpha",
+    "description": "The agent-native cloud infrastructure platform with backend branching",
+    "upvotes": 186,
+    "weekly_growth": 186,
+    "topics": ["Developer Tools", "Cloud Infrastructure", "Artificial Intelligence"]
+  },
+  {
+    "source": "producthunt",
+    "name": "SellerClaw",
+    "url": "https://www.producthunt.com/products/sellerclaw",
+    "description": "A team of AI agents that runs your stores across channels",
+    "upvotes": 166,
+    "weekly_growth": 166,
+    "topics": ["E-commerce", "Artificial Intelligence", "Sales"]
+  },
+  {
+    "source": "producthunt",
+    "name": "SocialEcho 2.0",
+    "url": "https://www.producthunt.com/products/socialecho-2-0",
+    "description": "Social media management platform with AI-powered content and analytics",
+    "upvotes": 138,
+    "weekly_growth": 138,
+    "topics": ["Social Media", "Artificial Intelligence", "Marketing"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Mina Meeting Assistant",
+    "url": "https://www.producthunt.com/products/mina-meeting-assistant",
+    "description": "AI-powered meeting assistant for productivity",
+    "upvotes": 137,
+    "weekly_growth": 137,
+    "topics": ["Productivity", "Artificial Intelligence", "Meetings"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Minimi",
+    "url": "https://www.producthunt.com/products/minimi",
+    "description": "Design and creative tool for minimalist workflows",
+    "upvotes": 121,
+    "weekly_growth": 121,
+    "topics": ["Design", "Productivity", "Creative"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Empromptu AI",
+    "url": "https://www.producthunt.com/products/empromptu-ai",
+    "description": "AI prompt engineering and optimization tool",
+    "upvotes": 116,
+    "weekly_growth": 116,
+    "topics": ["Artificial Intelligence", "Prompt Engineering", "Developer Tools"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Honen",
+    "url": "https://www.producthunt.com/products/honen",
+    "description": "Automated teaching + learning infrastructure for any company",
+    "upvotes": 115,
+    "weekly_growth": 115,
+    "topics": ["Productivity", "Education", "Artificial Intelligence"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Publora",
+    "url": "https://www.producthunt.com/products/publora",
+    "description": "The publishing API for the agent era — let AI agents publish content programmatically",
+    "upvotes": 108,
+    "weekly_growth": 108,
+    "topics": ["API", "Developer Tools", "Social Media"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Elentaria",
+    "url": "https://www.producthunt.com/products/elentaria",
+    "description": "Next-gen productivity and collaboration platform",
+    "upvotes": 103,
+    "weekly_growth": 103,
+    "topics": ["Productivity", "Collaboration", "Platform"]
+  },
+  {
+    "source": "producthunt",
+    "name": "superlog",
+    "url": "https://www.producthunt.com/products/superlog",
+    "description": "Advanced logging and debugging tool for developers",
+    "upvotes": 79,
+    "weekly_growth": 79,
+    "topics": ["Developer Tools", "Logging", "Debugging"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Browse.sh (Browserbase)",
+    "url": "https://www.producthunt.com/products/browse-sh",
+    "description": "Give your agents muscle memory for automating the web — headless browser API for AI agents",
+    "upvotes": 95,
+    "weekly_growth": 95,
+    "topics": ["API", "Developer Tools", "Artificial Intelligence", "Web Scraping"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Spotlight by Backplanes",
+    "url": "https://www.producthunt.com/products/spotlight-by-backplanes",
+    "description": "Session reports for Claude Code & Codex to improve your code quality",
+    "upvotes": 88,
+    "weekly_growth": 88,
+    "topics": ["Developer Tools", "Artificial Intelligence", "Security"]
+  },
+  {
+    "source": "producthunt",
+    "name": "ZeroGPU",
+    "url": "https://www.producthunt.com/products/zerogpu",
+    "description": "The compute efficient layer for AI inference — reduce GPU costs",
+    "upvotes": 82,
+    "weekly_growth": 82,
+    "topics": ["API", "Developer Tools", "Artificial Intelligence", "GPU"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Vaani",
+    "url": "https://www.producthunt.com/products/vaani",
+    "description": "Lip-synced AI dubbing for creators, brands and studios",
+    "upvotes": 76,
+    "weekly_growth": 76,
+    "topics": ["Productivity", "Artificial Intelligence", "Audio", "Video"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Homebrew 6.0.0",
+    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "description": "The missing package manager for macOS — major 6.0 release with new features",
+    "upvotes": 1436,
+    "weekly_growth": 1436,
+    "topics": ["package-manager", "macos", "open-source", "developer-tools"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Performative-UI",
+    "url": "https://vorpus.github.io/performativeUI/",
+    "description": "A React component library of design tropes and performative UI patterns",
+    "upvotes": 1173,
+    "weekly_growth": 1173,
+    "topics": ["react", "ui-library", "design", "frontend", "components"]
+  },
+  {
+    "source": "hackernews",
+    "name": "FablePool",
+    "url": "https://fablepool.com",
+    "description": "Pool money behind a prompt, and Fable builds it in public — crowd-funded AI development",
+    "upvotes": 517,
+    "weekly_growth": 517,
+    "topics": ["crowdfunding", "ai", "development", "community"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Lathe",
+    "url": "https://github.com/devenjarvis/lathe",
+    "description": "Use LLMs to learn a new domain, not skip past it — structured learning with AI guidance",
+    "upvotes": 400,
+    "weekly_growth": 400,
+    "topics": ["llm", "education", "learning", "ai", "open-source"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Gitdot",
+    "url": "https://gitdot.io/",
+    "description": "A better GitHub. Open-source, written in Rust — self-hosted Git platform",
+    "upvotes": 332,
+    "weekly_growth": 332,
+    "topics": ["git", "self-hosted", "rust", "open-source", "developer-tools"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Putt.day",
+    "url": "https://putt.day/",
+    "description": "A daily mini golf game — fresh course every day",
+    "upvotes": 297,
+    "weekly_growth": 297,
+    "topics": ["game", "daily", "golf", "web", "fun"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Extend UI",
+    "url": "https://www.extend.ai/ui",
+    "description": "Open-source UI kit for modern document apps — Notion-like editor components",
+    "upvotes": 248,
+    "weekly_growth": 248,
+    "topics": ["ui-kit", "open-source", "documents", "editor", "react"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Gravity",
+    "url": "https://qunabu.github.io/Gravity/",
+    "description": "Interactive solar-system simulator, from Newton to Einstein — physics visualization",
+    "upvotes": 216,
+    "weekly_growth": 216,
+    "topics": ["physics", "simulation", "solar-system", "education", "interactive"]
+  },
+  {
+    "source": "hackernews",
+    "name": "HelixDB",
+    "url": "https://github.com/HelixDB/helix-db",
+    "description": "A graph database built on object storage — scalable graph queries on S3-compatible storage",
+    "upvotes": 155,
+    "weekly_growth": 155,
+    "topics": ["database", "graph", "object-storage", "open-source", "rust"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Roman Empire Names Map",
+    "url": "https://new.roman-names.com/",
+    "description": "An interactive map of people who lived in the Roman Empire — historical data visualization",
+    "upvotes": 155,
+    "weekly_growth": 155,
+    "topics": ["history", "maps", "roman-empire", "data-visualization", "interactive"]
+  }
+]
