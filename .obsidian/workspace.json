@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "12_商业学习/实战02_一件代发/README.md",
+                    "file": "02_行业分析/20260623_华强北新兴业态与赚钱模式调研.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "README"
+                  "title": "20260623_华强北新兴业态与赚钱模式调研"
                 }
               }
             ]
@@ -255,43 +255,43 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "43af11e4805cce7d",
+  "active": "4b7008a6768aed72",
   "lastOpenFiles": [
+    "10_赚钱产品挖掘/日报归档/候选项目库/FastUbu_—_Ultrafast_Video_Archive.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Nexu_Open_Design.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Ask_HN:_Unusual_Income_Sources_(45pts).md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/CUDA_Profiler_for_Production_Inference.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/AirPosture_—_Open-Source_Posture_Coach.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/CustomerMates_—_Pipedrive_Alternative.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Peter_Lynch_AI_Stock_Picking_Skill.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Treedocs_—_Auto-Staleness_Checking_Docs.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Criterion_Closet_—_Film_Database.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Pagecast_—_Publish_Reports_to_Cloudflare_Pages.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/AnswerJournal_—_Save_&_Share_AI_Answers.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/HALO_—_AI_Agent_Trace_Debugger.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Shumai_—_Open-Source_Frame.io_Alternative.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Domain_Locker.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Django-CRM.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Meteroid_—_Billing_Infrastructure.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/TikZ_Editor_—_WYSIWYG_LaTeX_Figure_Editor.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/CleverCrow_—_Token-based_Project_Funding.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Recall_—_Local_Project_Memory_for_Claude_Code.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Oak_—_Agentic_Version_Control.md",
+    "10_赚钱产品挖掘/日报归档/候选项目库/Monolisa_v3.md",
+    "10_赚钱产品挖掘/日报归档/候选项目_2026-06-24.json",
+    "10_赚钱产品挖掘/日报归档/日报_2026-06-24.md",
+    "10_赚钱产品挖掘/数据抓取/2026-06-24_raw.json",
+    "02_行业分析/20260623_华强北业态全景调研.md",
+    "02_行业分析/20260623_华强北新兴业态与赚钱模式调研.md",
     "12_商业学习/实战02_一件代发/README.md",
     "10_赚钱产品挖掘/日报归档/候选项目库/Subify_(Shopify_Subscriptions).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Saladict_(沙拉查词).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/ZeroStarter_(SaaS_Template).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/SaaS_Mail_(Cloudflare_Email).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/myapi_(Autonomous_Company_API).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/PropertyWizard.io.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/jimdesigns.co.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/RevenueCat_(YC_S18).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/OpnForm_(开源表单).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Skyeye_ERP_(云零代码).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Nanobrowser.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/velobase-harness.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/QuantDinger.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Relaticle_CRM.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/changedetection.io.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Lesso_(Course_Builder_for_Writers).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Helpwise_(Shared_Inbox_SaaS).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Visa_List.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/AEO_Checker.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/jimdesigns.co_(Design_Subscription_Studio).md",
     "10_赚钱产品挖掘/日报归档/候选项目_2026-06-22.json",
-    "10_赚钱产品挖掘/日报归档/日报_2026-06-22.md",
     "10_赚钱产品挖掘/数据抓取/2026-06-22_raw.json",
-    "00_公司/进化周报/2026-06-21_周报.md",
-    "12_商业学习/模块02_从摆摊到开店/README.md",
     "12_商业学习/实战02_一件代发",
-    "12_商业学习/模块01_摆摊经济学/README.md",
-    "12_商业学习/模块02_从摆摊到开店/练习题参考答案.md",
     "12_商业学习/模块02_从摆摊到开店",
     "12_商业学习/实战01_黄金代购",
     "12_商业学习/模块01_摆摊经济学",
     "12_商业学习",
-    "10_赚钱产品挖掘/日报归档/候选项目_2026-06-21.json",
-    "10_赚钱产品挖掘/数据抓取/2026-06-21_raw.json",
-    "10_赚钱产品挖掘/日报归档/候选项目_2026-06-20.json"
+    "10_赚钱产品挖掘/日报归档/候选项目_2026-06-21.json"
   ]
 }
