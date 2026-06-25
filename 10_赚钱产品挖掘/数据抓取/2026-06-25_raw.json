@@ -1,0 +1,367 @@
+[
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "Nub – A Bun-like all-in-one toolkit for Node.js",
+    "url": "https://github.com/nubjs/nub",
+    "description": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js. HN 196 points, 56 comments.",
+    "topics": [
+      "tool"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 196,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "Shumai – open-source Frame.io alternative for creative work",
+    "url": "https://github.com/shumaiOne/shumai",
+    "description": "Show HN: Shumai – open-source Frame.io alternative for creative work. HN 59 points, 4 comments.",
+    "topics": [
+      "ai",
+      "open-source"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 59,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "peerd – AI agent harness that runs entirely in your browser",
+    "url": "https://github.com/NotASithLord/peerd",
+    "description": "Show HN: peerd – AI agent harness that runs entirely in your browser. HN 56 points, 20 comments.",
+    "topics": [
+      "ai"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 56,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "Y – A malleable coding-agent desktop app built with Electron",
+    "url": "https://github.com/y-times-y/y",
+    "description": "Show HN: Y – A malleable coding-agent desktop app built with Electron. HN 32 points, 20 comments.",
+    "topics": [
+      "app"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 32,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "The Cascade Graph – An interactive map of AI and energy constraints",
+    "url": "https://atomprophet.io/tools/cascade/",
+    "description": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints. HN 26 points, 12 comments.",
+    "topics": [
+      "ai"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 26,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "RLM-based local debugger for AI agent traces",
+    "url": "https://github.com/context-labs/halo",
+    "description": "Show HN: RLM-based local debugger for AI agent traces. HN 25 points, 10 comments.",
+    "topics": [
+      "ai"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 25,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "AI Torah Chervuta",
+    "url": "https://www.yochai.wiki/chat",
+    "description": "Show HN: AI Torah Chervuta. HN 15 points, 2 comments.",
+    "topics": [
+      "ai"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 15,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-launch",
+    "market": "en",
+    "name": "RevenueCat (YC S18) – Simple API for Managing In-App Subscriptions",
+    "url": "https://news.ycombinator.com/item?id=17610735",
+    "description": "Launch HN: RevenueCat (YC S18) – Simple API for Managing In-App Subscriptions. HN 103 points, 42 comments.",
+    "topics": [
+      "api",
+      "subscription",
+      "app"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 103,
+    "has_revenue": true
+  },
+  {
+    "source": "hackernews-launch",
+    "market": "en",
+    "name": "Level (YC S21) – Flexible financing for early-stage lending startups",
+    "url": "https://news.ycombinator.com/item?id=28292078",
+    "description": "Launch HN: Level (YC S21) – Flexible financing for early-stage lending startups. HN 58 points, 27 comments.",
+    "topics": [
+      "startup"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 58,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "We’ve Built an All-in-One Subscription Management Toolkit",
+    "url": "https://apps.shopify.com/subify-subscriptions",
+    "description": "Show HN: We’ve Built an All-in-One Subscription Management Toolkit. HN 1 points, 0 comments.",
+    "topics": [
+      "tool",
+      "subscription"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": true
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "Indie Launch – personalized launch plans for indie developers",
+    "url": "https://indielaunch.club",
+    "description": "Show HN: Indie Launch – personalized launch plans for indie developers. HN 3 points, 0 comments.",
+    "topics": [
+      "developer-tool"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": false
+  },
+  {
+    "source": "flippa",
+    "market": "en",
+    "name": "Flippa: SaaS in Education",
+    "url": "https://flippa.com/buy/search?query=SaaS&sort=revenue_desc",
+    "description": "Flippa listing: SaaS business in Education with $63K ARR revenue, 70% profit margin, and a Domain Authority of 24",
+    "topics": [
+      "saas",
+      "for-sale"
+    ],
+    "mrr": 5250,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": true
+  },
+  {
+    "source": "flippa",
+    "market": "en",
+    "name": "Flippa: SaaS in Education",
+    "url": "https://flippa.com/buy/search?query=SaaS&sort=revenue_desc",
+    "description": "Flippa listing: SaaS business in Education with $63K ARR revenue, 70% profit margin, and a Domain Authority of 24",
+    "topics": [
+      "saas",
+      "for-sale"
+    ],
+    "mrr": 5250,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": true
+  },
+  {
+    "source": "github",
+    "market": "en",
+    "name": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "GitHub: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (123398 stars). Topics: awesome-list, free-for-developers",
+    "topics": [
+      "awesome-list",
+      "free-for-developers"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 123398,
+    "has_revenue": true
+  },
+  {
+    "source": "github",
+    "market": "en",
+    "name": "ComposioHQ/awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "description": "GitHub: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (65785 stars). Topics: agent-skills, ai-agents, antigravity, automation, claude",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "antigravity",
+      "automation",
+      "claude"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 65785,
+    "has_revenue": true
+  },
+  {
+    "source": "github",
+    "market": "en",
+    "name": "juspay/hyperswitch",
+    "url": "https://github.com/juspay/hyperswitch",
+    "description": "GitHub: Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati (43098 stars). Topics: adyen, beginner-friendly, featured, finance, fintech",
+    "topics": [
+      "adyen",
+      "beginner-friendly",
+      "featured",
+      "finance",
+      "fintech"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 43098,
+    "has_revenue": true
+  },
+  {
+    "source": "github",
+    "market": "en",
+    "name": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "description": "GitHub: Chakra UI is a component system for building SaaS products with speed ⚡️ (40476 stars). Topics: a11y, accessible, ark-ui, chakra-ui, component",
+    "topics": [
+      "a11y",
+      "accessible",
+      "ark-ui",
+      "chakra-ui",
+      "component"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 40476,
+    "has_revenue": true
+  },
+  {
+    "source": "github",
+    "market": "en",
+    "name": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "description": "GitHub: 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star  (37943 stars). Topics: flowable, mybatis-plus, mysql, redis, redisson",
+    "topics": [
+      "flowable",
+      "mybatis-plus",
+      "mysql",
+      "redis",
+      "redisson"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 37943,
+    "has_revenue": true
+  },
+  {
+    "source": "github",
+    "market": "en",
+    "name": "dgtlmoon/changedetection.io",
+    "url": "https://github.com/dgtlmoon/changedetection.io",
+    "description": "GitHub: Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin (32109 stars). Topics: back-in-stock, change-alert, change-detection, change-monitoring, monitoring",
+    "topics": [
+      "back-in-stock",
+      "change-alert",
+      "change-detection",
+      "change-monitoring",
+      "monitoring"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 32109,
+    "has_revenue": true
+  },
+  {
+    "source": "github",
+    "market": "en",
+    "name": "kriasoft/react-starter-kit",
+    "url": "https://github.com/kriasoft/react-starter-kit",
+    "description": "GitHub: Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps. (23609 stars). Topics: better-auth, boilerplate, bun, cloudflare, cloudflare-workers",
+    "topics": [
+      "better-auth",
+      "boilerplate",
+      "bun",
+      "cloudflare",
+      "cloudflare-workers"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 23609,
+    "has_revenue": true
+  },
+  {
+    "source": "github",
+    "market": "en",
+    "name": "Dujltqzv/Some-Many-Books",
+    "url": "https://github.com/Dujltqzv/Some-Many-Books",
+    "description": "GitHub: 个人收藏书籍列表　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 (20586 stars). Topics: ",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 20586,
+    "has_revenue": true
+  }
+]
