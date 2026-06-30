@@ -1,0 +1,480 @@
+[
+  {
+    "source": "hackernews",
+    "market": "en",
+    "name": ".self: A new top-level domain designed to support self-hosting",
+    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "description": "HN 301 points | .self: A new top-level domain designed to support self-hosting",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 301,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews",
+    "market": "en",
+    "name": "Working With AI: A concrete example",
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "description": "HN 82 points | Working With AI: A concrete example",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 82,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "mediabox 这个项目有用户投吗？",
+    "url": "https://v2ex.com/t/1223796",
+    "description": "V2EX #create | replies=0 | mediabox 这个项目有用户投吗？",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "做了一个能高质量翻译扫描 pdf 的产品",
+    "url": "https://v2ex.com/t/1223785",
+    "description": "V2EX #create | replies=0 | 做了一个能高质量翻译扫描 pdf 的产品 | 🛠️ 独立开发者产品",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "[Maker Hub]: Vibe coding 了一个“收录 Vibe coding 项目的导航平台”，记录你的项目让更多人知道",
+    "url": "https://v2ex.com/t/1223782",
+    "description": "V2EX #create | replies=4 | [Maker Hub]: Vibe coding 了一个“收录 Vibe coding 项目的导航平台”，记录你的项目让更多人知道 | 🛠️ 独立开发者产品",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 4,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "尝试 Vibe 了一个 Cursor->API 的工具",
+    "url": "https://v2ex.com/t/1223774",
+    "description": "V2EX #create | replies=4 | 尝试 Vibe 了一个 Cursor->API 的工具 | 🛠️ 独立开发者产品",
+    "topics": [
+      "create"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 4,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "使用了一段时间这个 AI Agent Skills 工具栈，说说我的一些体验",
+    "url": "https://v2ex.com/t/1223705",
+    "description": "V2EX #share | replies=0 | 使用了一段时间这个 AI Agent Skills 工具栈，说说我的一些体验",
+    "topics": [
+      "share"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "做了个小说整理工具：抽人物档案和关系图，也能继续做插图 EPUB",
+    "url": "https://v2ex.com/t/1222086",
+    "description": "V2EX #ideas | replies=7 | 做了个小说整理工具：抽人物档案和关系图，也能继续做插图 EPUB",
+    "topics": [
+      "ideas"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 7,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "有没有这样的开源项目 vibecoding-mcp-server",
+    "url": "https://v2ex.com/t/1219822",
+    "description": "V2EX #ideas | replies=0 | 有没有这样的开源项目 vibecoding-mcp-server",
+    "topics": [
+      "ideas"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "兄弟们， deepseek 配合哪个编程工具最好用，有亲身体验的来说说",
+    "url": "https://v2ex.com/t/1223806",
+    "description": "V2EX #programmer | replies=5 | 兄弟们， deepseek 配合哪个编程工具最好用，有亲身体验的来说说",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 5,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "如果现在所有 AI 工具都不能用了，你们会是什么感受？",
+    "url": "https://v2ex.com/t/1223703",
+    "description": "V2EX #programmer | replies=24 | 如果现在所有 AI 工具都不能用了，你们会是什么感受？",
+    "topics": [
+      "programmer"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 24,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "中转站（或低价订阅站），是不是在卖用户的数据？",
+    "url": "https://v2ex.com/t/1223647",
+    "description": "V2EX #business | replies=5 | 中转站（或低价订阅站），是不是在卖用户的数据？",
+    "topics": [
+      "business"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 5,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "知识付费有没有搞头",
+    "url": "https://v2ex.com/t/1217195",
+    "description": "V2EX #business | replies=29 | 知识付费有没有搞头",
+    "topics": [
+      "business"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 29,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "吐槽：为什么网上大多数时间戳转换工具网站都那么难用？又冗余又复杂",
+    "url": "https://v2ex.com/t/1223137",
+    "description": "V2EX #design | replies=1 | 吐槽：为什么网上大多数时间戳转换工具网站都那么难用？又冗余又复杂",
+    "topics": [
+      "design"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "开发了一个可以将图片转换为像素艺术的小工具",
+    "url": "https://v2ex.com/t/1188557",
+    "description": "V2EX #design | replies=2 | 开发了一个可以将图片转换为像素艺术的小工具 | 🛠️ 独立开发者产品",
+    "topics": [
+      "design"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": true
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "[有奖问卷] 帮帮孩子的设计课！参与桌面收纳模块调查，赢 10 元红包/产品 Demo",
+    "url": "https://v2ex.com/t/1157210",
+    "description": "V2EX #design | replies=4 | [有奖问卷] 帮帮孩子的设计课！参与桌面收纳模块调查，赢 10 元红包/产品 Demo",
+    "topics": [
+      "design"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 4,
+    "has_revenue": false
+  },
+  {
+    "source": "v2ex",
+    "market": "zh",
+    "name": "现在有什么优雅的使用 ai 工具编程的方法？",
+    "url": "https://v2ex.com/t/1173911",
+    "description": "V2EX #coding | replies=0 | 现在有什么优雅的使用 ai 工具编程的方法？",
+    "topics": [
+      "coding"
+    ],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "Show HN: AMA2, messenger built for AI agent",
+    "url": "https://ama2.me/",
+    "description": "Show HN 2pts | Show HN: AMA2, messenger built for AI agent | 💰 AI agent messenger platform — likely SaaS/subscription model",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": true
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "Show HN: ForthWrite – Email AI that learns your voice from every edit you send",
+    "url": "https://www.forthwrite.ai/blog/how-forthwrite-learns-your-email-voice",
+    "description": "Show HN 3pts | Show HN: ForthWrite – Email AI that learns your voice from every edit you send | 💰 AI email writing assistant — SaaS with subscription tiers",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": true
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "Show HN: Xenoeye – analyze network without AI using netflow, PostgreSQL, Grafana",
+    "url": "https://github.com/vmxdev/xenoeye",
+    "description": "Show HN 3pts | Show HN: Xenoeye – analyze network without AI using netflow, PostgreSQL, Grafana",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "Show HN: Fleet – a local-first console for managing Dockerized Hermes AI Agents",
+    "url": "https://github.com/matt454/agent-fleet-console",
+    "description": "Show HN 3pts | Show HN: Fleet – a local-first console for managing Dockerized Hermes AI Agents",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+    "url": "https://github.com/kamaludu/bash4llm/",
+    "description": "Show HN 55pts | Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 55,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-showhn",
+    "market": "en",
+    "name": "Show HN: Uselink – publish and collaborate on AI-generated HTML",
+    "url": "https://uselink.app:443/",
+    "description": "Show HN 4pts | Show HN: Uselink – publish and collaborate on AI-generated HTML | 💰 AI-generated HTML collaboration — SaaS platform",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 4,
+    "has_revenue": true
+  },
+  {
+    "source": "hackernews-new",
+    "market": "en",
+    "name": "Show HN: Let an AI manage your homelab over MCP without giving it SSH",
+    "url": "https://homebutler.dev/",
+    "description": "HN New 1pts | Show HN: Let an AI manage your homelab over MCP without giving it SSH | 💰 AI homelab management — potential SaaS",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": true
+  },
+  {
+    "source": "hackernews-new",
+    "market": "en",
+    "name": "I built a free I Ching oracle web app",
+    "url": "https://iching-silk.vercel.app/",
+    "description": "HN New 1pts | I built a free I Ching oracle web app",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-new",
+    "market": "en",
+    "name": "JetBlue flight hit drone while approaching JFK airport, FAA says",
+    "url": "https://www.reuters.com/world/us/jetblue-flight-hit-drone-while-approaching-jfk-airport-faa-says-2026-06-29/",
+    "description": "HN New 1pts | JetBlue flight hit drone while approaching JFK airport, FAA says",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-new",
+    "market": "en",
+    "name": "Show HN: Lighting fast writing app on Mac with powerful table functions",
+    "url": "https://org-notes-mac.netlify.app",
+    "description": "HN New 1pts | Show HN: Lighting fast writing app on Mac with powerful table functions | 💡 Launched product — potential revenue",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 1,
+    "has_revenue": true
+  },
+  {
+    "source": "hackernews-new",
+    "market": "en",
+    "name": "Show HN: PDF Insight – local-first AI that sorts your PDFs on-device",
+    "url": "https://pdf-insight.com/",
+    "description": "HN New 2pts | Show HN: PDF Insight – local-first AI that sorts your PDFs on-device | 💰 On-device AI PDF sorter — likely freemium SaaS",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": true
+  },
+  {
+    "source": "hackernews-new",
+    "market": "en",
+    "name": "Foray – AI that generates a complete business blueprint and stress-tests ur idea",
+    "url": "https://www.getforay.ai/",
+    "description": "HN New 2pts | Foray – AI that generates a complete business blueprint and stress-tests ur idea | 💰 AI business blueprint generator — commercial SaaS tool",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": true
+  },
+  {
+    "source": "hackernews-new",
+    "market": "en",
+    "name": "Chinese Hedge Funds Warn the AI 'Super Bubble' Is Ready to Burst",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-26/chinese-hedge-funds-warn-the-ai-super-bubble-is-ready-to-burst",
+    "description": "HN New 3pts | Chinese Hedge Funds Warn the AI 'Super Bubble' Is Ready to Burst",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-new",
+    "market": "en",
+    "name": "Tidal Says It Won't Pay Royalties for AI-Generated Music",
+    "url": "https://www.404media.co/tidal-says-it-wont-pay-royalties-for-ai-generated-music/",
+    "description": "HN New 3pts | Tidal Says It Won't Pay Royalties for AI-Generated Music",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 3,
+    "has_revenue": false
+  },
+  {
+    "source": "hackernews-new",
+    "market": "en",
+    "name": "Show HN: Dribble – an open-source AI IDE for databases",
+    "url": "https://github.com/azhakhan/dribble",
+    "description": "HN New 2pts | Show HN: Dribble – an open-source AI IDE for databases",
+    "topics": [],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 2,
+    "has_revenue": false
+  }
+]
