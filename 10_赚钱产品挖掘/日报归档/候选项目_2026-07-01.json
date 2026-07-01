@@ -1,0 +1,60 @@
+[
+  {
+    "source": "hackernews",
+    "name": "I analyzed why 34 products that hit #1 on PH never made $1k MRR",
+    "url": "https://news.ycombinator.com/item?id=45632846",
+    "description": "I analyzed why 34 products that hit #1 on PH never made $1k MRR — ok so weird backstory - ive been building products for startups for like 8 years now and i got obsessed with this question: why do products that KILL IT on product hunt just... die?<p>like were talkin",
+    "market": "en",
+    "raw_signals": {
+      "mrr": 1,
+      "profit": 0,
+      "asking_price": 0,
+      "paying_users": 0,
+      "votes": 6
+    },
+    "category": "saas",
+    "revenue_signal": 2,
+    "cloneability": 4,
+    "maintenance_cost": 4,
+    "market_niche": 4,
+    "tech_fit": 4,
+    "score": 24,
+    "problem": "具体问题待深入调研",
+    "target_user": "待调研",
+    "willingness_to_pay": "✅ 确认 — 有付费用户",
+    "mvp_feasibility": "✅ 高 — saas 类产品，1-2 周可出 MVP",
+    "competitors": "",
+    "how_to_clone": "1. 研究 I analyzed why 34 products that hit #1 on PH never made $1k MRR 的核心功能\n2. 用 AI 辅助写核心代码\n3. 简化功能，只保留 20% 核心\n4. 差异化定位（价格/地区/垂直行业）\n5. 1 周内上线 MVP",
+    "keep": true,
+    "reject_reason": ""
+  },
+  {
+    "source": "hackernews",
+    "name": "Show HN: TeardownHQ, teardowns/playbooks of how indie startups grew",
+    "url": "https://teardownhq.io",
+    "description": "Show HN: TeardownHQ, teardowns/playbooks of how indie startups grew — Launching TeardownHQ: a directory of indie startups with revenue pulled from real signals (and labeled where it is an estimate), plus deep teardowns&#x2F;playbooks of exactly how each one grew. The ch",
+    "market": "en",
+    "raw_signals": {
+      "mrr": 0,
+      "profit": 0,
+      "asking_price": 0,
+      "paying_users": 0,
+      "votes": 5
+    },
+    "category": "saas",
+    "revenue_signal": 1,
+    "cloneability": 4,
+    "maintenance_cost": 4,
+    "market_niche": 3,
+    "tech_fit": 4,
+    "score": 21,
+    "problem": "具体问题待深入调研",
+    "target_user": "待调研",
+    "willingness_to_pay": "⚠️ 待验证 — 有收入但无细节",
+    "mvp_feasibility": "✅ 高 — saas 类产品，1-2 周可出 MVP",
+    "competitors": "",
+    "how_to_clone": "1. 研究 Show HN: TeardownHQ, teardowns/playbooks of how indie startups grew 的核心功能\n2. 用 AI 辅助写核心代码\n3. 简化功能，只保留 20% 核心\n4. 差异化定位（价格/地区/垂直行业）\n5. 1 周内上线 MVP",
+    "keep": true,
+    "reject_reason": ""
+  }
+]
