@@ -1,0 +1,902 @@
+[
+  {
+    "source": "github",
+    "name": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "description": "Anti-overengineering guardrail; pushes AI agents toward simplest implementation",
+    "stars": 0,
+    "weekly_growth": 305,
+    "topics": [
+      "ai-agent",
+      "code-review",
+      "anti-overengineering"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "description": "Framework for building AI agent agencies with structured collaboration",
+    "stars": 0,
+    "weekly_growth": 286,
+    "topics": [
+      "ai-agent",
+      "multi-agent",
+      "agent-framework"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Multi-agent reachability and coordination framework",
+    "stars": 0,
+    "weekly_growth": 205,
+    "topics": [
+      "ai-agent",
+      "multi-agent",
+      "coordination"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "TypeScript and engineering skills for AI coding agents",
+    "stars": 0,
+    "weekly_growth": 205,
+    "topics": [
+      "ai-skills",
+      "typescript",
+      "agent-skills"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "simplex-chat/simplex-chat",
+    "url": "https://github.com/simplex-chat/simplex-chat",
+    "description": "Private messenger without phone numbers, usernames, or user IDs; native mobile/desktop apps",
+    "stars": 0,
+    "weekly_growth": 166,
+    "topics": [
+      "privacy",
+      "messaging",
+      "encryption",
+      "p2p"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "usestrix/strix",
+    "url": "https://github.com/usestrix/strix",
+    "description": "Open-source AI penetration testing with strict security boundaries",
+    "stars": 0,
+    "weekly_growth": 158,
+    "topics": [
+      "security",
+      "pentesting",
+      "ai-agent",
+      "open-source"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "Agentic skills framework & software development methodology for Claude Code",
+    "stars": 0,
+    "weekly_growth": 145,
+    "topics": [
+      "ai-agent",
+      "agent-skills",
+      "claude-code",
+      "framework"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "description": "Open-source agent framework by Nous Research",
+    "stars": 0,
+    "weekly_growth": 135,
+    "topics": [
+      "ai-agent",
+      "agent-framework",
+      "llm",
+      "open-source"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "description": "AI coding agent skills inspired by Andrej Karpathy's methodologies",
+    "stars": 0,
+    "weekly_growth": 121,
+    "topics": [
+      "ai-skills",
+      "agent-skills",
+      "coding-agent"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "JCodesMore/ai-website-cloner-template",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "description": "Clone/rebuild existing website into modern codebase with one AI command",
+    "stars": 0,
+    "weekly_growth": 111,
+    "topics": [
+      "ai-coding",
+      "website-builder",
+      "automation"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "description": "API for turning websites into LLM-ready markdown; web scraping for AI agents",
+    "stars": 0,
+    "weekly_growth": 111,
+    "topics": [
+      "web-scraping",
+      "ai",
+      "api",
+      "llm"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "farion1231/cc-switch",
+    "url": "https://github.com/farion1231/cc-switch",
+    "description": "Seamlessly switch between Claude Code and Codex in your workflow",
+    "stars": 0,
+    "weekly_growth": 110,
+    "topics": [
+      "ai-coding",
+      "claude-code",
+      "codex",
+      "developer-tools"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "description": "Minimalist AI agent framework — strip away complexity for reliable agents",
+    "stars": 0,
+    "weekly_growth": 109,
+    "topics": [
+      "ai-agent",
+      "agent-framework",
+      "minimalist"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "AI-powered daily stock market analysis and trading signals",
+    "stars": 0,
+    "weekly_growth": 109,
+    "topics": [
+      "fintech",
+      "stock-market",
+      "ai",
+      "trading"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "headroomlabs-ai/headroom",
+    "url": "https://github.com/headroomlabs-ai/headroom",
+    "description": "AI agent headroom management — prevent context overflow in long agent sessions",
+    "stars": 0,
+    "weekly_growth": 109,
+    "topics": [
+      "ai-agent",
+      "context-management",
+      "developer-tools"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "topoteretes/cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "description": "Persistent memory and knowledge graphs for AI agents",
+    "stars": 0,
+    "weekly_growth": 109,
+    "topics": [
+      "ai-agent",
+      "knowledge-graph",
+      "memory",
+      "python"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "description": "Design taste and UI/UX evaluation skill for AI coding agents",
+    "stars": 0,
+    "weekly_growth": 103,
+    "topics": [
+      "ai-skills",
+      "design",
+      "ui-ux",
+      "agent-skills"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "xbtlin/ai-berkshire",
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "description": "AI investing research framework using Buffett/Munger value-investing lenses with Claude Code/Codex",
+    "stars": 0,
+    "weekly_growth": 0,
+    "topics": [
+      "fintech",
+      "investing",
+      "ai-agent",
+      "value-investing"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "calesthio/OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "description": "Agentic video production combining agent workflows, stock footage, narration, music, subtitles",
+    "stars": 0,
+    "weekly_growth": 0,
+    "topics": [
+      "video",
+      "ai-agent",
+      "content-creation",
+      "automation"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "google-labs-code/design.md",
+    "url": "https://github.com/google-labs-code/design.md",
+    "description": "Design system specification format for describing visual identity and UI rules to AI coding agents",
+    "stars": 0,
+    "weekly_growth": 0,
+    "topics": [
+      "design",
+      "ai-agent",
+      "specification",
+      "ui"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "DeusData/codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "description": "Indexes codebases into persistent knowledge graph for AI agent querying via MCP",
+    "stars": 0,
+    "weekly_growth": 0,
+    "topics": [
+      "mcp",
+      "knowledge-graph",
+      "ai-agent",
+      "codebase"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "kunchenguid/no-mistakes",
+    "url": "https://github.com/kunchenguid/no-mistakes",
+    "description": "Pre-push AI safety gate — AI review before code reaches team repo",
+    "stars": 0,
+    "weekly_growth": 0,
+    "topics": [
+      "code-review",
+      "ai-agent",
+      "safety",
+      "git"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "Curated list of free tiers for hosting, databases, auth, email, analytics — essential for bootstrappers",
+    "stars": 0,
+    "weekly_growth": 0,
+    "topics": [
+      "dev-resources",
+      "free-tier",
+      "bootstrapping",
+      "curated-list"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "stablyai/orca",
+    "url": "https://github.com/stablyai/orca",
+    "description": "Desktop/mobile environment for running multiple AI coding agents in parallel",
+    "stars": 0,
+    "weekly_growth": 0,
+    "topics": [
+      "ai-agent",
+      "coding-agent",
+      "parallel",
+      "development"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "MCP server for Chrome DevTools — let AI agents inspect and control browser pages",
+    "stars": 0,
+    "weekly_growth": 0,
+    "topics": [
+      "mcp",
+      "chrome",
+      "browser",
+      "ai-agent",
+      "developer-tools"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "description": "Self-hosted photo and video management solution — Google Photos alternative",
+    "stars": 0,
+    "weekly_growth": 0,
+    "topics": [
+      "self-hosted",
+      "photos",
+      "privacy",
+      "saas-alternative"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "agentskills/agentskills",
+    "url": "https://github.com/agentskills/agentskills",
+    "description": "Community-driven repository of reusable AI agent skills",
+    "stars": 0,
+    "weekly_growth": 0,
+    "topics": [
+      "ai-agent",
+      "skills",
+      "community",
+      "agent-skills"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "elie222/inbox-zero",
+    "url": "https://github.com/elie222/inbox-zero",
+    "description": "Self-hostable AI email assistant to reach and maintain inbox zero",
+    "stars": 0,
+    "weekly_growth": 0,
+    "topics": [
+      "email",
+      "ai",
+      "productivity",
+      "self-hosted"
+    ]
+  },
+  {
+    "source": "github",
+    "name": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "description": "Video editing with AI coding agents — automate video production workflows",
+    "stars": 0,
+    "weekly_growth": 0,
+    "topics": [
+      "video",
+      "ai-agent",
+      "content-creation",
+      "automation"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Glaze by Raycast",
+    "url": "https://glaze.app",
+    "description": "Create your own Mac apps by chatting with AI — real apps in dock, instant launch, offline",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 466,
+    "topics": [
+      "mac",
+      "productivity",
+      "artificial-intelligence",
+      "no-code"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Context.dev",
+    "url": "https://context.dev",
+    "description": "One API to scrape, enrich, and extract the internet for AI agents",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "api",
+      "ai",
+      "data",
+      "web-scraping"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Acti",
+    "url": "https://acti.ai",
+    "description": "Agentic keyboard for mobile commands and search — AI-powered mobile productivity",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "productivity",
+      "custom-keyboards",
+      "artificial-intelligence",
+      "mobile"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Fypro",
+    "url": "https://fypro.com",
+    "description": "Convert your TikTok followers into paying customers",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "social-media",
+      "e-commerce",
+      "shopping",
+      "tiktok"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Cursor for iOS",
+    "url": "https://cursor.com/ios",
+    "description": "Build with AI coding agents from anywhere — mobile AI development",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "ai",
+      "development",
+      "vibe-coding",
+      "mobile"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Agent Mode by Receiptor AI",
+    "url": "https://receiptor.ai",
+    "description": "Bookkeeping assistant that runs receipt workflows end-to-end with AI agents",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "fintech",
+      "ai",
+      "accounting",
+      "automation"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Spira for Product Hunt Makers",
+    "url": "https://spira.ai",
+    "description": "Social media growth agents that build your launch momentum",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "social-media",
+      "marketing",
+      "ai",
+      "growth"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Humalike",
+    "url": "https://humalike.com",
+    "description": "Give your AI agents the social intelligence they're missing — API for agent social skills",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "api",
+      "developer-tools",
+      "artificial-intelligence",
+      "ai-agent"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Skills Marketplace by Databox",
+    "url": "https://databox.com",
+    "description": "Ready-made AI analytics skills for your business data",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "analytics",
+      "marketing",
+      "ai",
+      "business-intelligence"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Tabstack Browser Automation",
+    "url": "https://tabstack.com",
+    "description": "Automate the web in your app or agent — no browser to host",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "api",
+      "developer-tools",
+      "ai",
+      "automation",
+      "browser"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Claude Sonnet 5",
+    "url": "https://anthropic.com",
+    "description": "AI that plans, acts, and gets work done — latest from Anthropic",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "ai",
+      "llm",
+      "saas",
+      "agentic-ai"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Goals from Loops",
+    "url": "https://loops.so",
+    "description": "Measure whether your email campaign drove the desired outcome",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 286,
+    "topics": [
+      "email",
+      "email-marketing",
+      "marketing",
+      "analytics"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "ClinePass",
+    "url": "https://clinepass.com",
+    "description": "Run the best open-weights models in Cline — open-source AI copilot",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "developer-tools",
+      "ai",
+      "open-source",
+      "coding"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Adam CAD Copilot",
+    "url": "https://adamcad.com",
+    "description": "AI CAD copilot inside Onshape and Fusion — AI-assisted mechanical design",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "design-tools",
+      "productivity",
+      "ai",
+      "cad"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Tamamon",
+    "url": "https://tamamons.com",
+    "description": "Desktop pet that grows as you code with Claude Code — 20 species, evolves, reacts to weather",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 244,
+    "topics": [
+      "mac",
+      "productivity",
+      "developer-tools",
+      "games",
+      "claude-code"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Osloq",
+    "url": "https://osloq.com",
+    "description": "AI dev tool that actually runs your code — spins up sandbox, reproduces bugs with real evidence",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 199,
+    "topics": [
+      "developer-tools",
+      "ai",
+      "testing",
+      "qa",
+      "github"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Archify",
+    "url": "https://archify.salahxd.dev",
+    "description": "See components, APIs, libraries — understand application behavior directly in browser",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 178,
+    "topics": [
+      "chrome-extensions",
+      "developer-tools",
+      "architecture",
+      "visualization"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "nxt",
+    "url": "https://nxt.do",
+    "description": "AI task manager you talk to like a human assistant — brain-dump in plain language",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 145,
+    "topics": [
+      "productivity",
+      "task-management",
+      "ai",
+      "personal-assistant"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Vox",
+    "url": "https://aasis21.github.io/vox",
+    "description": "Voice in, voice out with GitHub Copilot — speak to your AI coding agent",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 139,
+    "topics": [
+      "developer-tools",
+      "ai",
+      "voice",
+      "github-copilot"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "Sequence Agentic",
+    "url": "https://sequence.ai",
+    "description": "Money movement for AI agents — fintech API for agentic payments",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "fintech",
+      "api",
+      "artificial-intelligence",
+      "payments"
+    ]
+  },
+  {
+    "source": "producthunt",
+    "name": "OASIS 1 Ring",
+    "url": "https://oasisring.com",
+    "description": "Whisper to write and touch to edit — voice-first wearable productivity",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "productivity",
+      "ai",
+      "voice",
+      "wearable"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "Mcpsnoop",
+    "url": "https://github.com/kerlenton/mcpsnoop",
+    "description": "Wireshark for MCP — transparent proxy and live TUI for debugging MCP communications",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 61,
+    "topics": [
+      "mcp",
+      "debugging",
+      "developer-tools",
+      "proxy",
+      "tui"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "Bramble",
+    "url": "https://bramble.app",
+    "description": "Local-first password manager — privacy-first credential management",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 129,
+    "topics": [
+      "security",
+      "password-manager",
+      "privacy",
+      "local-first"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "Graph Paper Generator",
+    "url": "https://graphpaper.app",
+    "description": "Vector PDF graph paper generator — create custom grids directly in browser",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 106,
+    "topics": [
+      "design",
+      "productivity",
+      "pdf",
+      "browser"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "Slopo",
+    "url": "https://slopo.dev",
+    "description": "CLI for non-exact code duplication detection using embedding models",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 91,
+    "topics": [
+      "code-analysis",
+      "cli",
+      "embeddings",
+      "developer-tools"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "Inkwell",
+    "url": "https://inkwell.app",
+    "description": "RSS reader designed for e-ink devices — distraction-free reading",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 75,
+    "topics": [
+      "rss",
+      "e-ink",
+      "reading",
+      "minimalist"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "zkGolf",
+    "url": "https://zkgolf.com",
+    "description": "Competitive optimization of formally verified circuits — puzzle game for cryptographers",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 69,
+    "topics": [
+      "cryptography",
+      "zero-knowledge",
+      "game",
+      "optimization"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "ctx",
+    "url": "https://ctx.dev",
+    "description": "Search your AI coding agent's history — find past conversations and generated code",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 42,
+    "topics": [
+      "ai-coding",
+      "search",
+      "productivity",
+      "developer-tools"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "Claudoro",
+    "url": "https://github.com/claudoro",
+    "description": "Pomodoro timer embedded in Claude Code statusline — timebox your AI coding sessions",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 35,
+    "topics": [
+      "productivity",
+      "pomodoro",
+      "claude-code",
+      "time-management"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "File Organizer 2000",
+    "url": "https://fileorganizer2000.com",
+    "description": "AI-powered local file organizer — automatically sort, tag, and rename files",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": [
+      "productivity",
+      "file-management",
+      "ai",
+      "local-first"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "Tolaria",
+    "url": "https://tolaria.app",
+    "description": "Open-source macOS app for Markdown knowledge bases — Obsidian alternative built in Rust",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 318,
+    "topics": [
+      "knowledge-management",
+      "markdown",
+      "macos",
+      "open-source",
+      "note-taking"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "Files.md",
+    "url": "https://files.md",
+    "description": "Open-source alternative to Obsidian — Markdown-based knowledge management",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 730,
+    "topics": [
+      "knowledge-management",
+      "markdown",
+      "open-source",
+      "note-taking"
+    ]
+  },
+  {
+    "source": "hackernews",
+    "name": "HackerNewsTrends",
+    "url": "https://hntrends.com",
+    "description": "Google Trends for Hacker News — indexed 18 years of comments to surface trending topics",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 812,
+    "topics": [
+      "data",
+      "analytics",
+      "hacker-news",
+      "trends",
+      "visualization"
+    ]
+  }
+]
