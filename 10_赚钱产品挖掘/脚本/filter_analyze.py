@@ -4,7 +4,7 @@
 用法: python filter_analyze.py <raw_data.json> <output_dir>
 """
 
-import json, sys, os
+import json, sys, os, re
 from datetime import datetime, date
 from dataclasses import dataclass, field, asdict
 from typing import Optional
@@ -82,7 +82,11 @@ def classify(item: dict) -> str:
     # 先检查精确分类信号
     for cat, info in CATEGORIES.items():
         for kw in info["keywords"]:
-            if kw in text:
+            if kw == "ai":
+                # "ai" 需独立成词，避免 gmail/email/said 等误匹配
+                if re.search(r"\bai\b", text):
+                    return cat
+            elif kw in text:
                 return cat
 
     # 启发式
