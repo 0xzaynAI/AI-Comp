@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "05_想法草稿/20260629_水贝黄金代购调研报告.md",
+                    "file": "10_赚钱产品挖掘/日报归档/日报_2026-07-18.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "20260629_水贝黄金代购调研报告"
+                  "title": "日报_2026-07-18"
                 }
               }
             ]
@@ -72,7 +72,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "终端：zsh"
+                  "title": "终端：lennyz@MacM1Pro:~/github/AI-Comp"
                 }
               }
             ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Pallyy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,35 +255,36 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "1654043d8bab7f2d",
+  "active": "43af11e4805cce7d",
   "lastOpenFiles": [
-    "10_赚钱产品挖掘/日报归档/候选项目库/Chronicle_2.0.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Stitch_2.0_by_Google.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Framer_AI_Agents.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Grammarly_(Chrome_Extension).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Nexty_(Indie_Tools_推荐).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Daily_Coding_Problem.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Site_Builder_Report.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Matboard_and_More.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Double_Your_Freelancing.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Yet_Another_Mail_Merge.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/PowerPack_for_Beaver_Builder.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/ソロメーカー_(SoloMaker).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Asked_Q&A_個人開発.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/個人開発アプリ_月間収益_¥200,000.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Amanda_深度研究100个赚钱网站.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Patrick_独立开发矩阵.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/twk93_一人公司.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/vulgur_独立开发_App_矩阵.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/SaaS_@_$60K_MRR_(Starter_Story).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Marc_Lou_SaaS_Empire.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Pallyy_(ShareMyInsights).md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/Reddit_SaaS_@_$1600_MRR.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/GoHighLevel.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/uimintapp_-_quickwrap.app.md",
-    "10_赚钱产品挖掘/日报归档/候选项目库/dayvid.ai.md",
-    "10_赚钱产品挖掘/日报归档/候选项目_2026-07-18.json",
     "10_赚钱产品挖掘/日报归档/日报_2026-07-18.md",
+    "10_赚钱产品挖掘/YouTube-赚钱视频/2026-05-08_零基础_赚钱App路线图.md",
+    "10_赚钱产品挖掘/YouTube-赚钱视频/2026-05-08_AI儿童故事_小红书矩阵.md",
+    "10_赚钱产品挖掘/YouTube-赚钱视频/2026-05-08_YouTube广告分成_黄思平.md",
+    "10_赚钱产品挖掘/YouTube-赚钱视频/2026-05-08_MicroSaaS_101_5个创意.md",
+    "10_赚钱产品挖掘/YouTube-赚钱视频/2026-05-08_DataFetcher_23K_MRR.md",
+    "10_赚钱产品挖掘/YouTube-赚钱视频/2026-05-08_AI赚钱实测_Alice.md",
+    "02_行业分析/充电宝_产业链深度报告.md",
+    "02_行业分析/AI_情绪价值App竞品分析.md",
+    "02_行业分析/20260623_华强北新兴业态与赚钱模式调研.md",
+    "02_行业分析/20260623_华强北业态全景调研.md",
+    "01_市场分析/跨境情报赛道_市场体量.md",
+    "01_市场分析/索引.md",
+    "01_市场分析/Stanzio_AI_PPT_中国市场调研.md",
+    "01_市场分析/Filect_智能文件管理_市场调研.md",
+    "01_市场分析/Feather_本地AI修图_市场调研.md",
+    "00_公司/索引.md",
+    "00_公司/L_待办任务.md",
+    "00_公司/任务管理.md",
+    "00_公司/进化周报/2026-06-28_周报.md",
+    "08_决策/D001_首个产品方向.md",
+    "福建五城妆造店铺汇总.md",
+    "Markwhen/Markwhen 5-6-2026 11.14.45.mw",
+    "07_产品/索引.md",
+    "06_产品需求文档/Stanzio_PRD_v1.0.md",
+    "06_产品需求文档/Mirror_PRD_v1.0.md",
+    "06_产品需求文档/Filect_PRD_v1.0.md",
+    "10_赚钱产品挖掘/日报归档/候选项目_2026-07-18.json",
     "10_赚钱产品挖掘/数据抓取/2026-07-18_raw.json",
     "10_赚钱产品挖掘/日报归档/候选项目_2026-07-16.json",
     "10_赚钱产品挖掘/数据抓取/2026-07-16_raw.json",
@@ -291,7 +292,6 @@
     "10_赚钱产品挖掘/数据抓取/2026-07-11_raw.json",
     "10_赚钱产品挖掘/日报归档/候选项目_2026-07-09.json",
     "10_赚钱产品挖掘/数据抓取/2026-07-09_raw.json",
-    "10_赚钱产品挖掘/日报归档/候选项目_2026-07-07.json",
-    "10_赚钱产品挖掘/数据抓取/2026-07-07_raw.json"
+    "10_赚钱产品挖掘/日报归档/候选项目_2026-07-07.json"
   ]
 }
