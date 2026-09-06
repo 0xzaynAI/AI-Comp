@@ -1,0 +1,471 @@
+[
+  {
+    "source": "github",
+    "name": "tt-a1i/archify",
+    "url": "https://github.com/tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams — self-contained HTML with motion and crisp export.",
+    "stars": 0,
+    "weekly_growth": 19480,
+    "topics": ["diagram", "architecture", "agent-skill", "design", "visualization"]
+  },
+  {
+    "source": "github",
+    "name": "THU-MAIC/OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "stars": 0,
+    "weekly_growth": 10109,
+    "topics": ["education", "multi-agent", "ai", "classroom", "learning"]
+  },
+  {
+    "source": "github",
+    "name": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "stars": 0,
+    "weekly_growth": 6761,
+    "topics": ["voice", "tts", "voice-cloning", "dubbing", "saas-alternative"]
+  },
+  {
+    "source": "github",
+    "name": "bilawalsidhu/gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "stars": 0,
+    "weekly_growth": 5926,
+    "topics": ["spatial", "data-viz", "3d", "satellite", "gis"]
+  },
+  {
+    "source": "github",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery.",
+    "stars": 0,
+    "weekly_growth": 5491,
+    "topics": ["ai-agent", "science", "biology", "chemistry", "drug-discovery"]
+  },
+  {
+    "source": "github",
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 0,
+    "weekly_growth": 5445,
+    "topics": ["ai-agent", "developer-tools", "performance", "coding-agent"]
+  },
+  {
+    "source": "github",
+    "name": "jingyaogong/minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "description": "Train a 64M-parameter LLM from scratch in just 2h!",
+    "stars": 0,
+    "weekly_growth": 3649,
+    "topics": ["llm", "education", "training", "nlp", "learning"]
+  },
+  {
+    "source": "github",
+    "name": "tailscale/tailcat",
+    "url": "https://github.com/tailscale/tailcat",
+    "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+    "stars": 0,
+    "weekly_growth": 3187,
+    "topics": ["networking", "cli", "vpn", "tailscale"]
+  },
+  {
+    "source": "github",
+    "name": "google-research/timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "stars": 0,
+    "weekly_growth": 2968,
+    "topics": ["time-series", "forecasting", "fintech", "ml", "foundation-model"]
+  },
+  {
+    "source": "github",
+    "name": "every-app/open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "description": "Open source alternative to Semrush and Ahrefs",
+    "stars": 0,
+    "weekly_growth": 2755,
+    "topics": ["seo", "marketing", "saas-alternative", "analytics"]
+  },
+  {
+    "source": "github",
+    "name": "abi/screenshot-to-code",
+    "url": "https://github.com/abi/screenshot-to-code",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "stars": 0,
+    "weekly_growth": 2034,
+    "topics": ["ai-coding", "screenshot", "design", "no-code", "developer-tools"]
+  },
+  {
+    "source": "github",
+    "name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "description": "Fully automatic censorship removal for language models",
+    "stars": 0,
+    "weekly_growth": 2010,
+    "topics": ["llm", "censorship", "ai-safety", "privacy"]
+  },
+  {
+    "source": "github",
+    "name": "handsomestWei/patent-disclosure-skill",
+    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+    "stars": 0,
+    "weekly_growth": 1996,
+    "topics": ["patent", "legal", "ai-agent", "agent-skill"]
+  },
+  {
+    "source": "github",
+    "name": "Gitlawb/openclaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything",
+    "stars": 0,
+    "weekly_growth": 1839,
+    "topics": ["ai-coding", "claude-code", "agent", "open-source"]
+  },
+  {
+    "source": "github",
+    "name": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "description": "A modern formatting library",
+    "stars": 0,
+    "weekly_growth": 1809,
+    "topics": ["cpp", "library", "formatting"]
+  },
+  {
+    "source": "github",
+    "name": "Lakr233/vphone-cli",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "description": "",
+    "stars": 0,
+    "weekly_growth": 1631,
+    "topics": ["virtual-phone", "ios", "cli"]
+  },
+  {
+    "source": "github",
+    "name": "magnitudedev/magnitude",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "stars": 0,
+    "weekly_growth": 1396,
+    "topics": ["llm", "inference", "local-models", "ai-agent"]
+  },
+  {
+    "source": "github",
+    "name": "punkpeye/awesome-mcp-servers",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "stars": 0,
+    "weekly_growth": 1287,
+    "topics": ["mcp", "awesome-list", "ai-agent", "developer-tools"]
+  },
+  {
+    "source": "github",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "stars": 0,
+    "weekly_growth": 958,
+    "topics": ["mcp", "chrome", "browser", "developer-tools", "ai-agent"]
+  },
+  {
+    "source": "github",
+    "name": "majd/ipatool",
+    "url": "https://github.com/majd/ipatool",
+    "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+    "stars": 0,
+    "weekly_growth": 926,
+    "topics": ["ios", "cli", "app-store", "tool"]
+  },
+  {
+    "source": "github",
+    "name": "checkstyle/checkstyle",
+    "url": "https://github.com/checkstyle/checkstyle",
+    "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions.",
+    "stars": 0,
+    "weekly_growth": 536,
+    "topics": ["java", "linter", "code-quality"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Kilo Code",
+    "url": "https://www.producthunt.com/posts/kilo-code",
+    "description": "The open-source agentic engineering platform",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["ai-coding", "open-source", "developer-tools", "agentic"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Monid",
+    "url": "https://www.producthunt.com/posts/monid",
+    "description": "OpenRouter for agent tools",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["ai-agent", "developer-tools", "api", "tooling"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Aglyn",
+    "url": "https://www.producthunt.com/posts/aglyn",
+    "description": "The visual builder with a real platform underneath",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["no-code", "visual-builder", "saas"]
+  },
+  {
+    "source": "producthunt",
+    "name": "x1",
+    "url": "https://www.producthunt.com/posts/x1",
+    "description": "Lovable for iPhone apps — go from idea to App Store",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["ios", "no-code", "vibe-coding", "mobile"]
+  },
+  {
+    "source": "producthunt",
+    "name": "PaymentKit",
+    "url": "https://www.producthunt.com/posts/paymentkit",
+    "description": "Billing that survives a processor shutdown",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["fintech", "saas", "e-commerce", "billing"]
+  },
+  {
+    "source": "producthunt",
+    "name": "akta.pro",
+    "url": "https://www.producthunt.com/posts/akta-pro",
+    "description": "Private company data and signals API for the agent economy",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["api", "developer-tools", "ai", "data"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Skydive",
+    "url": "https://www.producthunt.com/posts/skydive",
+    "description": "Build cloud agents that work across your tools",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["ai-agent", "cloud", "automation"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Replay",
+    "url": "https://www.producthunt.com/posts/replay",
+    "description": "Autonomous app testing for teams who ship at AI-speed",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["testing", "ai", "developer-tools", "qa"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Dograh",
+    "url": "https://www.producthunt.com/posts/dograh",
+    "description": "The open source VAPI alternative",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["open-source", "ai-voice", "developer-tools", "saas-alternative"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Astute",
+    "url": "https://www.producthunt.com/posts/astute",
+    "description": "Automate your B2B brand going viral, with new media creators",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["social-media", "marketing", "ai", "b2b"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Arctic RSS",
+    "url": "https://www.producthunt.com/posts/arctic-rss",
+    "description": "Follow the open web without the noise",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["rss", "reader", "productivity", "open-web"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Computable GPU Index (CGI)",
+    "url": "https://www.producthunt.com/posts/computable-gpu-index",
+    "description": "The first open-source price index for GPU compute",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["fintech", "gpu", "ai-infra", "price-index", "open-source"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Horizon",
+    "url": "https://www.producthunt.com/posts/horizon",
+    "description": "Daily world news & markets, scored by fixed rules — not AI",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["news", "finance", "markets", "data"]
+  },
+  {
+    "source": "producthunt",
+    "name": "myAIcademy",
+    "url": "https://www.producthunt.com/posts/myaiacademy",
+    "description": "Learn AI skills for your specific role and team",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["education", "ai", "productivity", "learning"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Compliance by TwelveLabs",
+    "url": "https://www.producthunt.com/posts/compliance-by-twelvelabs",
+    "description": "Video compliance review powered by rules you control",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["video", "ai", "compliance", "saas"]
+  },
+  {
+    "source": "producthunt",
+    "name": "ThunderPhone",
+    "url": "https://www.producthunt.com/posts/thunderphone",
+    "description": "A platform for building reliable AI phone agents starting at just two cents per minute",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["ai-voice", "phone", "ai-agent", "saas"]
+  },
+  {
+    "source": "producthunt",
+    "name": "Nori Robotics",
+    "url": "https://www.producthunt.com/posts/nori-robotics",
+    "description": "$1,688 bimanual mobile humanoid robot aimed at developers and researchers who need affordable hardware",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["robotics", "hardware", "ai", "developer-tools"]
+  },
+  {
+    "source": "producthunt",
+    "name": "EveryCityMap",
+    "url": "https://www.producthunt.com/posts/everycitymap",
+    "description": "Turn 500+ cities into maps you can style, share and print",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 0,
+    "topics": ["maps", "design", "productivity", "print"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Laser Graffiti",
+    "url": "https://laser.consti.de",
+    "description": "Laser-based graffiti art project — hardware + creative tool",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 252,
+    "topics": ["hardware", "laser", "art", "creative", "maker"]
+  },
+  {
+    "source": "hackernews",
+    "name": "SlotStream",
+    "url": "https://github.com/carloslfu/slotstream",
+    "description": "Running 104GB Qwen3.8-Flash-Next on a 48GB Mac at ~12 tok/s via memory streaming/offloading",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 229,
+    "topics": ["ai", "llm", "inference", "performance", "local"]
+  },
+  {
+    "source": "hackernews",
+    "name": "NFC Energy-Harvesting PCB Business Card",
+    "url": "https://wilsonharper.net/projects/businesscard/",
+    "description": "An NFC energy-harvesting PCB business card with an MCU",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 221,
+    "topics": ["hardware", "nfc", "iot", "pcb", "maker"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Weedout",
+    "url": "https://masteranza.github.io/weedout/",
+    "description": "Safari extension that hides YouTube AI-labeled videos",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 180,
+    "topics": ["browser-extension", "ai", "youtube", "filter", "privacy"]
+  },
+  {
+    "source": "hackernews",
+    "name": "HN Match Maker",
+    "url": "https://hnmatchmaker.com/",
+    "description": "Matching 'Who Wants to Be Hired?' with 'Who's Hiring?' posts",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 114,
+    "topics": ["jobs", "recruiting", "matching", "community"]
+  },
+  {
+    "source": "hackernews",
+    "name": "OwnTime",
+    "url": "https://owntime.app/",
+    "description": "A chess clock for your day's priorities",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 104,
+    "topics": ["productivity", "time-management", "focus"]
+  },
+  {
+    "source": "hackernews",
+    "name": "FrontierHarness Eval",
+    "url": "https://frontierharness.org",
+    "description": "9 harnesses, same model, cost per pass varies 17x — LLM evaluation cost benchmark",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 79,
+    "topics": ["ai", "evaluation", "benchmark", "llm", "cost"]
+  },
+  {
+    "source": "hackernews",
+    "name": "SubSmith",
+    "url": "https://subsmith.app",
+    "description": "Turn your own videos into language-learning material",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 78,
+    "topics": ["education", "language-learning", "video", "productivity"]
+  },
+  {
+    "source": "hackernews",
+    "name": "ZSvirt",
+    "url": "https://github.com/ZSvirt/zsvirt",
+    "description": "A lightweight, scalable open source virtualization platform",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 71,
+    "topics": ["virtualization", "infra", "open-source"]
+  },
+  {
+    "source": "hackernews",
+    "name": "Sesame",
+    "url": "https://usesesame.app/",
+    "description": "A local-first, open-source password manager",
+    "stars": 0,
+    "weekly_growth": 0,
+    "upvotes": 65,
+    "topics": ["security", "password-manager", "privacy", "local-first", "open-source"]
+  }
+]
