@@ -1,0 +1,58 @@
+[
+  {
+    "source": "okjike",
+    "market": "zh",
+    "name": "MkSaaS (Indie-Fox 产品矩阵: AI SaaS 网站模板)",
+    "url": "https://mksaas.com/blog/2025",
+    "description": "中国独立开发者 Indie-Fox (Fox) 的 AI SaaS 网站模板产品矩阵。核心产品 MkSaaS 是 Next.js + Stripe + Vercel AI SDK 的一键式 SaaS 启动模板，帮助开发者在周末快速构建 AI SaaS 产品。收入信号：2025年11月月度收入突破 $20K（MRR 约 $2 万），2024年10月21日至2026年1月1日累计总收入 $117,914，独立开发总收入已超 $100K。产品矩阵还包括 Mkdirs（导航站模板，10天破$2K、40天破$1万）、IndieHub。打法：推特/小红书/即刻多平台公开构建 + 卖模板（digital product，边际成本趋零）+ Stripe Atlas 注册美国公司收款。验证「卖 SaaS 模板/Starter Kit」这一高利润、可复制性极强的方向，本质是「卖铲子给淘金者」的独立开发者生意。",
+    "topics": ["saas", "template", "starter kit", "ai", "next.js", "出海", "数字产品"],
+    "mrr": 20000,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": true
+  },
+  {
+    "source": "linkedin",
+    "market": "en",
+    "name": "ChatPRD (AI 产品经理 Copilot)",
+    "url": "https://www.chatprd.ai",
+    "description": "Claire Vo 一个人用 AI（OpenAI API + Stripe + Vercel）在周末做出来的「按需首席产品官」AI 工具，帮助 PM 自动生成 PRD、技术规格、AI 驱动更新。收入信号：Dan Shipper 公开披露其收入已达六位数（six figures in revenue，约 $10K MRR 估算）；Claire Vo 本人 LinkedIn 发帖称「刚在 ChatPRD 达成一个此前在融资创业公司花了 3 年才达成的 MRR 目标」。规模：100K+ 产品经理信任使用、25K 应用用户、250K chats，客户含 Autodesk、Handshake、CopyAI 等企业（SOC 2 Type II + SSO + 企业版）。验证「垂直角色 AI Copilot（PM/设计师/工程师）+ 订阅制 + 个人开发者」这一高付费意愿方向，但已属成熟产品、竞争激烈，适合做差异化（地区/语言/细分角色）切入。",
+    "topics": ["ai", "saas", "productivity", "copilot", "product management", "b2b"],
+    "mrr": 9000,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 25000,
+    "votes": 0,
+    "has_revenue": true
+  },
+  {
+    "source": "twitter",
+    "market": "en",
+    "name": "88finder (启动验证收入的小工具)",
+    "url": "https://x.com/trust_mrr/status/2045507666747810156",
+    "description": "TrustMRR（@marclou 创办的「买卖盈利型初创公司」市场）上验证收入的小产品：88finder 已接入 TrustMRR，MRR $135/月，30天营收 $158，累计营收 $221，30天增长 +440%，26 个活跃订阅。规模很小，但体现了 TrustMRR 这个「带已验证收入数据的初创公司买卖市场」的玩法——大量 $35-$135 MRR 的小微 SaaS/订阅产品在售，倍数约 2.2x ARR。信号价值在于：极小的 niche 订阅产品（如 88 键钢琴寻找器/教学等）也能验证付费意愿，且有一级市场可退出。",
+    "topics": ["saas", "micro-saas", "subscription", "marketplace", "trustmrr"],
+    "mrr": 135,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 26,
+    "votes": 0,
+    "has_revenue": true
+  },
+  {
+    "source": "twitter",
+    "market": "en",
+    "name": "Creovio (创作者品牌合作/发票/收款工作台)",
+    "url": "https://x.com/i/communities/1495042358068477955",
+    "description": "Zack (@zackwritescode) 在 Build in Public 公开构建 Creovio——一个为内容创作者管理品牌合作、发票、收款的工作台，让创作者不必在电子表格和 DM 之间来回切换，解决「创作者接商单后繁琐的商业后台事务」。尚在早期公开构建阶段，未披露收入数字（has_revenue=false），但方向切中创作者经济（creator economy）中「接单-开票-收款」的真实痛点。作为无收入信号的早期项目记录，待后续跟踪其变现进展。",
+    "topics": ["saas", "creator economy", "invoicing", "payments", "build in public"],
+    "mrr": 0,
+    "profit": 0,
+    "asking_price": 0,
+    "paying_users": 0,
+    "votes": 0,
+    "has_revenue": false
+  }
+]
