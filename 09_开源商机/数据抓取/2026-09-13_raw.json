@@ -1,0 +1,182 @@
+[
+  {
+    "source": "hackernews",
+    "name": "Open-Sourced Chrome Extension to Save, Organize and Switch Bookmarks",
+    "url": "https://github.com/ringlochid/leotabs",
+    "description": "0 comments · 5 points",
+    "stars": 0,
+    "upvotes": 5,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Fleecevest – The Product Counterpart to Ponytail",
+    "url": "https://github.com/Websites-On-Computers/fleecevest",
+    "description": "1 comments · 3 points",
+    "stars": 0,
+    "upvotes": 3,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Most Penalized HN Stories",
+    "url": "https://news.social-protocols.org/penalties",
+    "description": "0 comments · 4 points",
+    "stars": 0,
+    "upvotes": 4,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "DiskTriage – A simple CLI tool to reclaim space on your Win C drive",
+    "url": "https://github.com/ricardoborges/DiskTriage",
+    "description": "0 comments · 4 points",
+    "stars": 0,
+    "upvotes": 4,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "A Technical Book for the Age of AI",
+    "url": "https://codeberg.org/juurej/p4cu",
+    "description": "0 comments · 3 points",
+    "stars": 0,
+    "upvotes": 3,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Lumae Native macOS screen-demo recorder that agents can edit over MCP",
+    "url": "https://lumae.app",
+    "description": "2 comments · 3 points",
+    "stars": 0,
+    "upvotes": 3,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Everything a web page can learn about you, in plain English",
+    "url": "https://sessioncontext.org",
+    "description": "1 comments · 4 points",
+    "stars": 0,
+    "upvotes": 4,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Practice English Grammar and Pronunciation (Uses Azure Speech)",
+    "url": "https://marksdailyenglish.com/",
+    "description": "1 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "YazSes – offline hold-to-talk voice dictation for Linux, macOS, Windows",
+    "url": "https://github.com/MSKazemi/yazses",
+    "description": "0 comments · 4 points",
+    "stars": 0,
+    "upvotes": 4,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "PDFidelity – Translate PDFs while preserving the original layout",
+    "url": "https://www.pdfidelity.com/",
+    "description": "1 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Open-sourced solution to AI manage Playwright automations",
+    "url": "https://github.com/rakutentech/sorify",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Give Claude Code / Cursor a real eng team (tiers, roles, escalation)",
+    "url": "https://github.com/khuynh22/agent-dev-team",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "No_human – The AI coding factory that you can TRUST",
+    "url": "https://github.com/no-human-ai/no_human",
+    "description": "1 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "What If Donut.c but with Any ASCII Art",
+    "url": "https://asdesai.com/blog/how-fetch-works/",
+    "description": "1 comments · 5 points",
+    "stars": 0,
+    "upvotes": 5,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Sill – a macOS system monitor that lives on your wallpaper",
+    "url": "https://ptthe13.github.io/sill/",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Vibe Logic Programming Language",
+    "url": "https://cosmos-language-lab-0819.asd-user56.chatgpt.site/",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Opentracker, an open source Pivotal Tracker",
+    "url": "https://github.com/usero-feedback/opentracker",
+    "description": "1 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "AgentRuleBench, does AI agents violate inferred architecture rules?",
+    "url": "https://github.com/Tommkruix/agentrulebench",
+    "description": "0 comments · 2 points",
+    "stars": 0,
+    "upvotes": 2,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "An independent directory of AI misalignment reports",
+    "url": "https://misalignment.xyz/",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  },
+  {
+    "source": "hackernews",
+    "name": "Picobble – my daily word puzzle game",
+    "url": "https://picobble.com/",
+    "description": "0 comments · 1 points",
+    "stars": 0,
+    "upvotes": 1,
+    "topics": []
+  }
+]
