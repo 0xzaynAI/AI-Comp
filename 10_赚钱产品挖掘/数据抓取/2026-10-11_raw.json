@@ -1,0 +1,121 @@
+[
+  {
+    "source": "twitter", "market": "en", "name": "Senja (客户见证墙 testimonial)",
+    "url": "https://x.com/helloitsolly/status/2007001939259555943",
+    "description": "Senja 客户见证墙工具，创始人 Olly 公开月报：净增 MRR $2,140，ARR $1.04M。帮 SaaS/创业公司收集展示客户好评提升转化，订阅制，可抄。",
+    "topics": ["saas", "testimonial", "social proof", "marketing"],
+    "mrr": 2140, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "twitter", "market": "en", "name": "Hirevire (招聘视频收集)",
+    "url": "https://x.com/hSanat",
+    "description": "Hirevire 招聘面试视频收集工具，公开 #buildinpublic 数据：MRR $15,103（+10.34% MoM），ARPU $84，LTV $659，累计 $132,407。B2B 订阅制，可抄。",
+    "topics": ["saas", "hiring", "recruiting", "video", "b2b"],
+    "mrr": 15103, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "twitter", "market": "en", "name": "Sebastian Röhl 应用矩阵 (Flutter App)",
+    "url": "https://x.com/SebastianRoehl/status/1751655507343921234",
+    "description": "独立开发者 Sebastian Röhl 的 Flutter App 组合，达到 $5,000 MRR，6,000 活跃订阅用户。多款订阅制 App 矩阵，证明个人 App 可做到 $5K MRR。",
+    "topics": ["mobile app", "flutter", "subscription", "solo"],
+    "mrr": 5000, "profit": 0, "asking_price": 0, "paying_users": 6000, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "twitter", "market": "en", "name": "David Ch 的 SaaS (66天新项目)",
+    "url": "https://x.com/chhddavid/status/1974060071756730864",
+    "description": "David Ch 上线66天的 SaaS：MRR $1,175，59 付费用户，累计 $3,275 销售额，735 邮件订阅。靠 Reddit 真实发帖+build in public 获客，无广告。可抄增长路径。",
+    "topics": ["saas", "indie hacker", "reddit marketing", "buildinpublic"],
+    "mrr": 1175, "profit": 0, "asking_price": 0, "paying_users": 59, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "indiehackers", "market": "en", "name": "Projection Lab (财务规划)",
+    "url": "https://www.indiehackers.com/post/my-side-project-hit-10k-mrr-1152736a51",
+    "description": "Projection Lab 个人财务规划工具，独立开发者业余 2 年多做到 $10K MRR。订阅制，针对理财规划细分需求，已验证付费，可抄。",
+    "topics": ["saas", "finance", "planning", "subscription"],
+    "mrr": 10000, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "indiehackers", "market": "en", "name": "Sheetlytics (表格自动化)",
+    "url": "https://www.iheart.com/podcast/53-the-indie-hacker-podcast-wi-334456085/episode/a-solo-dev-hit-10k-mrr-337211800",
+    "description": "Sheetlytics 单人开发的 SaaS，自动把邮件收据里的数据录入 Google Sheets，解决小企业手工录表痛点。7 个月做到 $12,000 MRR，$19/月定价。B2B 利基，可抄。",
+    "topics": ["saas", "automation", "spreadsheet", "b2b", "small business"],
+    "mrr": 12000, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "indiehackers", "market": "en", "name": "FormBlazer (表单工具)",
+    "url": "https://www.iheart.com/podcast/53-the-indie-hacker-podcast-wi-334456085/episode/a-solo-dev-hit-10k-mrr-337211800",
+    "description": "FormBlazer 表单工具，独立开发者 Sarah Chen 5 个月做到 $10,000 MRR，零广告，靠 Twitter DM 个性化 outreach 获客。表单 SaaS 易抄，增长方式可学。",
+    "topics": ["saas", "form", "outreach", "b2b"],
+    "mrr": 10000, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "other", "market": "en", "name": "Startups.fyi (创业资讯+sponsorship)",
+    "url": "https://www.indiehackers.com/post/my-tiny-startup-just-hit-1k-mrr-solo-founder-0d76084647",
+    "description": "Startups.fyi 创业资讯站，刚达成 $1K MRR，另有每月 $3-5K 赞助收入。资讯+广告+订阅多元变现，单人运营，可抄内容型生意。",
+    "topics": ["newsletter", "content", "sponsorship", "startup"],
+    "mrr": 1000, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "okjike", "market": "zh", "name": "md2card (Markdown转知识卡片)",
+    "url": "https://okjk.co/Obo2Ec",
+    "description": "md2card — 把 Markdown 一键转成小红书/公众号/抖音知识卡片，独立开发者一个周末做出，上线至今月活 1.5 万。中文创作者工具刚需，可抄。",
+    "topics": ["ai", "content", "xiaohongshu", "tool", "creator"],
+    "mrr": 0, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "okjike", "market": "global", "name": "outbid.lol (排名拍卖网站)",
+    "url": "https://okjk.co/7EK3BA",
+    "description": "outbid.lol 排名拍卖网站，2 美元域名成本，发布 48 小时内营收 10 万美元。build in public + 社媒传播 + 短期热点流量快速变现，导流到长期主业。可抄玩法。",
+    "topics": ["digital product", "viral", "side project", "monetization"],
+    "mrr": 0, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "okjike", "market": "zh", "name": "特斯拉涂装设计工具 (月入$250)",
+    "url": "https://okjk.co/Obo2Ec",
+    "description": "一人+AI 做出特斯拉涂装设计工具，月入 $250 美金。垂直到特斯拉车主涂装定制，AI 生成，订阅/买断变现。极度细分利基可抄。",
+    "topics": ["ai", "tesla", "design", "niche"],
+    "mrr": 250, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "v2ex", "market": "zh", "name": "AI 口语陪练 (月入5万)",
+    "url": "https://v2ex.com/t/1053705",
+    "description": "独立开发者做 AI 口语陪练，月入 5 万人民币。AI 语音对话练口语，面向学习人群，订阅制。中文 AI 口语赛道有需求，可抄。",
+    "topics": ["ai", "speaking", "education", "subscription"],
+    "mrr": 50000, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "note", "market": "ja", "name": "iDM (Instagram DM自动返信)",
+    "url": "https://note.com/bubecode/n/nf088749b591b",
+    "description": "iDM — Instagram DM 自动回复聊天机器人工具，个人开发者ぶべ做成，月 25-30 万日元订阅收入，70 付费账户，月投入仅 30 分钟。海外竞品 $99-299/月，iDM 月额数千日元以价取胜。可抄。",
+    "topics": ["saas", "instagram", "automation", "chatbot", "japan"],
+    "mrr": 0, "profit": 0, "asking_price": 0, "paying_users": 70, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "note", "market": "ja", "name": "Inkdrop (Markdown编辑器)",
+    "url": "https://note.com/zaken/n/nb198a56770d2",
+    "description": "Inkdrop — 程序员向 Markdown 笔记桌面 App，个人开发者做成，月 15 万日元课金收入。垂直程序员笔记，订阅制，可抄。",
+    "topics": ["saas", "markdown", "note", "developer", "subscription"],
+    "mrr": 0, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "note", "market": "ja", "name": "Learning Next (编程教材订阅)",
+    "url": "https://note.com/tomada/n/n2b5898ca86d7",
+    "description": "Learning Next — Cursor 做的编程学习订阅 App，发布 1 周约 3 万日元收入，月额 $10-20 订阅。用 Cursor/Claude 成本仅 $20/月开发，SEO 获自然流量，可抄。",
+    "topics": ["ai", "education", "subscription", "cursor"],
+    "mrr": 0, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "note", "market": "ja", "name": "Postiz (开源SNS管理, 月200万円)",
+    "url": "https://note.com/kei_arihata/n/n0058ae609723",
+    "description": "Postiz — 开源社交媒体排期工具，个人开发者从零构建，月收约 200 万日元（约 $13K），目标 300 万日元。开源引流+托管付费，可抄。",
+    "topics": ["saas", "open source", "social media", "scheduler"],
+    "mrr": 13000, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  },
+  {
+    "source": "other", "market": "ja", "name": "Web制作者AIコーディング (月数百万円)",
+    "url": "https://micro-saas.businesshub.trueone.co.jp/page-04-indie-developers.html",
+    "description": "まみそ开发的「Web制作者のためのAIコーディングアシスタント」，面向 Web 制作从业者的 AI 编码助手，月间数百万日元收益。垂直 B 端 AI 工具，可抄。",
+    "topics": ["ai", "coding", "web", "b2b", "japan"],
+    "mrr": 0, "profit": 0, "asking_price": 0, "paying_users": 0, "votes": 0, "has_revenue": true
+  }
+]
